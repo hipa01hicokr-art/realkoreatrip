@@ -4,6 +4,180 @@ Source site: https://realkoreatrip.com/ · Generated 2026-10-22
 
 ---
 
+# eSIM vs SIM Card vs Pocket Wi-Fi in Korea: Which One Should You Get?
+
+URL: https://realkoreatrip.com/esim-sim-card-pocket-wifi-korea/
+Last checked: 2026-10-22
+
+## Quick answer
+
+- Our pick for most visitors: a data eSIM from a Korean carrier, bought before you fly — if your phone supports eSIM, isn't locked to your home carrier and is on the carrier's supported list. SK Telecom, KT and LG U+ each list one day of LTE data at ₩6,500.
+- Need to make calls, or get a text code from a booking app? Check that exact plan before you buy. A Korean number alone isn't enough: KT's data-only eSIM comes with an 010 number that can receive calls and texts after its airport entry check, but outgoing calls and texts need a Data + Voice plan.
+- Family or group that stays together? One pocket Wi-Fi (₩4,400 a day at KT and LG U+) covers several phones. You'll have to return it at the airport.
+
+You'll want data from the moment you land. The train timetable, the address of your guesthouse, the map that tells you which station exit to take — you'll be checking them on your phone. There are four ways to get online in Korea, and the right one mostly depends on two things: whether your phone takes an eSIM, and whether you need a Korean phone number.
+
+![Comparison of eSIM, physical SIM card, pocket Wi-Fi and free public Wi-Fi in Korea, with prices from the carriers' websites checked Oct 22, 2026](/img/esim-compare.png "Four ways to get online in Korea. Details and sources below.")
+
+## The short version
+
+| | Data eSIM | Physical SIM card | Pocket Wi-Fi | Free public Wi-Fi |
+|---|---|---|---|---|
+| What you get | Data on your own phone | Data, or data + a Korean number | A small router your devices connect to | Free Wi-Fi in public places |
+| Price | 1 day ₩6,500 (LTE) | LG U+: same data prices as its eSIM; calls cost extra | ₩4,400 a day | Free |
+| Where to get it | Online, then scan a QR code | Airport roaming centers; some convenience stores | Airport counters (reserve online) | Many airports, stations and public places |
+| Return it? | No | No | **Yes**, at the airport | — |
+| Good for | Solo travelers with an eSIM phone | Phones without eSIM; anyone who needs to make calls | Groups, families, several devices | A backup, not your main connection |
+
+Source: carrier websites — [SK Telecom](https://www.skroaming.com/esim/esim), [KT](https://roaming.kt.com/eng/esim), [LG U+](https://www.lguplus.com/korea-sim/eng/pc/product/esim?tab=data) — and [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140041); checked Oct 22, 2026. Prices shown are the carriers' listed KRW prices; check the current total and any discounts before paying.
+
+## First question: data, calls, or app verification?
+
+If you just need maps, messaging apps and the internet, a data-only plan does the job, and you can buy it online before you leave home.
+
+It gets less simple when you think you need "a Korean number". Having a number, receiving calls, making calls and getting a booking app's text code are separate things, and plans differ on each:
+
+- **KT** gives each of its visitor eSIMs an 010 number. With its data-only eSIM you can receive calls and texts after KT's entry check at the airport, but you can't make calls or send texts.
+- **LG U+** says text verification for restaurant and taxi booking apps works with its Voice/SMS plans, but not with data only.
+- **Calls and texts out** need a Data + Voice plan, switched on after a passport check — LG U+ and KT do this at their airport counters, and KT sells its voice eSIMs at the airport, not online.
+
+So if a particular app matters to you, check that the exact plan supports it before you buy. A local number on its own doesn't mean the code will arrive.
+
+One thing a visitor plan won't do is get you into Korean banking or government services. LG U+ says identity verification for those isn't supported, KT says its eSIM doesn't support personal authentication, and SK Telecom says its 1-day data eSIM can't receive authentication or payment texts.
+
+Source: [LG U+ — SIM card notice](https://www.lguplus.com/korea-sim/eng/pc/product/simcard?tab=data-voice); [KT — eSIM plans](https://roaming.kt.com/eng/esim); [SK Telecom — 1-day data eSIM](https://www.skroaming.com/esim/detail/data-1day); checked Oct 22, 2026.
+
+## What a data eSIM costs
+
+Korea has three major mobile carriers — SK Telecom, KT and LG U+ — and each sells prepaid plans for visitors. Each lists one day of LTE data-only eSIM at ₩6,500. The table compares selected data-only plans; prices for other lengths can differ between carriers.
+
+| Days | KT | LG U+ | SK Telecom |
+|---|---|---|---|
+| 1 day | ₩6,500 | ₩6,500 | ₩6,500 |
+| 2 days | ₩12,000 | ₩12,000 | — |
+| 3 days | ₩18,000 | ₩18,000 | — |
+| 5 days | ₩27,500 | ₩27,500 | — |
+| 7 days | ₩35,000 | ₩35,000 | — |
+| 10 days | ₩38,500 | ₩38,500 | — |
+| 30 days | ₩71,500 | ₩71,500 | — |
+
+On SK Telecom's English eSIM page, the LTE data-only plan we found is the 1-day one; its longer LTE plans come with voice and text (2 days: ₩12,000). A dash means we didn't find a data-only plan of that length, not that the carrier has nothing for your trip. LG U+ shows its longer plans when you tap "more" under the plan lengths.
+
+"Unlimited" means slightly different things. KT gives you 11GB a day at full speed, then up to 5Mbps until it resets at midnight. LG U+ advertises no speed cap, though it says speeds "may be managed" when the network is very busy. SK Telecom's 1-day LTE plan is unlimited at up to 100 Mbps.
+
+Source: [KT — eSIM plans](https://roaming.kt.com/eng/esim); [LG U+ — Korea eSIM](https://www.lguplus.com/korea-sim/eng/pc/product/esim?tab=data); [SK Telecom — eSIM plans](https://www.skroaming.com/esim/esim) and [1-day data eSIM](https://www.skroaming.com/esim/detail/data-1day); checked Oct 22, 2026. Prices shown are the carriers' listed KRW prices. KT and SK Telecom don't accept payment cards issued in Korea on their visitor sites.
+
+## Setting up a Korean eSIM
+
+![Getting a Korean eSIM in four steps: check your phone, buy online, install over Wi-Fi, then switch your data line on arrival](/img/esim-steps.png "eSIM setup in four steps. Details below.")
+
+Before you pay, check three things: your phone supports eSIM, it isn't locked to your home carrier, and your exact model is on the Korean carrier's supported list. The third one catches people out. LG U+, for example, currently says its eSIM isn't supported on Google Pixel, Motorola and OPPO devices, and that service may not be available on some phones bought outside Korea. That's a limit of that carrier's plan, so check the device list of the carrier you're buying from.
+
+LG U+ suggests a quick test: dial `*#06#` — if an EID shows up, your phone supports eSIM. Your home carrier can tell you whether the phone is locked.
+
+After you buy, you get a QR code — SK Telecom, for example, sends it in an eSIM voucher by email. Scan it while you're on Wi-Fi or another connection; SK Telecom and LG U+ both say the eSIM needs internet to install or activate.
+
+Then leave it alone. The carriers are blunt about this: delete the eSIM and it can't be restored, so you'd be buying a new one.
+
+Watch the installation deadline, too. LG U+ says to activate within 60 days of purchase. KT's page gives two different deadlines, and its eSIMs can't be refunded, so ask KT which one applies before you pay.
+
+When you land, pick the Korean line for mobile data. On an iPhone that's **Settings → Cellular → Cellular Data**; on Android the menu names depend on the phone maker. If your plan comes with a number, LG U+ notes that it appears after you arrive in Korea.
+
+Source: [SK Telecom — 1-day data eSIM notes](https://www.skroaming.com/esim/detail/data-1day); [LG U+ — Korea eSIM notice](https://www.lguplus.com/korea-sim/eng/pc/product/esim?tab=data); [KT — eSIM plans](https://roaming.kt.com/eng/esim); [Apple Support](https://support.apple.com/en-us/118227); checked Oct 22, 2026.
+
+> **Local tip:** LG U+ starts counting your days when you first use data, so buying a few days early doesn't eat into your plan. Terms differ by carrier — SK Telecom describes its 1-day plan as 24 hours.
+
+## Buying a physical SIM card
+
+![Arrivals hall of Incheon Airport Terminal 1, seen from the floor above, with travelers and luggage trolleys](/img/photo-icn-t1-arrivals.jpg "Incheon Airport Terminal 1 arrivals hall, 2023. Photo: ノボホショコロトソ (CC BY 4.0), cropped.")
+
+No eSIM support? A physical SIM (often called a USIM in Korea) does the same job. Roaming centers at Incheon, Gimpo, Gimhae and Jeju airports sell prepaid SIMs, and you can also buy online and pick up at the airport.
+
+At Incheon Terminal 1, KT has two counters on the arrivals floor (1F): one near Arrival Hall A, open 06:00–22:00, and one near Arrival Hall F that's open 24 hours. Bring your passport. LG U+ switches on plans with calls after a passport check at its airport counter.
+
+![An Emart24 convenience store with a blue awning on a street in Korea](/img/photo-convenience-store.jpg "An Emart24 store, 2024. Photo: Sgroey (CC BY-SA 4.0), cropped.")
+
+If you skip the airport, VISITKOREA says CU, GS25, 7-Eleven and Emart24 convenience stores sell USIM cards too — but stock varies by branch.
+
+Source: [VISITKOREA — Electricity & Communications](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140041); [LG U+ — Korea SIM Card](https://www.lguplus.com/korea-sim/eng/pc/product/simcard?tab=data-voice); [KT](https://roaming.kt.com/eng/main); checked Oct 22, 2026.
+
+> **Local tip:** When you swap SIMs, tape your home SIM inside your passport cover or put it in a coin pocket. It's tiny, and you'll need it on the way home.
+
+## Renting a pocket Wi-Fi
+
+A pocket Wi-Fi (VISITKOREA calls it a "Wi-Fi egg") is a small battery-powered router. Several phones and laptops can connect at once, which is why families like it. The catch is that it's a rental: you collect it and you return it.
+
+| | KT | LG U+ |
+|---|---|---|
+| Daily rental | ₩4,400 | ₩4,400 |
+| Data | Unlimited at 20Mbps | 4GB a day, then up to 5Mbps |
+| Deposit | Credit card in your name, with more than 3 months left before it expires; **debit cards not accepted** for the deposit | Credit card in your passport name (₩1,111 authorization, not charged) or debit card (₩70,000 deposit, refunded when the device comes back in good condition) |
+| Pick up / return | KT airport roaming centers | Incheon T1, T2, Gimpo or Gimhae airports |
+
+Source: [KT — Wi-Fi router](https://roaming.kt.com/eng/router); [LG U+ — Pocket Wi-Fi](https://www.lguplus.com/korea-sim/eng/pc/product/pocket-wifi?tab=pocket-wifi); checked Oct 22, 2026.
+
+> **Our take:** It's a good deal for a group that moves as one. The day you split up — one person shopping, the rest at a palace — whoever doesn't carry the router is offline. If that sounds like your trip, separate eSIMs are simpler.
+
+## Free public Wi-Fi
+
+![Seoul Station platform on Seoul Subway Line 4, with a yellow Way Out sign overhead](/img/photo-seoul-subway-platform.jpg "Seoul Station, Subway Line 4, 2023. Photo: Mobius6 (CC BY-SA 4.0), cropped.")
+
+VISITKOREA says free Wi-Fi is available in most public places, including airports, subway and train stations and some bus stops. Network names and sign-in steps vary by place. The national Public WiFi service — run with the three carriers in places like community centers, traditional markets and public buses — appears as **"Public WiFi Free"**: pick it, open your browser and tap the button to use the service. At airports and stations, use the network shown on the facility's signs or official website.
+
+The Public WiFi service itself warns users not to handle sensitive personal information or make payments over it.
+
+Source: [Public WiFi (Ministry of Science and ICT / NIA)](https://www.wififree.kr/pu/si/N01.do?language=en); [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140041); checked Oct 22, 2026.
+
+> **Our take:** Treat free Wi-Fi as a backup. You need data most between stations — walking from the exit to your hotel with a map open — and you can't count on a hotspot along the way.
+
+## So which one?
+
+> **Our take:** If your phone takes an eSIM, is on the carrier's supported list and you just need data, buy a data eSIM online before you fly. If you need to make calls, or a specific app has to text you a code, pick a plan that says it supports that and have it switched on at the airport counter with your passport. Phone doesn't support eSIM? A physical SIM works if the phone is unlocked. Phone locked to your home carrier? Ask your carrier about unlocking, or rent a pocket Wi-Fi. A family that sticks together can share one router.
+
+## Before you fly
+
+1. Check that your phone supports eSIM, isn't carrier-locked and is on the Korean carrier's device list.
+2. Decide: data only, or do you need calls or app codes?
+3. Buy and install a data eSIM while you're on Wi-Fi — or reserve a SIM or pocket Wi-Fi for airport pickup.
+4. Look at your home plan's roaming, so your home line doesn't run up charges. Apple suggests checking whether your carrier includes international roaming before you travel.
+5. Install Naver Map — here's [how to use Naver Map in Korea](/how-to-use-naver-map-korea/) — and plan your ride from [Incheon Airport to Seoul](/incheon-airport-to-seoul/).
+
+## FAQ
+
+### How much is an eSIM for Korea?
+
+On the three Korean carriers' own sites, a 1-day LTE data eSIM costs ₩6,500 (checked Oct 22, 2026). KT lists 5 days at ₩27,500 and 30 days at ₩71,500.
+
+### Can I get a Korean phone number as a tourist?
+
+Yes. Some tourist plans include an 010 number — even KT's data-only eSIM, which can receive calls and texts after KT's airport entry check. To make calls or send texts, you need a Data + Voice plan; LG U+ and KT switch these on after a passport check at their airport counters.
+
+### Do I need a Korean number for taxi or restaurant apps?
+
+Not necessarily — a local number on its own isn't enough. LG U+ says app text verification works with its Voice/SMS plans, not with data only. Check that your chosen plan supports the app's verification method. For Korean banking or government identity checks, LG U+ says its plans aren't supported and KT says its eSIM doesn't support personal authentication.
+
+### Is there free Wi-Fi in Korea?
+
+Yes, at many airports, stations and public places. Network names vary; the national Public WiFi service appears as "Public WiFi Free". Avoid making payments on public Wi-Fi.
+
+### Pocket Wi-Fi or eSIM?
+
+A pocket Wi-Fi (₩4,400 a day at KT and LG U+) can be shared by a group but has to be returned at the airport. An eSIM stays on your phone and there's nothing to return.
+
+## Sources
+
+- Korea Tourism Organization (VISITKOREA) — Electricity & Communications (last updated Sep 11, 2026): https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140041
+- LG U+ — Korea eSIM (Data): https://www.lguplus.com/korea-sim/eng/pc/product/esim?tab=data
+- LG U+ — Korea SIM Card (Data + Voice): https://www.lguplus.com/korea-sim/eng/pc/product/simcard?tab=data-voice
+- LG U+ — Pocket Wi-Fi: https://www.lguplus.com/korea-sim/eng/pc/product/pocket-wifi?tab=pocket-wifi
+- SK Telecom — eSIM plans for visitors: https://www.skroaming.com/esim/esim
+- KT — eSIM plans for visitors: https://roaming.kt.com/eng/esim
+- KT — Wi-Fi router rental: https://roaming.kt.com/eng/router
+- Public WiFi (Ministry of Science and ICT / NIA) — Service information: https://www.wififree.kr/pu/si/N01.do?language=en
+- Apple Support — Use eSIM while traveling internationally with your iPhone: https://support.apple.com/en-us/118227
+
+---
+
 # How to Get a T-money Card in Korea (and Top It Up)
 
 URL: https://realkoreatrip.com/how-to-get-t-money-card-korea/
