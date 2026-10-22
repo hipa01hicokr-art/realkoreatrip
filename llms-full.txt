@@ -185,7 +185,7 @@ Last checked: 2026-10-22
 
 - Cheapest: AREX All-stop train with a T-money card — about ₩4,750 (T1) or ₩5,350 (T2) to Seoul Station, around 1 hour.
 - Fastest to Seoul Station: AREX Express — ₩13,000; 43 min between Seoul Station and T1, 51 min to T2. Buy a separate ticket before boarding.
-- With heavy luggage: airport limousine bus (₩16,000–₩17,000 for adults on Airport Limousine's Seoul routes; other operators vary) or a taxi. After midnight, take a night bus (route numbers start with N) or a taxi.
+- With heavy luggage: airport limousine bus (₩16,000–₩17,000 for adults on Airport Limousine's Seoul routes; other operators vary) or a taxi. Arriving late? Night buses (route numbers start with N) and taxis run when trains and regular buses have finished.
 
 ## The short version
 
@@ -226,7 +226,7 @@ Source: [AREX All-stop fares](https://www.airportrailroad.com/train/normal/fare)
 
 ## Option 2: AREX Express train (fastest to Seoul Station)
 
-The Express runs **non-stop between the airport and Seoul Station**. Its route is Seoul Station – T1 – T2.
+The Express connects Seoul Station, Terminal 1 and Terminal 2. It runs **non-stop between Terminal 1 and Seoul Station**; trains from Terminal 2 call at Terminal 1 first.
 
 - **Fare:** ₩13,000 for adults, ₩9,500 for children (ages 6–12).
 - **Time:** 43 minutes between Seoul Station and T1, 51 minutes to T2 (time on the train, not including walking or waiting).
@@ -269,15 +269,15 @@ Source: [Seoul Metropolitan Government](https://english.seoul.go.kr/policy/trans
 - **Tolls are added on top of the meter.**
 - **Late-night surcharge (regular taxis):** +20% from 10 pm to 11 pm, +40% from 11 pm to 2 am, +20% from 2 am to 4 am. Deluxe taxis add 20% from 10 pm to 4 am.
 
-**International Taxi:** International Taxi lists airport-to-Seoul zone fares on its website. Check the current fare for your destination there, and book at least 24 hours ahead; for help on the day, ask at an airport information desk.
+**International Taxi:** International Taxi has fixed zone fares between Incheon Airport and Seoul — ₩70,000–₩95,000 for a sedan and ₩100,000–₩140,000 for an SUV, van or deluxe car, depending on the zone of your destination. Book at least 24 hours ahead; for help on the day, ask at an airport information desk.
 
-Source: [International Taxi](https://www.intltaxi.co.kr), checked Oct 22, 2026.
+Source: [Seoul Metropolitan Government — International taxi section fares](https://english.seoul.go.kr/policy/transportation/modes-of-transport/taxi/) and [International Taxi](https://www.intltaxi.co.kr), checked Oct 22, 2026.
 
 > **Our take:** For a group of three or four with luggage, a taxi is worth pricing out — four adult limousine tickets already cost ₩64,000–₩68,000, and a taxi drops you at your address. With four people and big suitcases, check that the car is large enough. For one or two people, the train or bus is much cheaper.
 
 ## Landing late at night?
 
-Most public transport from the airport into central Seoul stops running at around 11:30 pm. After that:
+Check the last train and regular airport bus for your terminal and destination before you fly — last departures differ by route and terminal. If those services have finished:
 
 - **Night buses** run from the airport to Seoul. Their route numbers start with **"N"** (for example N6000, N6002 and N6701 from T1), and adult fares on these routes are ₩17,000–₩18,000. Buy tickets in advance at the bus ticket counters or machines. Departure times are limited, so check the airport's late-night bus timetable for your terminal before you fly ([T1](https://www.airport.kr/ap_ko/979/subview.do) · [T2](https://www.airport.kr/ap_ko/982/subview.do), Korean).
 - **Taxis** wait at the official stands — remember the late-night surcharge.
@@ -298,7 +298,7 @@ The Express requires a separate ticket bought before boarding. T-money works on 
 
 ### Does the train stop at Gimpo Airport?
 
-Only the All-stop train does. The Express goes straight to Seoul Station.
+Only the All-stop train stops at Gimpo Airport. The Express serves Terminal 2, Terminal 1 and Seoul Station, running non-stop between Terminal 1 and Seoul Station.
 
 ### How do I get between Terminal 1 and Terminal 2?
 
