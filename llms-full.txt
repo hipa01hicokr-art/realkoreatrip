@@ -1,0 +1,331 @@
+# Real Korea Trip — full text of published guides
+
+Source site: https://realkoreatrip.com/ · Generated 2026-10-22
+
+---
+
+# How to Get a T-money Card in Korea (and Top It Up)
+
+URL: https://realkoreatrip.com/how-to-get-t-money-card-korea/
+Last checked: 2026-10-22
+
+## Quick answer
+
+- Buy a T-money card at a convenience store (GS25, CU, 7-Eleven, emart24 and others). Cards cost about ₩3,000–₩5,000 depending on the design — top it up before your first ride.
+- Top it up with Korean won cash at the store counter or at subway station top-up machines.
+- Tap your card when you get on and when you get off the bus, or you lose the transfer discount.
+
+![Three steps to use T-money: buy at a convenience store, top up with Korean won cash, tap in and out on buses](/img/tmoney-steps.png "T-money in three steps. Prices and rules: see the sections below.")
+
+## What is T-money?
+
+T-money is Korea's rechargeable transit card. You load money onto it, tap it on the reader, and the fare comes off the balance. It also works outside Seoul — Busan's subway and buses accept it, for example — and on taxis. Transfer rules differ from city to city.
+
+You don't *have* to use one: you can buy single-journey subway tickets at station machines — with cash, or with an overseas Visa or Mastercard at the newer machines on Lines 1–8 (about 3.7% card fee). But a card is cheaper on the subway, and you need one to get the transfer discount between buses and the subway.
+
+| Seoul fare (adult, as of Oct 2026) | With T-money | Single ticket / cash |
+|---|---|---|
+| Subway, first 10 km | ₩1,550 | ₩1,650 |
+| City bus — trunk (blue) or branch (green) | ₩1,500 | ₩1,500 |
+
+Smaller green **local (village) buses** cost ₩1,200, and red rapid buses ₩3,000.
+
+Source: Seoul Metropolitan Government — [subway fares](https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/) (in effect since June 28, 2025) and [bus fares](https://english.seoul.go.kr/policy/transportation/modes-of-transport/bus/); checked Oct 22, 2026.
+
+Paying a bus fare in cash is getting harder: Seoul listed **183 cash-free bus routes** as of January 2026, so plan to pay buses with a card.
+
+Source: [Seoul — cash-free bus routes](https://news.seoul.go.kr/traffic/archives/508898) (Korean), checked Oct 22, 2026.
+
+## Where to buy a T-money card
+
+The surest place is a **convenience store**. T-money lists GS25, CU, 7-Eleven, emart24, MINISTOP, Story Way and 365PLUS as sellers. Ask at the counter for a "T-money card".
+
+- **Price: about ₩3,000–₩5,000**, depending on the design. Basic cards are ₩3,000 when the store has them.
+- **The price is for the card only.** Top it up before your first ride.
+- **The card price isn't included in balance refunds** — you only get back the money loaded on it.
+
+Source: [T-money — card types and prices](https://pay.tmoney.co.kr/ncs/pct/tmnyintd/ReadTmnyIntd.dev?cardGdKndCd=01), [T-money guide for foreign visitors](https://pay.tmoney.co.kr/ncs/pct/ugd/ReadFrgnGd.dev) and [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663); checked Oct 22, 2026.
+
+The Korea Tourism Organization says information centers in Seoul subway stations on Lines 1–8 also sell cards, but T-money's own guide for visitors lists subway stations as top-up points only. A convenience store is the surest bet.
+
+> **Local tip:** Convenience stores both sell and top up T-money at the counter, so you can buy the card and load it in a single visit before your first ride.
+
+## How to top it up
+
+Top-ups at convenience stores and subway station machines are made with **Korean won cash**. You can top up:
+
+- at any convenience store counter that sells T-money — hand over the card and the cash, and say how much you want to add
+- at the top-up machines and information centers in subway stations
+
+The rules:
+
+- ₩1,000 to ₩90,000 per top-up, in ₩1,000 steps
+- A card can hold up to ₩500,000
+
+Source: [T-money guide for foreign visitors](https://pay.tmoney.co.kr/ncs/pct/ugd/ReadFrgnGd.dev), checked Oct 22, 2026.
+
+> **Our take:** For a typical city trip, ₩20,000–₩30,000 at a time is plenty. Topping up in smaller amounts means less money stuck on the card when you leave.
+
+## How transfers work (and how to save money)
+
+In Seoul, when you switch between the subway and a bus, or between two buses, the trip is charged as one journey instead of a new base fare for each ride (extra distance charges can still apply). To get it:
+
+1. **Tap the card when you get on and when you get off the bus.** In Seoul, tapping off is required for the transfer discount.
+2. Make the transfer **within 30 minutes** of getting off — or **within 60 minutes between 9 pm and 7 am**.
+3. Re-boarding the **same bus route** doesn't count as a transfer.
+4. One trip can include up to **four transfers (five rides)**.
+
+Source: [Seoul Metropolitan Government](https://english.seoul.go.kr/policy/transportation/modes-of-transport/bus/), checked Oct 22, 2026.
+
+## Mistakes to avoid
+
+- **Not tapping off the bus.** Your next ride is then charged as a new trip instead of a discounted transfer.
+- **Tapping your whole wallet.** With several contactless cards together, the reader may not read the right one. Take the T-money card out and tap it on its own.
+- **Loading too much at the end of your trip.** Some refund points charge a fee, and larger balances are hard for visitors to refund (see below).
+
+## Getting your money back before you fly home
+
+![Where to refund a T-money balance: convenience stores for balances up to the store limit with a ₩500 fee, T-money Town for larger balances](/img/tmoney-refund.png "Refund options at a glance. Details and conditions are in the table below.")
+
+You can cash out the money left on the card:
+
+| Where | What you can refund | Fee |
+|---|---|---|
+| A convenience store that sells T-money | Balances up to the store's limit: GS25 under ₩20,000 · 7-Eleven ₩20,000 or less · CU and emart24 ₩30,000 or less | ₩500 |
+| T-money Town (Seoul Station Exit 10, Seoul City Tower 1F) | Also balances above a store's limit — including amounts of ₩50,000 or less | No fee for refunds up to ₩500,000 a month in total; 1% above that |
+
+At T-money Town:
+
+- Refunds of **₩50,000 or more** require an identity check (name, date of birth and contact details).
+- Refunds of **₩100,000 or more** are paid into a **Korean bank account** after 6 pm on the next business day (not weekends or public holidays). Bring ID and a copy of your bankbook for this.
+
+Bank ATM refunds also exist, but they need a Korean bank account in your own name. Check the official refund rules before you go.
+
+If you don't have a Korean bank account, keep your balance low near the end of your trip.
+
+Source: [T-money refund rules](https://pay.tmoney.co.kr/ncs/pct/ugd/ReadNrmlCardRyGd.dev) (Korean), checked Oct 22, 2026.
+
+> **Our take:** Plan your last top-up so only a few thousand won is left when you head to the airport, then use it up on the way. The AREX All-stop train to Incheon Airport accepts T-money (see [Incheon Airport to Seoul](/incheon-airport-to-seoul/) for routes and fares). Airport Limousine also says you can pay with T-money on its buses going **to** the airport (not from the airport, where you buy a ticket first) — other bus operators may differ.
+
+## Using T-money outside Seoul
+
+T-money also works outside Seoul. In **Busan**, it's accepted on the subway and buses, and bus–subway transfers within 30 minutes are discounted. Seoul's transfer rules don't automatically apply elsewhere — check the local rules. Busan's subway fare with a card is ₩1,600–₩1,800 depending on distance (as listed by Busan Transportation Corporation).
+
+Source: [Busan Transportation Corporation](https://www.humetro.busan.kr/homepage/english/page/subLocation.do?menu_no=100601040101), checked Oct 22, 2026.
+
+## Paying for taxis
+
+Taxis in Korea generally accept cash, credit cards and transit cards such as T-money.
+
+Source: [Korea Tourism Organization — Taxis](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140661), checked Oct 22, 2026.
+
+## T-money or a Climate Card pass?
+
+If you'll spend most of your trip in Seoul, Seoul's **Climate Card short-term pass** is the main alternative. It gives unlimited rides for a set number of days:
+
+| Pass | Price |
+|---|---|
+| 1 day | ₩5,000 |
+| 2 days | ₩8,000 |
+| 3 days | ₩10,000 |
+| 5 days | ₩15,000 |
+| 7 days | ₩20,000 |
+
+Source: [Seoul Metropolitan Government — Climate Card](https://english.seoul.go.kr/policy/transportation/climate-card/), checked Oct 22, 2026.
+
+The physical card costs ₩3,000 extra. The pass starts on the day you load it, and a 1-day pass lasts until that day's last bus or subway — not 24 hours. You can pay for these passes with an overseas Visa or Mastercard — since March 17, 2026 also at 440 new ticket machines on Seoul Subway Lines 1–8 (about 3.7% card fee).
+
+What it **doesn't** cover: the Sinbundang Line, subway lines outside Seoul, buses not licensed by Seoul, airport and intercity buses, and taxis. At Incheon Airport you can only **get off** with it — you can't board the AREX train there. Coverage changed on **October 1, 2026** — several Gyeonggi Province sections were removed — so check the [official FAQ](https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short) (Korean) before you buy.
+
+> **Our take:** Do the quick math for your own trip first. One example, with its assumptions spelled out: you **already have a T-money card**, you **don't have a Climate Card yet** (so you pay ₩3,000 for it), and each trip would otherwise cost a basic fare with T-money (₩1,550 subway or ₩1,500 city bus). Then a 3-day pass (₩10,000 + ₩3,000 = ₩13,000) pays off only if you make **9 or more** separate trips in those three days. If you already own a Climate Card, you pay just ₩10,000 and it pays off from **7** trips. If you'd be buying both cards new, or you're also heading to Busan or other cities, the answer changes — run your own numbers.
+
+## FAQ
+
+### Can I use T-money outside Seoul?
+
+Yes — for example, Busan's subway and buses accept it. Note that the AREX Express airport train needs a separate ticket.
+
+### Can I top up T-money with a credit card?
+
+Not for regular T-money top-ups at convenience stores and subway stations — those are made with Korean won cash. Climate Card passes and single-journey subway tickets can be bought with an overseas Visa or Mastercard at the newer machines on Seoul Subway Lines 1–8.
+
+### Can I get the ₩3,000 card price back?
+
+No. Refunds cover only the money left on the card. Convenience stores charge ₩500; T-money Town lists no fee for refunds up to ₩500,000 a month in total (1% above that).
+
+### Need help in English?
+
+Call the **1330 Korea Travel Helpline** (+82-2-1330 from a foreign phone) for help in English and several other languages.
+
+## Sources
+
+- T-money — Guide for foreign visitors (where to buy, top-up, transfers, refunds): https://pay.tmoney.co.kr/ncs/pct/ugd/ReadFrgnGd.dev
+- T-money — Card types and prices: https://pay.tmoney.co.kr/ncs/pct/tmnyintd/ReadTmnyIntd.dev?cardGdKndCd=01
+- T-money — Refund rules (Korean): https://pay.tmoney.co.kr/ncs/pct/ugd/ReadNrmlCardRyGd.dev
+- Seoul Metropolitan Government — Subway fares and transfers: https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/
+- Seoul Metropolitan Government — Bus fares and transfers: https://english.seoul.go.kr/policy/transportation/modes-of-transport/bus/
+- Seoul Metropolitan Government — Climate Card: https://english.seoul.go.kr/policy/transportation/climate-card/
+- Seoul Climate Card FAQ, short-term passes (Korean, updated Oct 2026): https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short
+- Korea Tourism Organization — Transportation cards: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663
+- Korea Tourism Organization — Taxis: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140661
+- Busan Transportation Corporation — Fares: https://www.humetro.busan.kr/homepage/english/page/subLocation.do?menu_no=100601040101
+- Busan Transportation Corporation — Transfers: https://www2.humetro.busan.kr/homepage/english/page/subLocation.do?menu_no=100601040201
+- Seoul Metropolitan Government — International cards for passes and single tickets (Mar 2026): https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/
+- Seoul — Cash-free bus routes (Korean, as of Jan 2026): https://news.seoul.go.kr/traffic/archives/508898
+- Airport Limousine — FAQ on paying by transit card (Korean): https://www.airportlimousine.co.kr/sub/sub03_02.php
+
+---
+
+# Incheon Airport to Seoul: AREX Train vs Airport Bus vs Taxi
+
+URL: https://realkoreatrip.com/incheon-airport-to-seoul/
+Last checked: 2026-10-22
+
+## Quick answer
+
+- Cheapest: AREX All-stop train with a T-money card — about ₩4,750 (T1) or ₩5,350 (T2) to Seoul Station, around 1 hour.
+- Fastest to Seoul Station: AREX Express — ₩13,000; 43 min between Seoul Station and T1, 51 min to T2. Buy a separate ticket before boarding.
+- With heavy luggage: airport limousine bus (₩16,000–₩17,000 for adults on Airport Limousine's Seoul routes; other operators vary) or a taxi. After midnight, take a night bus (route numbers start with N) or a taxi.
+
+## The short version
+
+![Comparison of AREX All-stop train, AREX Express, limousine bus and taxi from Incheon Airport by adult fare, travel time and payment](/img/airport-compare.png "Four ways from Incheon Airport to Seoul at a glance.")
+
+| Option | Adult fare | Time to central Seoul | Best for |
+|---|---|---|---|
+| AREX All-stop train | ₩4,750 (T1) / ₩5,350 (T2) to Seoul Station, by transit card | About 59 min (T1) / 66 min (T2) to Seoul Station | Budget travelers, Hongdae and Mapo area |
+| AREX Express train | ₩13,000 | 43 min (T1) / 51 min (T2) to Seoul Station | Getting to Seoul Station fast |
+| Airport limousine bus | ₩17,000 (direct) / ₩16,000 (via Gimpo Airport), Airport Limousine routes | Depends on route and traffic | Heavy luggage, hotels near a bus stop |
+| Taxi | Metered, plus tolls | Depends on traffic | Groups, families, late arrivals |
+
+Source: [AREX All-stop fares](https://www.airportrailroad.com/train/normal/fare), [AREX Express](https://www.airportrailroad.com/train/express/introduce), [Airport Limousine](https://www.airportlimousine.co.kr/sub/sub02_01.php) and [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140654) — adult fares, checked Oct 22, 2026.
+
+First, check your ticket for **Terminal 1 (T1) or Terminal 2 (T2)**. Train fares and times are different from each terminal. If you need to switch terminals, free shuttle buses connect them — route 03 runs from T2 to T1 every 7–20 minutes (4:30 am–11:35 pm) and route 04 from T1 to T2 every 10–20 minutes (4:30 am–11:20 pm); allow time for waiting as well as the ride. The AREX train takes about 6 minutes (₩1,200 for adults with a transit card).
+
+## Option 1: AREX All-stop train (cheapest)
+
+The All-stop train is a regular commuter train that runs from the airport into Seoul, stopping at stations like **Gimpo Airport, Digital Media City, Hongik Univ. (Hongdae), Gongdeok and Seoul Station**.
+
+- **Pay with T-money** — just tap in at the gate. (If you don't have a card yet, see [how to get a T-money card](/how-to-get-t-money-card-korea/). Single-journey cards cost ₩100 more, plus a ₩500 deposit you get back at your destination.)
+- **Fares from T1 / T2 (adult, transit card):**
+
+| To | From T1 | From T2 |
+|---|---|---|
+| Seoul Station | ₩4,750 | ₩5,350 |
+| Hongik Univ. | ₩4,650 | ₩5,250 |
+| Gongdeok | ₩4,650 | ₩5,250 |
+| Gimpo Airport | ₩4,350 | ₩4,950 |
+
+Source: [AREX All-stop fares](https://www.airportrailroad.com/train/normal/fare), checked Oct 22, 2026.
+
+- **Time:** about 59 minutes between Seoul Station and T1, and 66 minutes to T2 (some trains take 2–6 minutes longer).
+- Check the AREX timetable for the last All-stop train from your terminal to your destination. Some All-stop train times will change from October 23, 2026, alongside the Express service increase.
+- You can transfer to the Seoul subway at stations like Hongik Univ., Gongdeok and Seoul Station.
+
+> **Local tip:** If you're staying around Hongdae or Mapo, the All-stop train gets you there without changing — and it's cheaper than the Express, which only goes to Seoul Station.
+
+## Option 2: AREX Express train (fastest to Seoul Station)
+
+The Express runs **non-stop between the airport and Seoul Station**. Its route is Seoul Station – T1 – T2.
+
+- **Fare:** ₩13,000 for adults, ₩9,500 for children (ages 6–12).
+- **Time:** 43 minutes between Seoul Station and T1, 51 minutes to T2 (time on the train, not including walking or waiting).
+- **You need a separate Express ticket** — buy it before boarding at the Express Train Customer Center (B1 of the Transportation Center at T1 and T2) or online on the AREX website in advance.
+- AREX has announced extra daytime Express services from **October 23, 2026**. Check the [official timetable](https://www.airportrailroad.com/train/express/info) for your travel date, departure terminal and direction before planning around a train.
+
+Source: [AREX Express](https://www.airportrailroad.com/train/express/introduce), checked Oct 22, 2026.
+
+> **Our take:** The Express makes most sense if your hotel is near Seoul Station or you're catching a KTX train from there. For most other neighborhoods, you'll still need to transfer to the subway, so the time saved over the All-stop train is smaller than it looks.
+
+## Option 3: Airport limousine bus
+
+Limousine buses run from the airport to many parts of Seoul. Check the route list for the stop closest to where you're staying.
+
+- **Fare (Airport Limousine's Seoul routes):** adults ₩17,000 on direct routes and ₩16,000 on routes via Gimpo Airport; children (elementary-school age) ₩12,000. Other bus operators' fares may differ.
+- **Buy a ticket before boarding** at the bus ticket counters or ticket machines. Don't count on paying cash or T-money on the bus when leaving the airport.
+- **Going back to the airport?** Airport Limousine says you can pay with cash or T-money on its buses in that direction (not with a regular credit card or a Climate Card). Other operators may differ.
+- **T1 ticket counters:** 1st floor arrivals hall, near the exit gates.
+- **T2 ticket counters:** B1, Transportation Center.
+- Ticket machines run 24 hours.
+- Journey time depends on the route and traffic.
+
+Source: [Airport Limousine — fares](https://www.airportlimousine.co.kr/sub/sub02_01.php), [ticket counters](https://www.airportlimousine.co.kr/sub/sub02_02.php) and [payment FAQ](https://www.airportlimousine.co.kr/sub/sub03_02.php) (Korean), checked Oct 22, 2026.
+
+> **Our take:** If there's a limousine stop near your hotel, the bus saves you from carrying big suitcases through subway transfers. Check the walking distance from the stop to your hotel before you choose it.
+
+## Option 4: Taxi
+
+Use the **official taxi stands** outside the arrivals hall (1st floor at both terminals). The airport warns travelers not to use touts who approach you inside the terminal. There are separate stands for Seoul, Gyeonggi and Incheon taxis — for central Seoul, follow the signs to the **Seoul taxi** stand. The rates below are for Seoul taxis.
+
+**Metered taxis (Seoul rates):**
+
+| Type | Base fare | Then |
+|---|---|---|
+| Regular | ₩4,800 for the first 1.6 km | ₩100 per 131 m — in slow traffic, time is charged too (₩100 per 30 seconds) |
+| Deluxe / SUV / van | ₩7,000 for the first 3 km | ₩200 per 151 m — in slow traffic, ₩200 per 36 seconds |
+
+Source: [Seoul Metropolitan Government](https://english.seoul.go.kr/policy/transportation/modes-of-transport/taxi/) — rates in effect since Feb 1, 2023; checked Oct 22, 2026.
+
+- **Tolls are added on top of the meter.**
+- **Late-night surcharge (regular taxis):** +20% from 10 pm to 11 pm, +40% from 11 pm to 2 am, +20% from 2 am to 4 am. Deluxe taxis add 20% from 10 pm to 4 am.
+
+**International Taxi:** International Taxi lists airport-to-Seoul zone fares on its website. Check the current fare for your destination there, and book at least 24 hours ahead; for help on the day, ask at an airport information desk.
+
+Source: [International Taxi](https://www.intltaxi.co.kr), checked Oct 22, 2026.
+
+> **Our take:** For a group of three or four with luggage, a taxi is worth pricing out — four adult limousine tickets already cost ₩64,000–₩68,000, and a taxi drops you at your address. With four people and big suitcases, check that the car is large enough. For one or two people, the train or bus is much cheaper.
+
+## Landing late at night?
+
+Most public transport from the airport into central Seoul stops running at around 11:30 pm. After that:
+
+- **Night buses** run from the airport to Seoul. Their route numbers start with **"N"** (for example N6000, N6002 and N6701 from T1), and adult fares on these routes are ₩17,000–₩18,000. Buy tickets in advance at the bus ticket counters or machines. Departure times are limited, so check the airport's late-night bus timetable for your terminal before you fly ([T1](https://www.airport.kr/ap_ko/979/subview.do) · [T2](https://www.airport.kr/ap_ko/982/subview.do), Korean).
+- **Taxis** wait at the official stands — remember the late-night surcharge.
+
+Source: [Incheon Airport — late-night buses from T1](https://www.airport.kr/ap_ko/979/subview.do) (Korean) and [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140654), checked Oct 22, 2026.
+
+## Using a Climate Card pass from the airport?
+
+Seoul's **Climate Card short-term pass** (unlimited Seoul subway and bus rides) lets you **get off** at the Incheon Airport T1 and T2 stations, but you **can't board** the train there with it. This has been the rule since September 13, 2024, and Seoul restated it in its October 1, 2026 coverage update. So you can use it on your way *to* the airport, but not for your first ride into Seoul — pay for that ride with T-money or a ticket.
+
+Source: [Seoul Metropolitan Government — Climate Card](https://english.seoul.go.kr/policy/transportation/climate-card/) and [Climate Card FAQ](https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short) (Korean, updated Oct 1, 2026), checked Oct 22, 2026.
+
+## FAQ
+
+### Can I use T-money on the AREX Express?
+
+The Express requires a separate ticket bought before boarding. T-money works on the All-stop train.
+
+### Does the train stop at Gimpo Airport?
+
+Only the All-stop train does. The Express goes straight to Seoul Station.
+
+### How do I get between Terminal 1 and Terminal 2?
+
+Take the free terminal shuttle bus (route 03 from T2 to T1, every 7–20 minutes, 4:30 am–11:35 pm; route 04 from T1 to T2, every 10–20 minutes, 4:30 am–11:20 pm), or the AREX train (about 6 minutes; ₩1,200 for adults with a transit card, ₩1,300 with a single-journey card, plus a ₩500 deposit you get back).
+
+### I'm stuck — who can help in English?
+
+Call the **1330 Korea Travel Helpline** (+82-2-1330 from a foreign phone) for help in English and several other languages, or ask at the airport information desks in the arrivals hall.
+
+## Sources
+
+- AREX — Express train fares and booking: https://www.airportrailroad.com/train/express/introduce
+- AREX — All-stop train fares: https://www.airportrailroad.com/train/normal/fare
+- AREX — Express timetable: https://www.airportrailroad.com/train/express/info
+- AREX — Notice of timetable change from Oct 23, 2026 (Korean): https://www.arex.or.kr/contentView.do?menuNo=MN202602270000000001&contentNo=CT202610210000000001&etcNo=
+- Incheon International Airport — Train: https://www.airport.kr/ap_en/1512/subview.do
+- Incheon International Airport — Bus: https://www.airport.kr/ap_en/1502/subview.do
+- Incheon International Airport — Late-night buses to Seoul from T1 (Korean): https://www.airport.kr/ap_ko/979/subview.do
+- Incheon International Airport — Late-night buses to Seoul from T2 (Korean): https://www.airport.kr/ap_ko/982/subview.do
+- Incheon International Airport — Taxi: https://www.airport.kr/ap_en/1515/subview.do
+- Incheon International Airport — Moving between terminals: https://www.airport.kr/ap_en/1525/subview.do
+- Airport Limousine — Fares: https://www.airportlimousine.co.kr/sub/sub02_01.php
+- Airport Limousine — Ticket counters: https://www.airportlimousine.co.kr/sub/sub02_02.php
+- Airport Limousine — FAQ on paying by transit card (Korean): https://www.airportlimousine.co.kr/sub/sub03_02.php
+- Incheon International Airport — Shuttle route 03 (T2 to T1): https://www.airport.kr/ap_en/1518/subview.do
+- Incheon International Airport — Shuttle route 04 (T1 to T2): https://www.airport.kr/ap_en/6605/subview.do
+- Seoul Metropolitan Government — Taxi fares: https://english.seoul.go.kr/policy/transportation/modes-of-transport/taxi/
+- International Taxi: https://www.intltaxi.co.kr
+- Seoul Climate Card FAQ, short-term passes (Korean, updated Oct 2026): https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short
+- Korea Tourism Organization — Incheon Airport transportation: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140654
