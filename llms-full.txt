@@ -15,7 +15,7 @@ Last checked: 2026-10-22
 - Need to make calls, or get a text code from a booking app? Check that exact plan before you buy. A Korean number alone isn't enough: KT's data-only eSIM comes with an 010 number that can receive calls and texts after its airport entry check, but outgoing calls and texts need a Data + Voice plan.
 - Family or group that stays together? One pocket Wi-Fi (₩4,400 a day at KT and LG U+) covers several phones. You'll have to return it at the airport.
 
-You'll want data from the moment you land. The train timetable, the address of your guesthouse, the map that tells you which station exit to take — you'll be checking them on your phone. There are four ways to get online in Korea, and the right one mostly depends on two things: whether your phone takes an eSIM, and whether you need a Korean phone number.
+You'll want data from the moment you land. The train timetable, the address of your guesthouse, the map that tells you which station exit to take — you'll be checking them on your phone. There are four ways to get online in Korea, and the right one mostly depends on three things: whether your phone works with the plan you want, whether you need to make calls or get app codes, and whether your group will stay together.
 
 ![Comparison of eSIM, physical SIM card, pocket Wi-Fi and free public Wi-Fi in Korea, with prices from the carriers' websites checked Oct 22, 2026](/img/esim-compare.png "Four ways to get online in Korea. Details and sources below.")
 
