@@ -321,6 +321,296 @@ Children aged 17 and under on the date of entry are on the official list of peop
 
 ---
 
+# Korea First-Timer Checklist: What to Sort Before You Fly
+
+URL: https://realkoreatrip.com/korea-first-time-checklist/
+Last checked: 2026-10-23
+
+## Quick answer
+
+- Check your entry permission first. Visa-free visitors normally need a K-ETA, but 22 countries and regions are temporarily exempt until December 31, 2026 (Korea time).
+- Then see whether you need an e-Arrival Card. It's free and can be submitted within 3 days before you arrive; the official site has a quick checker.
+- Pack for 220-volt sockets with two round holes, and declare food or more than US$10,000 in cash at customs.
+
+Small practical problems can trip up a first trip to Korea: a phone with no data at the arrivals gate, a charger that won't fit the wall, a top-up machine that only takes cash. None of it is hard to fix once you're there, but it's easier to sort at home. This list runs roughly in the order you'll need things, from before you book your flight to your first night in Korea.
+
+![Graphic: Korea first-timer checklist — entry, arrival card, packing, phone and money, emergency numbers](/img/checklist-steps.png?v=b7365dff "The checklist at a glance. Details and sources below.")
+
+## The short version
+
+| When | What to sort |
+|---|---|
+| Before you book | Visa, K-ETA, or the temporary K-ETA exemption |
+| 3 days before you land | The e-Arrival Card, if you need one (free) |
+| A week before you land | Q-CODE or a health questionnaire, if your recent travel requires it |
+| When you pack | An adapter for 220-volt, two-round-hole sockets; nothing you'd have to declare by accident |
+| Before you leave home | Phone data, a card that works abroad, some won, and your route from the airport |
+| Save in your phone | 112, 119 and 1330 |
+
+Source: [e-Arrival Card](https://www.e-arrivalcard.go.kr/portal/main/index.do?locale=EN), [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140769) and [Korea Customs Service](https://www.customs.go.kr/english/cm/cntnts/cntntsView.do?mi=8069&cntntsId=2743); checked Oct 23, 2026.
+
+## 1. Entry permission: visa, K-ETA or neither
+
+Start here, because it decides everything else. If your passport lets you enter Korea without a visa, you normally need a K-ETA (an online travel authorization) before you board. Right now, though, 22 countries and regions are temporarily exempt until December 31, 2026 (Korea time), including the US, Canada, the UK, Japan and Australia. Visa-free travelers who are not covered by a K-ETA exemption need approval before boarding. Check both your nationality and personal exemptions, including those for travelers aged 17 or under and 65 or over on the date of entry. If you are not eligible for visa-free entry, check the visa requirements for your trip.
+
+Our [K-ETA guide](/k-eta-korea/) has the full exempt list, the fee and how to avoid fake application sites.
+
+Source: [Korea Tourism Organization — visa & travel requirements](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140769) (updated Sep 18, 2026) and [K-ETA FAQ](https://www.k-eta.go.kr/portal/board/viewboardlist.do?tmpltNm=faq2); checked Oct 23, 2026.
+
+## 2. The e-Arrival Card
+
+This is the one people forget. Korea's arrival card is now an online form, and whether you need it depends on what you're entering with — not just your nationality. Travelers entering on a Korean visa need one, and so do travelers using the temporary K-ETA exemption, unless another exemption applies (a valid Korean residence card, for example). If you enter on a valid K-ETA, you don't. And if you hold both a K-ETA and a visa but enter on the visa, you do.
+
+If that sounds like a puzzle, the official site has a checker: tick what you'll hold on arrival (visa, K-ETA, residence card or none) and it tells you. The service is free, and you can submit within 3 days before you arrive. Have your passport, your flight details and where you're staying ready, plus an email address.
+
+Source: [e-Arrival Card — official site](https://www.e-arrivalcard.go.kr/portal/main/index.do?locale=EN) and [who needs to submit](https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do); checked Oct 23, 2026.
+
+> **Local tip:** Use the official site, e-arrivalcard.go.kr, and nothing that asks for a fee. Its notice board has also posted about delayed emails to Gmail and QQ.com addresses, so if a confirmation doesn't arrive, check that notice before you resubmit.
+
+## 3. Q-CODE, if it applies to you
+
+Q-CODE is Korea's online quarantine declaration. Whether you need to declare depends on where you stayed or transited. Korea's disease control agency (KDCA) splits this in two: all travelers who stayed in or transited through an intensive quarantine management area must declare, while for other quarantine management areas the requirement applies to travelers with relevant symptoms. If you need to declare, you can register in Q-CODE in advance or submit a Health Questionnaire. Q-CODE registration opens seven days before you arrive; if you finish it before boarding, you just show the QR code at quarantine screening.
+
+The lists of areas change, so check KDCA's current guidance for the places on your route rather than relying on an old forum post.
+
+Source: [KDCA — quarantine guide](https://travelhealth.kdca.go.kr/travel/www/QRNTN_INFO/QRNTN_INFO_MAIN.jsp) (Korean) and [Korea Tourism Organization — visa & travel requirements](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140769); checked Oct 23, 2026.
+
+## 4. Packing: plugs and customs
+
+![A white double wall socket with two round holes](/img/photo-korea-wall-socket.jpg?v=d8e4e758 "A double wall socket with two round holes. Photo: Melsj (CC BY-SA 4.0), cropped.")
+
+Korean sockets have two round holes, and the standard supply is 220 volts at 60 hertz. If your plugs have flat pins, pack an adapter. Forgot one? The Korea Tourism Organization says you can ask your hotel's front desk to lend or sell you one, and you'll also find them at the airport, duty-free shops and convenience stores.
+
+Customs is mostly about two things visitors carry without thinking. Food is one: meat, fruit, vegetables and other food products are on the list of goods to declare. But declaring something doesn't make it allowed in. Some products are banned outright (the Korea Tourism Organization's quarantine guide lists all fresh fruits and vegetables, for example), and animal products need a quarantine certificate from the exporting country and an inspection on arrival. Check the official animal and plant quarantine rules before you pack, and declare anything you're unsure about. Cash is the other: more than US$10,000 in cash or other means of payment has to be declared. The duty-free allowance for goods is US$800 in total, with separate rules for alcohol, tobacco and perfume.
+
+If you take prescription medicine, check the customs guide first: some medicines are on the declaration list.
+
+Source: [Korea Tourism Organization — electricity & communications](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140041) (updated Sep 11, 2026) and [animal and plant quarantine](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140629) (updated Sep 28, 2026), and [Korea Customs Service — customs clearance guide for passengers](https://www.customs.go.kr/english/cm/cntnts/cntntsView.do?mi=8069&cntntsId=2743); checked Oct 23, 2026.
+
+> **Local tip:** Look at the input rating printed on each charger before you go. An adapter only changes the shape of the plug, not the voltage.
+
+## 5. Phone, data and maps
+
+You'll want data from the moment you leave the plane: to find the train, to message your hotel, and to walk the last few hundred meters from a subway exit. Decide before you fly whether you'll use an eSIM, a Korean SIM card or a pocket Wi-Fi router. Our [eSIM, SIM card and pocket Wi-Fi guide](/esim-sim-card-pocket-wifi-korea/) compares them.
+
+Install your map app at home, too. When we tested the Google Maps website on a Seoul route (Oct 22, 2026), it gave transit directions but no walking or driving routes, which is why our [Naver Map guide](/how-to-use-naver-map-korea/) exists.
+
+## 6. Money and the transit card
+
+A foreign card works in most hotels, shops and taxis, but not everywhere — and topping up a regular T-money transit card takes Korean won cash. Bring a card that works abroad and plan to get some won early. Our guides cover [paying in Korea](/paying-in-korea-foreign-cards-cash/) and [getting a T-money card](/how-to-get-t-money-card-korea/).
+
+## 7. Your first ride and your longer trips
+
+![Travelers collecting luggage at the baggage claim in Incheon Airport Terminal 2](/img/photo-icn-t2-baggage-claim.jpg?v=6748e64b "Baggage claim, Incheon Airport Terminal 2, 2024. Photo: AirportTerminalGuy (CC BY 4.0), cropped.")
+
+Know how you'll get from the airport before you're standing at baggage claim with a dead phone. Our [Incheon Airport to Seoul guide](/incheon-airport-to-seoul/) compares the airport railroad, buses and taxis.
+
+If you're planning Busan, Gyeongju or another city by KTX, note when tickets go on sale: the normal booking window opens two months ahead, and holiday trains follow their own schedule. [How to book KTX tickets](/how-to-book-ktx-korea/) walks through it.
+
+## 8. Numbers to save before you go
+
+In an emergency, call 112 for the police or 119 for fire and ambulance. If you don't speak Korean, say "English please" or "Interpreter please" when the call connects, and an interpreter will be brought in. The government's Baro Emergency Reporting App is another way to report.
+
+For anything that isn't an emergency (lost, confused, a problem with a shop or taxi), the Korea Travel Helpline is 1330 from a Korean phone, or +82-2-1330 from overseas. It also runs a real-time chat, and its online voice call is free over Wi-Fi.
+
+Source: [Korea Tourism Organization — disaster safety services](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248145) and [1330 Travel Helpline](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632); checked Oct 23, 2026.
+
+> **Our take:** Save 1330 under a name you'll recognize. Besides travel information, it handles interpretation and tourist complaints.
+
+## The checklist
+
+1. Check whether you need a visa, a K-ETA, or neither — [K-ETA guide](/k-eta-korea/).
+2. Run the e-Arrival Card checker; if you need one, submit it within 3 days before you land.
+3. Check KDCA's current quarantine areas and symptom rules; submit Q-CODE or a Health Questionnaire if required.
+4. Pack an adapter for two-round-hole sockets; check your chargers' voltage.
+5. Check the quarantine rules before packing food (fresh fruit and vegetables are banned); declare food and cash over US$10,000.
+6. Sort phone data — [eSIM, SIM or pocket Wi-Fi](/esim-sim-card-pocket-wifi-korea/).
+7. Install [Naver Map](/how-to-use-naver-map-korea/).
+8. Bring a card that works abroad and plan for some won — [paying in Korea](/paying-in-korea-foreign-cards-cash/).
+9. Plan your [airport route](/incheon-airport-to-seoul/) and any [KTX trips](/how-to-book-ktx-korea/).
+10. Save 112, 119 and 1330 in your phone.
+
+## FAQ
+
+### Do I need an arrival card for Korea?
+
+It depends on what you enter with. Travelers entering on a Korean visa, and travelers using the temporary K-ETA exemption, generally need the e-Arrival Card; travelers entering on a valid K-ETA don't. Some other exemptions, such as a valid Korean residence card, also apply. The official e-Arrival Card site has a free checker.
+
+### When can I submit the e-Arrival Card?
+
+The official site says to complete and submit it within 3 days before you arrive in Korea. There's no fee.
+
+### What plug does Korea use?
+
+Korean sockets have two round holes, and the supply is 220 volts at 60 hertz, according to the Korea Tourism Organization.
+
+### Can I bring food into Korea?
+
+Food products, including meat, fruit and vegetables, are on Korea Customs Service's list of goods you must declare, but declaring them doesn't make them admissible. Some, such as all fresh fruits and vegetables, are banned, and animal products need a quarantine certificate from the exporting country and an inspection. Check the official quarantine rules before packing.
+
+### What number do I call for help in Korea?
+
+112 for police and 119 for fire and ambulance in an emergency. For travel help, call the Korea Travel Helpline on 1330 in Korea or +82-2-1330 from overseas.
+
+## Sources
+
+- Ministry of Justice — e-Arrival Card (official site): https://www.e-arrivalcard.go.kr/portal/main/index.do?locale=EN
+- Ministry of Justice — e-Arrival Card, who needs to submit: https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do
+- Korea Tourism Organization — Visa & travel requirements (K-ETA, Q-Code): https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140769
+- Korea Tourism Organization — Electricity & communications: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140041
+- Korea Customs Service — Customs clearance guide for passengers: https://www.customs.go.kr/english/cm/cntnts/cntntsView.do?mi=8069&cntntsId=2743
+- Korea Disease Control and Prevention Agency — Quarantine guide (Korean): https://travelhealth.kdca.go.kr/travel/www/QRNTN_INFO/QRNTN_INFO_MAIN.jsp
+- Korea Tourism Organization — Animal and plant quarantine: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140629
+- Korea Tourism Organization — Disaster safety services for international visitors: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248145
+- Korea Tourism Organization — 1330 Travel Helpline: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632
+
+---
+
+# Tax Refund in Korea: How Visitors Get Money Back on Shopping
+
+URL: https://realkoreatrip.com/korea-tax-refund-guide/
+Last checked: 2026-10-23
+
+## Quick answer
+
+- Foreign visitors staying in Korea for less than 6 months can claim back VAT on goods bought at stores that show a Tax Refund sign, for purchases of ₩15,000 or more in a single transaction.
+- Instant refunds at the till work for purchases under ₩1,000,000 each, up to ₩5,000,000 in total per trip — just show your passport.
+- For other refunds, finish export clearance before you send your bags off: scan your passport at the airport refund kiosk, and if it asks for a customs inspection, show the unopened goods. No customs confirmation, no refund.
+
+Prices in Korean shops include value-added tax, and as a visitor you can get part of it back. The rules aren't complicated, but the one step people miss, getting their purchases cleared for export at the airport before they check their bags, is the one that costs them the refund. Here's how it works, from the till to the departure gate.
+
+![Graphic: Korea tax refund at a glance — who qualifies, the ₩15,000 minimum, instant refund limits and the customs step](/img/taxrefund-steps.png?v=756d2ac5 "Tax refund in Korea at a glance. Details and sources below.")
+
+## The short version
+
+| | What the rules say |
+|---|---|
+| Who | Foreign visitors staying in Korea for less than 6 months (and some overseas Koreans) |
+| Where | Stores showing a "Tax Refund" sign with a refund company's logo |
+| Minimum | ₩15,000 in a single transaction |
+| Instant refund in store | Under ₩1,000,000 per purchase, up to ₩5,000,000 in total after you arrive |
+| Take it out of Korea | Within 3 months of buying |
+| How much back | Roughly 5–8% of the price, after fees |
+
+Source: [Korea Tourism Organization — comprehensive tax refund guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248765) and the [Presidential Decree](https://www.law.go.kr/법령/외국인관광객등에대한부가가치세및개별소비세특례규정) and [enforcement rules](https://www.law.go.kr/법령/외국인관광객등에대한부가가치세및개별소비세특례규정시행규칙) in force from Jan 2, 2026 (Korean); checked Oct 23, 2026.
+
+## Who can claim
+
+Foreign visitors staying in Korea for less than 6 months generally qualify, as do overseas Koreans who have lived abroad for at least 2 years and are staying in Korea for 3 months or less. You can't claim if you're staying 6 months or longer, work in Korea, or are a diplomat or US military personnel stationed in Korea. Purchases made under a company name or through someone else don't count either.
+
+Source: [Korea Tourism Organization — comprehensive tax refund guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248765); checked Oct 23, 2026.
+
+## What you can claim on
+
+Most goods qualify: clothes, shoes, bags, cosmetics, perfume, electronics, ginseng. A few things don't. Cooked food and services such as massages are out, because customs can't inspect them when you leave. So are items you've opened or used before taking them out of Korea, anything bought duty-free, and goods that are banned anyway.
+
+Two practical rules matter more than the list. First, only stores that offer tax refunds count, and they show a "Tax Refund" sign with the refund company's logo. Second, an ordinary receipt isn't enough: ask for the tax refund documents when you pay, and keep them until you leave.
+
+Source: [Korea Tourism Organization — comprehensive tax refund guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248765); checked Oct 23, 2026.
+
+> **Local tip:** Keep tax-free purchases sealed until you're home. Items opened or used before you take them out of Korea aren't eligible, so leave the packaging sealed.
+
+## Instant refund: the easy way
+
+At stores that offer it, you show your passport and pay the price with the tax already taken off. In the official guide, the steps for an instant refund end there: check eligibility with your passport, pay the lower price, then leave Korea as normal. The limits are set in law: each purchase must be under ₩1,000,000, and your instant-refund purchases since arriving can't exceed ₩5,000,000 in total. The store can deduct an approved processing fee from the tax amount.
+
+Source: [Korea Tourism Organization — comprehensive tax refund guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248765) and the [Presidential Decree](https://www.law.go.kr/법령/외국인관광객등에대한부가가치세및개별소비세특례규정) (Korean); checked Oct 23, 2026.
+
+## General refund: pay now, claim later
+
+Everything else works the other way round. You pay the full price, take the refund voucher, and claim the money later in one of four ways:
+
+- **Downtown:** at a staffed refund center or an unmanned kiosk in the city, for single purchases of ₩6,000,000 or less. Bring your passport, the voucher and a credit card. You still have to get the customs check when you leave.
+- **At the airport:** through the refund kiosk and, if needed, the customs check, then at a refund counter or kiosk.
+- **By mailbox:** at ports without a refund counter, drop the customs-confirmed voucher in the mailbox, with your details and refund method written on it.
+- **By mobile:** submit the customs-confirmed voucher through the refund company's app or website.
+
+Source: [Korea Tourism Organization — comprehensive tax refund guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248765); checked Oct 23, 2026.
+
+## At the airport: the order that matters
+
+![The departure hall of Incheon Airport Terminal 2, with self bag-drop machines and check-in counters](/img/photo-icn-t2-departures.jpg?v=e4143de1 "Departure hall, Incheon Airport Terminal 2, 2024. Photo: AirportTerminalGuy (CC BY 4.0), cropped.")
+
+For general refunds, the goods need export clearance before they leave with you, and customs may ask to inspect them. Incheon Airport describes the order like this:
+
+1. Check in. The airport advises carrying refund-eligible items and their documents with you rather than checking them.
+2. If they are in a checked bag, tell the airline staff at check-in. The bag is tagged for customs inspection and you take it back.
+3. Scan your passport at the refund kiosk in the departure hall. If the kiosk says your items need a customs inspection, show your passport, the unopened and unused goods and the purchase confirmation at the customs desk.
+4. A checked bag that customs has cleared goes onto the oversized baggage belt next to the customs desk.
+5. After security and immigration, collect the refund at the refund counter or kiosk in the duty-free area, or use the mailbox or mobile option.
+
+Customs confirmation is described as an essential requirement: without it, there's no refund. If you miss it, the Korea Tourism Organization says you can still claim on a later trip, if you bring the goods and the voucher back within the voucher's validity period and get the customs check when you leave Korea again.
+
+Incheon Airport lists these refund counters, both in the 3rd-floor duty-free area (after security and immigration):
+
+| | Refund counter | Counter hours | Refund kiosk |
+|---|---|---|---|
+| Terminal 1 | Near Gate 28 | 07:00–22:00 | 24 hours, near Gate 28 |
+| Terminal 2 | Near Gate 253, across from Gate 250 | 07:00–21:30 | 24 hours, same area |
+
+The airport says its information is for reference only, so allow extra time and follow the signs on the day.
+
+Source: [Incheon International Airport — domestic tax refund](https://www.airport.kr/ap_en/1425/subview.do) and [Korea Tourism Organization — comprehensive tax refund guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248765) (FAQ); checked Oct 23, 2026.
+
+## How much you actually get back
+
+Don't expect the full 10% VAT. The Korea Tourism Organization puts the refund at roughly 5–8% of the purchase price after the refund company's processing fee, depending on the price, the company and how you're paid. Taking the refund on a credit card or by mobile payment adds a separate fee, so taking cash at the counter avoids that extra fee. On a ₩100,000 purchase, 5–8% works out to about ₩5,000–₩8,000.
+
+Source: [Korea Tourism Organization — comprehensive tax refund guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248765) (FAQ); checked Oct 23, 2026.
+
+> **Our take:** Where a store offers it, the instant refund is usually simpler, because the tax comes off when you pay. Check the net price and any processing fee, keep your purchase records, take the goods out within the required period, and follow any customs instructions. Use the general refund when an instant refund isn't available or a purchase is over the limits.
+
+## Duty-free or tax refund?
+
+They're different systems. Duty-free shops at airports and in the city sell goods without customs duty or consumption taxes. Tax refund stores sell at normal prices and give back the VAT and individual consumption tax afterwards. For general refunds there's no overall spending limit, just the ₩15,000 minimum per purchase; instant refunds have the limits above. Either way, when you take purchases to another country, that country's import and duty-free rules apply. Korea's US$800 traveler allowance is for goods brought into Korea, not a universal allowance for taking purchases home.
+
+Source: [Korea Tourism Organization — comprehensive tax refund guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248765) (FAQ) and [Korea Customs Service — customs clearance guide for passengers](https://www.customs.go.kr/english/cm/cntnts/cntntsView.do?mi=8069&cntntsId=2743); checked Oct 23, 2026.
+
+## Before you shop, and before you fly
+
+1. Carry your passport when you shop.
+2. Look for the "Tax Refund" sign, and spend ₩15,000 or more in one transaction.
+3. Ask for the tax refund documents, not just a receipt.
+4. Keep tax-free goods unopened and unused.
+5. At the airport, finish the refund kiosk and any customs inspection before your goods leave your hands.
+6. Take the goods out of Korea within 3 months of buying them.
+
+For the rest of your trip planning, see our [first-timer checklist](/korea-first-time-checklist/) and [paying in Korea](/paying-in-korea-foreign-cards-cash/).
+
+Source: [Korea Tourism Organization — comprehensive tax refund guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248765) and [Incheon International Airport — domestic tax refund](https://www.airport.kr/ap_en/1425/subview.do); checked Oct 23, 2026.
+
+## FAQ
+
+### What is the minimum purchase for a tax refund in Korea?
+
+₩15,000 in a single transaction at a tax refund store. The amount is set in Korea's enforcement rules, in force from Jan 2, 2026.
+
+### What are the limits for an instant tax refund?
+
+Each purchase must be under ₩1,000,000, and your instant-refund purchases since arriving in Korea can total up to ₩5,000,000.
+
+### Do I need to show my purchases at the airport?
+
+For general refunds, keep the goods with you until export clearance is done. At Incheon you scan your passport at the refund kiosk; if it asks for a customs inspection, show your passport, the unopened goods and the purchase confirmation at the customs desk. For instant refunds, follow any customs instructions you are given.
+
+### Can I get a tax refund with my receipt?
+
+No. You need the tax refund documents that the store issues with your purchase.
+
+### How much VAT do I get back in Korea?
+
+About 5–8% of the purchase price after processing fees, according to the Korea Tourism Organization. A refund to a card or by mobile payment carries an extra fee.
+
+## Sources
+
+- Korea Tourism Organization — Comprehensive tax refund guide: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248765
+- Korean law — Special rules on VAT and individual consumption tax for foreign tourists (Presidential Decree, in force Jan 2, 2026; Korean): https://www.law.go.kr/법령/외국인관광객등에대한부가가치세및개별소비세특례규정
+- Korean law — Enforcement rules of the special rules (in force Jan 2, 2026; Korean): https://www.law.go.kr/법령/외국인관광객등에대한부가가치세및개별소비세특례규정시행규칙
+- Incheon International Airport — Domestic tax refund: https://www.airport.kr/ap_en/1425/subview.do
+- Korea Customs Service — Customs clearance guide for passengers: https://www.customs.go.kr/english/cm/cntnts/cntntsView.do?mi=8069&cntntsId=2743
+
+---
+
 # Paying in Korea: Foreign Cards, Cash and What Still Needs Won
 
 URL: https://realkoreatrip.com/paying-in-korea-foreign-cards-cash/
@@ -450,6 +740,120 @@ Usually. VISITKOREA says taxi passengers can pay with cash, a credit card or a t
 - NAVER Help — Restricted pages for Npay Korea Members: https://help.naver.com/service/11713/contents/24269?lang=en&osType=COMMONOS
 - Seoul Metropolitan Government — Climate Card (30-day) end of service FAQ (Korean): https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-stop
 - WOWPASS — App Store listing (Orange Square, Inc): https://apps.apple.com/us/app/wowpass-go-cashless-in-korea/id1626691440
+
+---
+
+# Seoul Subway Guide for First-Timers: Fares, Tickets and Transfers
+
+URL: https://realkoreatrip.com/seoul-subway-guide/
+Last checked: 2026-10-23
+
+## Quick answer
+
+- Standard adult fares start at ₩1,550 with a transit card (T-money) or ₩1,650 with a single-journey ticket for the first 10 km. Distance charges are ₩100 per 5 km up to 50 km, then ₩100 per 8 km; some lines add separate fares.
+- Tap your card when you enter and when you leave. Skip the tap on the way out and you lose the transfer discount on your next bus or train.
+- Single-journey tickets add a ₩500 deposit that you get back from a refund machine at your destination.
+
+The Seoul subway is the easiest part of a first trip to Korea, once you know three things: what to pay with, that you tap out as well as in, and that a transfer to a bus can be discounted. Station signs include English, and the lines are numbered and color-coded. What catches visitors out is the fare system, so that's most of this guide.
+
+![Graphic: Seoul subway in 4 steps — get a card or ticket, tap in, tap out, transfer if eligible](/img/subway-steps.png?v=ba9db5a8 "The Seoul subway in four steps. Details and sources below.")
+
+## The short version
+
+| | Adult fare | Good to know |
+|---|---|---|
+| T-money (transit card) | ₩1,550 for the first 10 km | Top up with won cash; transfer discounts with buses |
+| Single-journey ticket | ₩1,650 for the first 10 km | Plus a ₩500 deposit, refunded at your destination |
+| Climate Card short-term pass | ₩5,000 (1 day) to ₩20,000 (7 days) | Unlimited rides in its coverage area; card costs ₩3,000 |
+| Children aged 6–12 | ₩550 | T-money must be registered with the child's date of birth; under 6 free with a guardian (up to 3 children) |
+
+Longer trips add ₩100 for every 5 km between 10 km and 50 km, and ₩100 for every 8 km after that. Some lines, such as the Sinbundang Line, add their own separate fare.
+
+Source: [Seoul Metropolitan Government — subway fares](https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/) (as of Jun 28, 2025), [Seoul Metro — fare](http://www.seoulmetro.co.kr/en/page.do?menuIdx=348), [Sinbundang Line — fares](https://shinbundang.co.kr/dxline/dxline4_1.jsp) (Korean), [T-money — guide for foreigners](https://pay.tmoney.co.kr/ncs/pct/ugd/ReadFrgnGd.dev) and [Climate Card](https://english.seoul.go.kr/policy/transportation/climate-card/); checked Oct 23, 2026.
+
+## What to pay with
+
+For most visitors, a **T-money card** is the default. You pay the lower card fare, you get transfer discounts between subway and bus, and the same card works on buses. For a child to get the child fare, the card has to be registered with the child's date of birth first; T-money says this is done at convenience stores or subway information centers, with the card and an ID. An unregistered card charges the adult fare. The catch: regular T-money top-ups take Korean won cash. Our [T-money guide](/how-to-get-t-money-card-korea/) covers where to buy one and how to get your balance back.
+
+A **single-journey ticket** makes sense for one or two rides. It costs ₩100 more than the card fare, works only on the subway, and you pay a ₩500 deposit on top. To buy one, pick your language on the machine, choose "Single-Journey," then find your destination by station name or station number, and pay the fare plus deposit. At the end of your ride, after you tap out, put the ticket into the "Deposit Refund Device" at your destination station to get the ₩500 back before you leave the station.
+
+The **Climate Card short-term pass** is Seoul's unlimited-ride option for 1, 2, 3, 5 or 7 days. The pass starts on the day you charge it, and a 1-day pass runs until that day's last bus or train. Since October 1, 2026, it covers subway stations within Seoul and Seoul-licensed city and village buses. You can also get off at Incheon Airport Terminal 1 or 2 on the Airport Railroad after boarding within the covered area, but you can't board with the pass at those airport stations. The Sinbundang Line and airport buses are excluded, and if you get off outside the coverage area, station staff will charge you the fare for that trip. Check the [official FAQ](https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short) (Korean) before you buy.
+
+![A ticket vending and card reload machine with Korean and English labels on the Seoul Metropolitan Subway](/img/photo-seoul-subway-ticket-machine.jpg?v=432b2959 "A ticket vending and card reload machine, July 2024 (the fare on its screen predates the June 2025 fare change). Photo: LandAndTree (CC BY 4.0), cropped.")
+
+Paying by foreign card? Since March 17, 2026, the 440 new ticket machines at 273 stations on Lines 1–8 accept international cards such as Visa and Mastercard for single-journey tickets and Climate Card short-term passes, with a service fee of about 3.7%.
+
+Source: [Seoul Metro — single-journey ticket](http://www.seoulmetro.co.kr/en/page.do?menuIdx=719), [Seoul Metropolitan Government — Climate Card](https://english.seoul.go.kr/policy/transportation/climate-card/) and [international cards at ticket machines](https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/); checked Oct 23, 2026.
+
+> **Our take:** Count your rides. A 1-day pass costs ₩5,000, and the basic T-money fare is ₩1,550, so the pass starts to pay off from your fourth separate basic-fare journey that day (transfers within one journey don't count as extra journeys), assuming you already have a Climate Card. If you'd be buying the card too, add ₩3,000 to the sum. For a couple of rides a day, plain T-money is simpler.
+
+## Tap in, tap out
+
+Tap your card on the reader at the gate when you go in, and again when you come out. Seoul Metro is direct about the cost of forgetting the second tap: if your card doesn't properly touch the reader when you get off, you lose the transfer discount and are charged separate fares for each ride. Climate Card short-term pass users should tap out too, though Seoul's current FAQ says missed-tap penalties don't apply to short-term passes.
+
+There's one small reward for early starts: your first ride before 6:30 a.m. is 20% off when you pay by card.
+
+Source: [Seoul Metro — fare](http://www.seoulmetro.co.kr/en/page.do?menuIdx=348), [Seoul Metropolitan Government — subway fares](https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/) and [Climate Card short-term FAQ](https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short) (Korean); checked Oct 23, 2026.
+
+## Transfers: how the discount works
+
+On standard subway lines, changing lines within the paid area doesn't add a new base fare; the journey's distance still counts. Lines such as Sinbundang charge an additional line-specific fare. Switching between the subway and a bus is where the transfer rules matter. With a transit card, a journey can include up to four transfers, for five boardings in total. Tap on and off each time, and board the next bus or train within 30 minutes of getting off, or within 60 minutes between 9 p.m. and 7 a.m. You pay the highest base fare among the services you use, plus any distance or line surcharges, rather than a new fare each time. Transfers to the same bus route or the same vehicle don't count. Single-journey tickets don't get bus transfers, since they work only on the subway.
+
+Source: [Seoul Metropolitan Government — integrated transfer discount](https://news.seoul.go.kr/traffic/transfer_discount) (Korean), [Seoul Metro — fare](http://www.seoulmetro.co.kr/en/page.do?menuIdx=348) and [Sinbundang Line — fares](https://shinbundang.co.kr/dxline/dxline4_1.jsp) (Korean); checked Oct 23, 2026.
+
+## Finding your way
+
+![Seoul Station platform on Subway Line 4 with a yellow Way Out sign overhead](/img/photo-seoul-subway-platform.jpg?v=e8e0034c "Seoul Station, Subway Line 4, 2023. Photo: Mobius6 (CC BY-SA 4.0), cropped.")
+
+Lines have numbers and colors, and stations have numbers as well as names, which helps when a station name is long or unfamiliar. Plan routes in [Naver Map](/how-to-use-naver-map-korea/), which gives transit directions in English.
+
+> **Local tip:** Before you leave the platform, check which exit number your map suggests. Big stations have many exits, and the right one can save you a long walk above ground. Late at night, check your last train in the app too, because last-train times differ by line and station.
+
+## Before your first ride
+
+1. Get a T-money card and some won to top it up — or plan to use a single ticket or a Climate Card pass.
+2. Install Naver Map and search your first route.
+3. Tap in at the gate. Tap out when you leave.
+4. Using a single ticket? After tapping out, return it at the destination station's refund machine before leaving the station.
+5. Heading on by bus? Board within 30 minutes (60 at night) to keep the transfer discount.
+
+Source: [Seoul Metro — single-journey ticket](http://www.seoulmetro.co.kr/en/page.do?menuIdx=719) and [Seoul Metropolitan Government — integrated transfer discount](https://news.seoul.go.kr/traffic/transfer_discount) (Korean); checked Oct 23, 2026.
+
+Arriving from the airport? See [Incheon Airport to Seoul](/incheon-airport-to-seoul/). Heading farther? See [how to book KTX tickets](/how-to-book-ktx-korea/).
+
+## FAQ
+
+### How much is the Seoul subway?
+
+₩1,550 for adults with a transit card such as T-money, or ₩1,650 with a single-journey ticket, for up to 10 km on standard lines. Longer trips add ₩100 per 5 km up to 50 km, then ₩100 per 8 km. Some lines, such as Sinbundang, add a separate fare.
+
+### Can I use a credit card to ride the Seoul subway?
+
+At the gates you tap a transit card or ticket. To buy one by card: since March 17, 2026, the 440 new machines on Lines 1–8 sell single-journey tickets and Climate Card short-term passes to holders of international cards such as Visa and Mastercard, with a fee of about 3.7%.
+
+### Do I get my single-ticket deposit back?
+
+Yes. The ₩500 deposit is refunded in full when you put the ticket into the Deposit Refund Device at your destination station.
+
+### Are transfers free on the Seoul subway?
+
+On standard lines, changing lines inside the paid area doesn't add a new base fare. Between subway and bus, a transit card gives a transfer discount if you tap on and off and board within 30 minutes (60 minutes between 9 p.m. and 7 a.m.), up to four transfers (five boardings). You pay the highest base fare among the services used, plus distance and line surcharges; transfers to the same bus route don't count.
+
+### Do children pay on the Seoul subway?
+
+Children aged 6–12 pay ₩550 for the basic fare, but with T-money the card must first be registered with the child's date of birth, or it charges the adult fare. Children under 6 ride free with a guardian, up to three children per guardian.
+
+## Sources
+
+- Seoul Metropolitan Government — Subway fares: https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/
+- Seoul Metro — Fare: http://www.seoulmetro.co.kr/en/page.do?menuIdx=348
+- Seoul Metro — Single-journey ticket: http://www.seoulmetro.co.kr/en/page.do?menuIdx=719
+- Seoul Metropolitan Government — Climate Card: https://english.seoul.go.kr/policy/transportation/climate-card/
+- Seoul Climate Card FAQ, short-term passes (Korean): https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short
+- Seoul Metropolitan Government — Integrated transfer discount (Korean): https://news.seoul.go.kr/traffic/transfer_discount
+- T-money — Guide for foreigners: https://pay.tmoney.co.kr/ncs/pct/ugd/ReadFrgnGd.dev
+- Sinbundang Line — Fares (Korean): https://shinbundang.co.kr/dxline/dxline4_1.jsp
+- Seoul Metropolitan Government — International cards for passes and single tickets (Mar 2026): https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/
 
 ---
 
