@@ -4,6 +4,180 @@ Source site: https://realkoreatrip.com/ · Generated 2026-10-23
 
 ---
 
+# How to Book KTX Train Tickets in Korea as a Foreigner
+
+URL: https://realkoreatrip.com/how-to-book-ktx-korea/
+Last checked: 2026-10-23
+
+## Quick answer
+
+- Book in English on Korail's official site for foreigners (korail.com/global/eng) or in the KORAIL+ app. The normal booking window opens at 07:00 (Korea time) two months before your travel date; Seollal and Chuseok holiday trains follow a separate schedule.
+- KTX and SRT merged on September 1, 2026. The government says they now run as KTX, with fares on average 10% lower than before. Seoul–Busan (via Gyeongju) is ₩54,400 in standard class.
+- Keep your email and password — that's how you look up a ticket booked on the foreigner site, and you'll need them to cancel online before departure.
+
+![A blue KTX-Cheongryong high-speed train waiting at a platform at Seoul Station](/img/photo-ktx-seoul-station.jpg?v=326e9396 "A KTX-Cheongryong train at Seoul Station, 2024. Photo: 생각하는 나무 (CC BY-SA 4.0), cropped.")
+
+The KTX is Korea's high-speed train, and you can book it in English before you arrive. There's one change you won't find in older guides: on September 1, 2026, the KTX and the SRT — the high-speed trains that used to run from Suseo Station under a separate company — started running as one service called KTX. So if a blog post sends you to a separate SRT website, it's out of date.
+
+## The short version
+
+| | What to know |
+|---|---|
+| Where to book | Korail's site for foreigners (korail.com/global/eng), the KORAIL+ app, ticket machines or station counters — not at subway stations |
+| When tickets go on sale | Normally from 07:00 (Korea time), two months before your travel date — holiday trains differ |
+| How to pay | Credit card (online) |
+| Finding your ticket | The email address and password you used when booking |
+| Cancelling | Online before departure; after departure, generally at a station counter (see the KORAIL+ exception below) |
+
+Source: [Korail — ticketing guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets) and [purchase and refund guide](https://www.korail.com/ticket/reserve/guide/pay) (Korean); checked Oct 23, 2026.
+
+## What changed in September 2026
+
+Korea used to have two high-speed operators: Korail ran the KTX, and a separate company, SR, ran the SRT from Suseo Station. After the companies were merged, the government says the two started running as KTX from September 1, 2026. Three things matter for visitors:
+
+- **One place to book.** Integrated trains are booked through the KORAIL+ app and the Korail website. KORAIL+ replaced Korail's old app, Korail Talk.
+- **Lower fares.** The government says KTX fares were brought down to former SRT levels — about 10% lower on average.
+- **More seats on trains from Suseo.** Most of the added trains run on the Suseo routes, which the government says have about 30% more seats.
+
+Source: [Ministry of Land, Infrastructure and Transport, Aug 31, 2026](https://www.korea.kr/news/policyNewsView.do?newsId=148970889) and [Aug 3, 2026](https://www.korea.kr/news/policyNewsView.do?newsId=148969267) (Korean); checked Oct 23, 2026.
+
+## How much a KTX ticket costs
+
+These are adult standard-class fares from Korail's official KTX fare table, effective September 1, 2026:
+
+| Route | Standard class |
+|---|---|
+| Seoul – Busan (via Gyeongju) | ₩54,400 |
+| Suseo – Busan | ₩52,900 |
+| Seoul – Dongdaegu (Daegu) | ₩39,000 |
+| Seoul – Gyeongju | ₩44,500 |
+| Seoul – Daejeon | ₩21,600 |
+| Yongsan – Gwangju Songjeong | ₩42,000 |
+| Yongsan – Jeonju | ₩31,600 |
+| Yongsan – Yeosu EXPO | ₩45,400 |
+
+Fares vary by route — the same two cities can have different fares depending on the stops a train makes — so check the price shown when you book. Korail's table also notes that the 10% reduction was set for three years and may be adjusted later.
+
+![Rows of grey standard-class seats inside a KTX-Cheongryong carriage](/img/photo-ktx-standard-class.jpg?v=b1b9743d "Standard class on a KTX-Cheongryong train, 2024. Photo: 생각하는 나무 (CC BY-SA 4.0), cropped.")
+
+Source: [Korail — KTX fare table, as of Sep 1, 2026](https://www.korail.com/ticket/reserve/train-timeTable) (Korean, Excel download); checked Oct 23, 2026.
+
+## Booking online, in English
+
+![Booking a KTX ticket in four steps: open Korail's English site or the KORAIL+ app, search, save your email and password, pay by credit card](/img/ktx-steps.png?v=a7f9ef86 "Booking in four steps. Details below.")
+
+1. Go to **korail.com/global/eng** — Korail's official site for foreigners. (The old letskorail.com address now redirects to korail.com.)
+2. Search your departure station, arrival station, date and number of passengers, and pick a train.
+3. Enter an email address and a password. Korail says you need to type them exactly — including upper- and lower-case letters — to look up your ticket later, and suggests writing them down.
+4. Pay by credit card.
+5. To check or cancel, open **MY TICKET** and enter the same email and password.
+
+Source: [Korail — official site for foreigners](https://www.korail.com/global/eng/main) and [ticketing guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets); checked Oct 23, 2026.
+
+> **Local tip:** Save the email and password in your phone's notes the moment you book. Without them you can't pull up the ticket on the foreigner site.
+
+## When tickets go on sale
+
+Korail says the normal booking window opens at **07:00 (Korea time), two months before** the departure date. Online, you can buy until the train leaves; ticket machines stop selling 10 minutes before departure, and station counters sell until departure.
+
+The big exception is Korea's two main holidays. Seollal and Chuseok holiday trains can have their own reservation schedule and rules — for Chuseok 2026, Korail ran a separate booking period that required membership, then opened remaining seats later, when non-members could buy and pay straight away. Check Korail's latest holiday notice if you're travelling around those dates.
+
+> **Our take:** For Friday-to-Sunday trips, book as soon as your normal booking window opens. Those are also the days with higher cancellation fees, so pick your train with care.
+
+Source: [Korail — ticketing guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets) and [2026 Chuseok reservations notice](https://www.korail.com/global/eng/siteInfo/notice/25622); checked Oct 23, 2026.
+
+## Buying at the station
+
+![Korail ticket counters, ticket machines and departure boards at Pyeongtaek Station](/img/photo-korail-ticket-counter.jpg?v=00f643af "Korail ticket counters and machines at Pyeongtaek Station, 2024. Photo: MNXANL (CC BY-SA 4.0), cropped.")
+
+You can also buy at ticket machines or the counter in a train station. Note that this means a railway station — Korail says KTX tickets aren't sold at subway stations.
+
+Source: [Korail — ticketing guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets); checked Oct 23, 2026.
+
+## If your plans change
+
+Before departure, you can cancel online — in MY TICKET for tickets booked on Korail's English website. After the train has left, the English guide directs you to a station counter. Korail's Korean guide also lists an exception: KTX tickets bought through KORAIL+ can be refunded in the app up to 10 minutes after departure, if it's confirmed that you're not on the train. Follow the refund options for the channel you bought from. Refunds aren't possible after the arrival time printed on the ticket.
+
+The fee depends on when you cancel and on the day of travel. "The day before" means the previous calendar date, not a rolling 24-hour period:
+
+| When you cancel | Mon–Thu trains (excluding public holidays and designated holiday periods) | Fri–Sun, public holidays, Seollal and Chuseok |
+|---|---|---|
+| From booking until 2 days before departure | No fee | Minimum fee |
+| The day before departure | No fee | 5% |
+| On the departure date, until 3 hours before | No fee | 10% |
+| Less than 3 hours before departure | 5% | 20% |
+| Up to 20 minutes after departure | 15% | 30% |
+| 20 to 60 minutes after departure | 40% | 40% |
+| 60 minutes after departure until arrival | 70% | 70% |
+
+Korail's Korean guide lists the minimum fee as ₩400.
+
+Source: [Korail — purchase and refund guide](https://www.korail.com/ticket/reserve/guide/pay) (Korean) and [ticketing guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets); checked Oct 23, 2026.
+
+## Is the KORAIL PASS worth it?
+
+The KORAIL PASS is a rail pass for foreign visitors. The current select passes let you choose 2, 3, 4 or 5 travel days within a 10-day period from the pass's starting date:
+
+| Pass | Adult (13+) | Child (6–12) |
+|---|---|---|
+| 2-day select | ₩131,000 | ₩66,000 |
+| 3-day select | ₩186,000 | ₩93,000 |
+| 4-day select | ₩234,000 | ₩117,000 |
+| 5-day select | ₩275,000 | ₩138,000 |
+
+You need a valid passport and a credit card to buy it, and the details must match your passport. Choose your travel dates in MY TICKET before reserving seats; seat reservations open two months before departure, up to two seat tickets per person per day. Board with your pass, your passport and, if you reserved one, your seat reservation. Refunds are possible only before the pass's starting date.
+
+Korail's current pass guide lists metropolitan railways and temporary tourist trains as not included. An older notice from 2024 also excluded SRT trains, which have run as KTX since September 2026. If your plans use trains from Suseo Station, check that a seat reservation is available for that train when you book, or ask Korail's call center (+82-1599-7777).
+
+Source: [Korail — About KORAIL PASS](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass), [pass reservation](https://www.korail.com/global/eng/korailpass/reservation) and [older pass notice](https://www.korail.com/global/eng/siteInfo/notice/18801); checked Oct 23, 2026.
+
+> **Our take:** Do the sums for your own trip. A 2-day pass costs ₩131,000, while a Seoul–Busan return in standard class is ₩108,800 (₩54,400 each way via Gyeongju) — so for one return trip, regular tickets are cheaper. A pass can make sense when you're fitting several long trips into a short window.
+
+## Before you travel
+
+1. Decide your stations — trains to Busan leave from Seoul Station and Suseo Station, among others.
+2. Book from 07:00 (Korea time) two months ahead for weekend trips — and check Korail's holiday notice if you're travelling around Seollal or Chuseok.
+3. Save your booking email and password.
+4. Check you'll have data on the day for the app or your ticket — see [eSIM vs SIM card vs pocket Wi-Fi](/esim-sim-card-pocket-wifi-korea/).
+5. Plan the trip to the station: [how to use Naver Map](/how-to-use-naver-map-korea/) and [how to get a T-money card](/how-to-get-t-money-card-korea/).
+
+## FAQ
+
+### Can foreigners book KTX tickets online?
+
+Yes. Korail runs an English site for foreigners at korail.com/global/eng, and tickets can also be bought in the KORAIL+ app, at ticket machines and at station counters.
+
+### How far in advance can I book the KTX?
+
+Korail's normal booking window opens at 07:00 (Korea time), two months before the departure date. Seollal and Chuseok holiday trains can follow a separate schedule.
+
+### How much is the KTX from Seoul to Busan?
+
+₩54,400 for an adult in standard class from Seoul Station via Gyeongju, and ₩52,900 from Suseo Station, according to Korail's fare table effective September 1, 2026. Other routes between the two cities can cost a different amount.
+
+### Is the SRT still separate from the KTX?
+
+No. The government says the KTX and SRT started running as one KTX service on September 1, 2026, with integrated trains booked through KORAIL+ and the Korail website.
+
+### Can I get a refund on a KTX ticket?
+
+Yes. Before departure you can cancel online; after departure, generally at a station counter (KORAIL+ KTX tickets can be refunded in the app up to 10 minutes after departure if you're not on the train). No refunds after arrival. Fees depend on timing and the day of travel. For non-holiday Monday–Thursday departures, cancellation more than three hours before departure is free. Public holidays and the designated Seollal/Chuseok travel periods use the holiday fee schedule.
+
+## Sources
+
+- Korail — Official website for foreigners: https://www.korail.com/global/eng/main
+- Korail — Ticketing guide (where and when to buy, refunds): https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets
+- Korail — KORAIL PASS reservation: https://www.korail.com/global/eng/korailpass/reservation
+- Korail — About KORAIL PASS (pricing, 10-day validity, how to reserve seats): https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass
+- Korail — Ticket purchase, refund and penalties (Korean): https://www.korail.com/ticket/reserve/guide/pay
+- Korail — 2026 Chuseok holiday train ticket reservations (notice): https://www.korail.com/global/eng/siteInfo/notice/25622
+- Korail — KORAIL PASS information (older notice, Nov 2024): https://www.korail.com/global/eng/siteInfo/notice/18801
+- Korail — KTX fare table, as of Sep 1, 2026 (Korean, Excel download): https://www.korail.com/ticket/reserve/train-timeTable
+- Korea Policy Briefing (Ministry of Land, Infrastructure and Transport) — KTX and SRT run as one from Sep 1 (Aug 31, 2026, Korean): https://www.korea.kr/news/policyNewsView.do?newsId=148970889
+- Korea Policy Briefing — Korail–SR merger approved, KORAIL+ app launched (Aug 3, 2026, Korean): https://www.korea.kr/news/policyNewsView.do?newsId=148969267
+
+---
+
 # Paying in Korea: Foreign Cards, Cash and What Still Needs Won
 
 URL: https://realkoreatrip.com/paying-in-korea-foreign-cards-cash/
