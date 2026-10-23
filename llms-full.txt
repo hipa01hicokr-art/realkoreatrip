@@ -4,6 +4,138 @@ Source site: https://realkoreatrip.com/ · Generated 2026-10-23
 
 ---
 
+# Paying in Korea: Foreign Cards, Cash and What Still Needs Won
+
+URL: https://realkoreatrip.com/paying-in-korea-foreign-cards-cash/
+Last checked: 2026-10-23
+
+## Quick answer
+
+- Credit cards are widely used — the Korea Tourism Organization names Visa, Mastercard and American Express — but check that each shop accepts your card, and carry some won for cash-only needs.
+- Carry a little won anyway. A regular T-money card is topped up with Korean won cash.
+- Landing at Incheon Terminal 1? The arrivals floor has currency exchange counters that are open 24 hours.
+
+Cards are widely used in Korea. Hotels, department stores and most shops take them, and taxis accept card payment too — though no one can promise your particular card will work everywhere. The catch is the small stuff — a regular T-money top-up, the odd shop that doesn't take cards — and that's where a little Korean won saves you a walk to the ATM.
+
+![Where a foreign card works in Korea: shops and hotels usually, taxis usually, new subway ticket machines yes with a fee, regular T-money top-ups at stores or stations need won cash](/img/pay-compare.png?v=96e100e5 "Card or cash? Details and sources below.")
+
+## The short version
+
+| Where | Foreign card? | Good to know |
+|---|---|---|
+| Hotels, department stores, most shops | Usually | Some stores don't take cards — check before you buy |
+| Taxis | Usually — check before you get in | Cash, credit card or a transport card |
+| Subway single tickets and Climate Card short-term passes | Yes, at the 440 new machines on Lines 1–8 | About 3.7% service fee |
+| Topping up a regular T-money card at a store or station | No | Korean won cash |
+| TABA taxi app | Yes | Visa, Mastercard, UnionPay, JCB |
+
+Source: [VISITKOREA — currency](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140040) and [taxis](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140661); [Seoul Metropolitan Government](https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/); [T-money](https://pay.tmoney.co.kr/ncs/pct/ugd/ReadFrgnGd.dev); [TABA](https://www.tabataxi.app/); checked Oct 23, 2026.
+
+## Paying by card
+
+The Korea Tourism Organization puts it simply: most businesses in Korea accept credit cards, from major hotels and department stores to general shops, and Visa, Mastercard and American Express can be used. It also adds a caution worth taking seriously — some stores don't provide card payment, so check before you buy.
+
+Taxis are usually straightforward: VISITKOREA says passengers can pay with cash, a credit card or a transportation card. That's a general rule, not a promise that a particular foreign-issued card will go through, so it's worth checking as you get in.
+
+Source: [VISITKOREA — Korean Currency & Exchange Info](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140040); [VISITKOREA — Taxis](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140661) (updated Jan 2026); checked Oct 23, 2026.
+
+## Where won still comes in handy
+
+![Street-food stalls and shoppers on Myeongdong 7-gil in Seoul in the early evening](/img/photo-myeongdong-street-food.jpg?v=71464c29 "Myeongdong 7-gil, Seoul, 2023. Photo: SKTakek (CC0), cropped.")
+
+The clearest case for cash is a regular T-money card topped up at a store or station. T-money's guide for visitors says you top it up by handing over the card and Korean won cash at a T-money sales location.
+
+The subway itself has got easier. Since March 17, 2026, the 440 new ticket machines at 273 stations on Seoul Subway Lines 1–8 accept international cards such as Visa and Mastercard — for single-journey tickets and Climate Card short-term passes. Expect a service fee of about 3.7%. The former 30-day Climate Card pass is no longer available for top-up; the 1-, 2-, 3-, 5- and 7-day short-term passes continue to operate.
+
+So if your plan is a T-money card, land with some won. If you'd rather carry as little cash as possible, the Climate Card short-term pass or single tickets are the card-friendly route on the subway.
+
+Source: [T-money — guide for foreign visitors](https://pay.tmoney.co.kr/ncs/pct/ugd/ReadFrgnGd.dev); [Seoul Metropolitan Government](https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/) and [Seoul transport news](https://news.seoul.go.kr/traffic/archives/516544) (Korean), Mar 2026; and [Climate Card 30-day end-of-service FAQ](https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-stop) (Korean); checked Oct 23, 2026. More on the card itself: [how to get a T-money card](/how-to-get-t-money-card-korea/).
+
+## Getting won when you land
+
+VISITKOREA's advice is that for most tourists, the airport exchange centers are the easiest place to change money.
+
+At Incheon Airport Terminal 1, the arrivals floor (1F) has:
+
+- **24-hour exchange counters** — Woori Bank near Exits 6 and 11, and KB Bank near Arrival Hall B
+- **Exchange counters open 06:00–22:00** — Hana Bank near Exit 4 and KB Bank near Exit 9
+- **24-hour ATMs** near Exits 4, 6, 9 and 11
+
+The airport's directory doesn't say which ATMs take foreign-issued cards, so look at the card logos on the machine before you put your card in. This list is for Terminal 1; check the airport's facility search if you arrive at Terminal 2.
+
+In town, banks are generally open 09:00–16:00 on weekdays, and Korea Post Bank 09:00–16:30. Hours vary by branch, and some places won't exchange old banknotes.
+
+Source: [VISITKOREA FAQ](https://english.visitkorea.or.kr/svc/faq/faqMainView.do?menuSn=404&pstSn=95); [Incheon Airport — Convenience & Public Facilities](https://www.airport.kr/ap_en/1536/subview.do); [VISITKOREA — currency](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140040); checked Oct 23, 2026. Getting into the city: [Incheon Airport to Seoul](/incheon-airport-to-seoul/).
+
+> **Local tip:** Before you fly, check two things with your bank: that your card is set up for use abroad, and what it charges for foreign transactions and cash withdrawals. It's easier to sort out at home than at an ATM at midnight.
+
+## Taxi apps and NAVER's visitor verification
+
+**TABA** is a taxi app for travelers. Its official site says you can pay with Visa, Mastercard, China UnionPay, JCB and more, sign up with an international phone number, and that it works officially with the Seoul Metropolitan Government and T-money.
+
+**NAVER** introduced Passport Verification on June 4, 2026, so eligible foreign visitors can verify their identity for supported booking and ordering services without a Korean mobile number. This is separate from payment approval. NAVER's Booking/Order help lists supported overseas card networks, while some Npay services are restricted to Npay Korea Members. Check the payment options shown for your booking before relying on a particular card. (If you're still choosing how to get online, see [eSIM vs SIM card vs pocket Wi-Fi](/esim-sim-card-pocket-wifi-korea/) — and [how to use Naver Map](/how-to-use-naver-map-korea/).)
+
+Source: [TABA](https://www.tabataxi.app/); [NAVER press release, Jun 9, 2026](https://www.navercorp.com/en/media/pressReleasesDetail?seq=10034413); NAVER Help — [passport verification](https://help.naver.com/service/5640/contents/25235?lang=ko&osType=COMMONOS), [supported cards](https://help.naver.com/service/11713/contents/24272?lang=en&osType=COMMONOS) and [Npay Korea Member restrictions](https://help.naver.com/service/11713/contents/24269?lang=en&osType=COMMONOS); checked Oct 23, 2026.
+
+## Prepaid travel cards
+
+Some visitors use a prepaid card made for travelers. WOWPASS is one: its maker, Orange Square, describes it as an all-in-one prepaid card for foreign travelers covering money exchange, payment and transportation, and says you verify ownership in its app to withdraw a remaining balance in cash. Fees and limits change, so check the current terms in the app before you buy.
+
+Source: [WOWPASS App Store listing (Orange Square, Inc)](https://apps.apple.com/us/app/wowpass-go-cashless-in-korea/id1626691440); checked Oct 23, 2026.
+
+## Our take
+
+![Inside Gwangjang Market in Seoul: food stalls with Korean signs under strings of flags](/img/photo-gwangjang-market.jpg?v=aa69a454 "Gwangjang Market, Seoul, 2022. Photo: Bgag (CC0), cropped.")
+
+> **Our take:** Plan to pay by card, but don't arrive with zero won. A small amount covers a T-money top-up and the occasional place that doesn't take cards, and it saves you hunting for an ATM at the wrong moment. If you'd rather skip cash on the subway, use the new ticket machines and accept the fee.
+
+## Before you fly
+
+1. Tell your bank you're travelling and check its foreign transaction and ATM fees.
+2. Bring a backup card, kept separately from your main one.
+3. Decide on your transit card — T-money (top up with won cash) or the Climate Card short-term pass (card-friendly at the new machines in Seoul).
+4. Note where the 24-hour exchange counters are if you land late at Incheon Terminal 1.
+
+## FAQ
+
+### Can I use my foreign credit card in Korea?
+
+Cards are widely used. The Korea Tourism Organization says Visa, Mastercard and American Express can be used, from hotels and department stores to general shops, but some stores don't take cards — check that each place accepts yours.
+
+### Do I need cash in Korea?
+
+A little. Topping up a regular T-money card at a store or station takes Korean won cash, and some shops don't accept cards.
+
+### Can I buy Seoul subway tickets with a foreign card?
+
+Yes, since March 17, 2026, at the 440 new ticket machines on Lines 1–8 — for single-journey tickets and Climate Card short-term passes, with a service fee of about 3.7%.
+
+### Where can I exchange money at Incheon Airport?
+
+Terminal 1's arrivals floor has 24-hour exchange counters (Woori Bank near Exits 6 and 11, KB Bank near Arrival Hall B), plus counters open 06:00–22:00 near Exits 4 and 9.
+
+### Can I pay by card in a Korean taxi?
+
+Usually. VISITKOREA says taxi passengers can pay with cash, a credit card or a transportation card — check that your card is accepted before you set off.
+
+## Sources
+
+- Korea Tourism Organization (VISITKOREA) — Korean Currency & Exchange Info: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140040
+- VISITKOREA FAQ — Where can I exchange currency upon arrival/departure?: https://english.visitkorea.or.kr/svc/faq/faqMainView.do?menuSn=404&pstSn=95
+- Incheon International Airport — Convenience & Public Facilities: https://www.airport.kr/ap_en/1536/subview.do
+- Seoul Metropolitan Government — Climate Cards and single-journey tickets now accept international credit cards (Mar 2026): https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/
+- T-money — Guide for foreign visitors: https://pay.tmoney.co.kr/ncs/pct/ugd/ReadFrgnGd.dev
+- VISITKOREA — Taxis: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140661
+- TABA — Taxi app for travelers in Korea: https://www.tabataxi.app/
+- NAVER press release — Passport Verification for foreign visitors (Jun 9, 2026): https://www.navercorp.com/en/media/pressReleasesDetail?seq=10034413
+- NAVER Help — Foreign Passport Verification: https://help.naver.com/service/5640/contents/25235?lang=ko&osType=COMMONOS
+- NAVER Help — Unsupported card error (Booking/Order): https://help.naver.com/service/11713/contents/24272?lang=en&osType=COMMONOS
+- NAVER Help — Restricted pages for Npay Korea Members: https://help.naver.com/service/11713/contents/24269?lang=en&osType=COMMONOS
+- Seoul Metropolitan Government — Climate Card (30-day) end of service FAQ (Korean): https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-stop
+- WOWPASS — App Store listing (Orange Square, Inc): https://apps.apple.com/us/app/wowpass-go-cashless-in-korea/id1626691440
+
+---
+
 # eSIM vs SIM Card vs Pocket Wi-Fi in Korea: Which One Should You Get?
 
 URL: https://realkoreatrip.com/esim-sim-card-pocket-wifi-korea/
