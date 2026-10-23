@@ -512,7 +512,7 @@ The All-stop train is a regular commuter train that runs from the airport into S
 Source: [AREX All-stop fares](https://www.airportrailroad.com/train/normal/fare), checked Oct 22, 2026.
 
 - **Time:** about 59 minutes between Seoul Station and T1, and 66 minutes to T2 (some trains take 2–6 minutes longer).
-- Check the AREX timetable for the last All-stop train from your terminal to your destination. Some All-stop train times will change from October 23, 2026, alongside the Express service increase.
+- Check the current AREX timetable for the last All-stop train from your terminal to your destination. AREX's timetable revision effective October 23, 2026 also affects some All-stop departures.
 - You can transfer to the Seoul subway at stations like Hongik Univ., Gongdeok and Seoul Station.
 
 > **Local tip:** If you're staying around Hongdae or Mapo, the All-stop train gets you there without changing — and it's cheaper than the Express, which only goes to Seoul Station.
@@ -524,7 +524,7 @@ The Express connects Seoul Station, Terminal 1 and Terminal 2. It runs **non-sto
 - **Fare:** ₩13,000 for adults, ₩9,500 for children (ages 6–12).
 - **Time:** 43 minutes between Seoul Station and T1, 51 minutes to T2 (time on the train, not including walking or waiting).
 - **You need a separate Express ticket** — buy it before boarding at the Express Train Customer Center (B1 of the Transportation Center at T1 and T2) or online on the AREX website in advance.
-- AREX has announced extra daytime Express services from **October 23, 2026**. Check the [official timetable](https://www.airportrailroad.com/train/express/info) for your travel date, departure terminal and direction before planning around a train.
+- AREX's revised Express timetable is effective from **October 23, 2026**. Check the [official timetable](https://www.airportrailroad.com/train/express/info) for your travel date, departure terminal and direction before planning around a train.
 
 Source: [AREX Express](https://www.airportrailroad.com/train/express/introduce), checked Oct 22, 2026.
 
