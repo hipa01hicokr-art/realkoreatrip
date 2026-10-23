@@ -17,7 +17,7 @@ Last checked: 2026-10-22
 
 You'll want data from the moment you land. The train timetable, the address of your guesthouse, the map that tells you which station exit to take — you'll be checking them on your phone. There are four ways to get online in Korea, and the right one mostly depends on three things: whether your phone works with the plan you want, whether you need to make calls or get app codes, and whether your group will stay together.
 
-![Comparison of eSIM, physical SIM card, pocket Wi-Fi and free public Wi-Fi in Korea, with prices from the carriers' websites checked Oct 22, 2026](/img/esim-compare.png "Four ways to get online in Korea. Details and sources below.")
+![Comparison of eSIM, physical SIM card, pocket Wi-Fi and free public Wi-Fi in Korea, with prices from the carriers' websites checked Oct 22, 2026](/img/esim-compare.png?v=8092484a "Four ways to get online in Korea. Details and sources below.")
 
 ## The short version
 
@@ -69,7 +69,7 @@ Source: [KT — eSIM plans](https://roaming.kt.com/eng/esim); [LG U+ — Korea e
 
 ## Setting up a Korean eSIM
 
-![Getting a Korean eSIM in four steps: check your phone, buy online, install over Wi-Fi, then switch your data line on arrival](/img/esim-steps.png "eSIM setup in four steps. Details below.")
+![Getting a Korean eSIM in four steps: check your phone, buy online, install over Wi-Fi, then switch your data line on arrival](/img/esim-steps.png?v=d03fb5c5 "eSIM setup in four steps. Details below.")
 
 Before you pay, check three things: your phone supports eSIM, it isn't locked to your home carrier, and your exact model is on the Korean carrier's supported list. The third one catches people out. LG U+, for example, currently says its eSIM isn't supported on Google Pixel, Motorola and OPPO devices, and that service may not be available on some phones bought outside Korea. That's a limit of that carrier's plan, so check the device list of the carrier you're buying from.
 
@@ -89,13 +89,13 @@ Source: [SK Telecom — 1-day data eSIM notes](https://www.skroaming.com/esim/de
 
 ## Buying a physical SIM card
 
-![Arrivals hall of Incheon Airport Terminal 1, seen from the floor above, with travelers and luggage trolleys](/img/photo-icn-t1-arrivals.jpg "Incheon Airport Terminal 1 arrivals hall, 2023. Photo: ノボホショコロトソ (CC BY 4.0), cropped.")
+![Arrivals hall of Incheon Airport Terminal 1, seen from the floor above, with travelers and luggage trolleys](/img/photo-icn-t1-arrivals.jpg?v=66c8964f "Incheon Airport Terminal 1 arrivals hall, 2023. Photo: ノボホショコロトソ (CC BY 4.0), cropped.")
 
 No eSIM support? A physical SIM (often called a USIM in Korea) does the same job. Roaming centers at Incheon, Gimpo, Gimhae and Jeju airports sell prepaid SIMs, and you can also buy online and pick up at the airport.
 
 At Incheon Terminal 1, KT has two counters on the arrivals floor (1F): one near Arrival Hall A, open 06:00–22:00, and one near Arrival Hall F that's open 24 hours. Bring your passport. LG U+ switches on plans with calls after a passport check at its airport counter.
 
-![An Emart24 convenience store with a blue awning on a street in Korea](/img/photo-convenience-store.jpg "An Emart24 store, 2024. Photo: Sgroey (CC BY-SA 4.0), cropped.")
+![An Emart24 convenience store with a blue awning on a street in Korea](/img/photo-convenience-store.jpg?v=ddebdcc3 "An Emart24 store, 2024. Photo: Sgroey (CC BY-SA 4.0), cropped.")
 
 If you skip the airport, VISITKOREA says CU, GS25, 7-Eleven and Emart24 convenience stores sell USIM cards too — but stock varies by branch.
 
@@ -120,7 +120,7 @@ Source: [KT — Wi-Fi router](https://roaming.kt.com/eng/router); [LG U+ — Poc
 
 ## Free public Wi-Fi
 
-![Seoul Station platform on Seoul Subway Line 4, with a yellow Way Out sign overhead](/img/photo-seoul-subway-platform.jpg "Seoul Station, Subway Line 4, 2023. Photo: Mobius6 (CC BY-SA 4.0), cropped.")
+![Seoul Station platform on Seoul Subway Line 4, with a yellow Way Out sign overhead](/img/photo-seoul-subway-platform.jpg?v=e8e0034c "Seoul Station, Subway Line 4, 2023. Photo: Mobius6 (CC BY-SA 4.0), cropped.")
 
 VISITKOREA says free Wi-Fi is available in most public places, including airports, subway and train stations and some bus stops. Network names and sign-in steps vary by place. The national Public WiFi service — run with the three carriers in places like community centers, traditional markets and public buses — appears as **"Public WiFi Free"**: pick it, open your browser and tap the button to use the service. At airports and stations, use the network shown on the facility's signs or official website.
 
@@ -189,7 +189,7 @@ Last checked: 2026-10-22
 - Top it up with Korean won cash at the store counter or at subway station top-up machines.
 - Tap your card when you get on and when you get off the bus, or you lose the transfer discount.
 
-![Three steps to use T-money: buy at a convenience store, top up with Korean won cash, tap in and out on buses](/img/tmoney-steps.png "T-money in three steps. Prices and rules: see the sections below.")
+![Three steps to use T-money: buy at a convenience store, top up with Korean won cash, tap in and out on buses](/img/tmoney-steps.png?v=e2634456 "T-money in three steps. Prices and rules: see the sections below.")
 
 ## What is T-money?
 
@@ -259,7 +259,7 @@ Source: [Seoul Metropolitan Government](https://english.seoul.go.kr/policy/trans
 
 ## Getting your money back before you fly home
 
-![Where to refund a T-money balance: convenience stores for balances up to the store limit with a ₩500 fee, T-money Town for larger balances](/img/tmoney-refund.png "Refund options at a glance. Details and conditions are in the table below.")
+![Where to refund a T-money balance: convenience stores for balances up to the store limit with a ₩500 fee, T-money Town for larger balances](/img/tmoney-refund.png?v=a4cb9615 "Refund options at a glance. Details and conditions are in the table below.")
 
 You can cash out the money left on the card:
 
@@ -361,7 +361,7 @@ Last checked: 2026-10-22
 - Google Maps showed transit routes in Seoul in our web test on Oct 22, 2026, but no walking or driving directions for the route we checked.
 - Install Naver Map before you fly. It follows your phone's language, or you can pick English in the app's language setting.
 
-![Comparison of Google Maps and Naver Map in Korea for transit, walking and driving directions, based on our Oct 22, 2026 test and Naver Map's store listing](/img/naver-compare.png "Google Maps vs Naver Map in Korea. Details and sources below.")
+![Comparison of Google Maps and Naver Map in Korea for transit, walking and driving directions, based on our Oct 22, 2026 test and Naver Map's store listing](/img/naver-compare.png?v=51b5d6bf "Google Maps vs Naver Map in Korea. Details and sources below.")
 
 ## The short version
 
@@ -400,7 +400,7 @@ Source: [Naver Map App Store listing](https://apps.apple.com/us/app/naver-map-na
 
 ## How to use Naver Map, step by step
 
-![Naver Map in four steps: install the app from NAVER Corp., use English, search for a place, and get transit, walking or car directions](/img/naver-steps.png "Naver Map in four steps. Details below.")
+![Naver Map in four steps: install the app from NAVER Corp., use English, search for a place, and get transit, walking or car directions](/img/naver-steps.png?v=533ba430 "Naver Map in four steps. Details below.")
 
 ### 1. Install the right app
 
@@ -482,7 +482,7 @@ Last checked: 2026-10-22
 
 ## The short version
 
-![Comparison of AREX All-stop train, AREX Express, limousine bus and taxi from Incheon Airport by adult fare, travel time and payment](/img/airport-compare.png "Four ways from Incheon Airport to Seoul at a glance.")
+![Comparison of AREX All-stop train, AREX Express, limousine bus and taxi from Incheon Airport by adult fare, travel time and payment](/img/airport-compare.png?v=2e087b2c "Four ways from Incheon Airport to Seoul at a glance.")
 
 | Option | Adult fare | Time to central Seoul | Best for |
 |---|---|---|---|
