@@ -178,6 +178,149 @@ Yes. Before departure you can cancel online; after departure, generally at a sta
 
 ---
 
+# K-ETA Explained: Do You Need One to Visit Korea?
+
+URL: https://realkoreatrip.com/k-eta-korea/
+Last checked: 2026-10-23
+
+## Quick answer
+
+- K-ETA is an online travel authorization for people who can enter Korea without a visa. Where it's required, you need approval before you board your flight or ship.
+- 22 countries and regions are temporarily exempt until December 31, 2026 (Korea time), including the US, Canada, the UK, Japan and Australia. Check the official list, then confirm on the K-ETA site.
+- Apply only on the official site (k-eta.go.kr) or the K-ETA app. The fee is ₩10,000 (about US$7–8, plus a separate online payment fee), and approval usually takes up to 72 hours.
+
+If you can visit Korea without a visa, you've probably seen the letters K-ETA and wondered whether they apply to you. Short answer: maybe not right now. Korea runs the K-ETA system, but some countries and regions are temporarily exempt until the end of 2026 — and the official site is the place to check which side of that line you're on.
+
+![Graphic: K-ETA in brief — who it's for, the temporary exemption until December 31, 2026, the fee and processing time](/img/keta-facts.png?v=0f511aef "K-ETA at a glance. Details and sources below.")
+
+## The short version
+
+| | What the official site says |
+|---|---|
+| Who it's for | People who can enter Korea without a visa, visiting short-term for travel, family, events or business (no commercial activities) |
+| When you need it | Before you board your flight or ship to Korea |
+| Temporary exemption | 22 countries and regions don't need it until December 31, 2026 (KST) |
+| Fee | ₩10,000 (about US$7–8), plus a separate online payment fee — not refunded if refused |
+| Processing time | Typically 72 hours or less; no paid fast track |
+| Valid for | 3 years, or until your passport expires if that's sooner |
+| Where to apply | k-eta.go.kr or the official K-ETA app |
+
+Source: [K-ETA — application guide](https://www.k-eta.go.kr/portal/guide/viewetaapplication.do), [eligible countries](https://www.k-eta.go.kr/portal/guide/viewetaalification.do) and [exemption notice](https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y); checked Oct 23, 2026.
+
+## What K-ETA is (and isn't)
+
+K-ETA is Korea's Electronic Travel Authorization. It's for travelers from countries and regions whose citizens can enter Korea without a visa. Where it applies, you need approval before you board your flight or ship — the official guide warns that applying after boarding, or once you're already in Korea, can lead to refusal or entry restrictions.
+
+It isn't a visa. The site is clear that an approved K-ETA doesn't guarantee entry: the final decision is made by an immigration officer when you arrive. And it doesn't change how long you can stay. The K-ETA validity is separate from your visa-free stay — for example, the official list shows 90 days for US citizens and 6 months for Canadians.
+
+Source: [K-ETA — application guide](https://www.k-eta.go.kr/portal/guide/viewetaapplication.do) and [eligible countries](https://www.k-eta.go.kr/portal/guide/viewetaalification.do); checked Oct 23, 2026.
+
+## The temporary exemption, until December 31, 2026
+
+Korea's Ministry of Justice has extended a temporary K-ETA exemption for one more year: it runs from January 1 to December 31, 2026 (Korea time) and applies to the countries and regions that were already exempt.
+
+The extension notice itself doesn't list the countries, but the Korea Tourism Organization publishes the list of 22 countries and regions covered through December 31, 2026:
+
+- **Asia:** Japan, Taiwan, Hong Kong, Singapore, Macau
+- **North America:** United States (including Guam), Canada
+- **Europe:** United Kingdom, Germany, France, Italy, Netherlands, Spain, Poland, Sweden, Finland, Norway, Belgium, Denmark, Austria
+- **Oceania:** Australia, New Zealand
+
+Check that official list, and confirm your own status on the K-ETA site before you travel: if you're exempt, you'll see a pop-up message when you scan the photo page of your passport during the application.
+
+Even if you're exempt, you can still choose to apply — the notice mentions benefits such as not having to fill in an arrival card. In that case you pay the fee, and it isn't refunded. The temporary K-ETA exemption alone does not exempt you from the arrival card. If you travel without a valid K-ETA, [check whether you need to submit an e-Arrival Card](https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do); other exemptions, such as holding a valid Korean Residence Card, may apply. The official service is free.
+
+Source: [K-ETA — notice on extension of temporary exemption](https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y) (posted Dec 23, 2025), [Korea Tourism Organization — visa & travel requirements](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140769) (updated Sep 18, 2026) and [e-Arrival Card — who needs to submit](https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do); checked Oct 23, 2026.
+
+> **Our take:** If you'll be entering Korea in 2027, check the latest official notice before you travel. The extension notice cited here confirms the temporary exemption only through December 31, 2026 (KST).
+
+## Who doesn't need to apply
+
+The official FAQ lists people who are exempt from applying, including:
+
+- Holders of a valid Korean passport (including dual nationals)
+- Registered foreigners and people with a Korean visa
+- Children aged 17 and under, and adults aged 65 and over, on the date of entry
+- Transfer passengers — unless you need to enter Korea because of an itinerary change or to collect your baggage
+- Cruise travelers
+- Flight attendants and seafarers, ABTC (APEC) card holders, UN passport holders, diplomatic and official passport holders, and active-duty US service members under the US–Korea SOFA
+
+Source: [K-ETA — FAQ, "Who is eligible for the application exemption?"](https://www.k-eta.go.kr/portal/board/viewboardlist.do?tmpltNm=faq2); checked Oct 23, 2026.
+
+## How to apply
+
+![The arrivals hall of Incheon Airport Terminal 1, seen from the floor above](/img/photo-icn-t1-arrivals.jpg?v=66c8964f "Incheon Airport Terminal 1 arrivals hall, 2023. Photo: ノボホショコロトソ (CC BY 4.0), cropped.")
+
+Have these ready: a valid passport, an email address you can check, an ID photo, and a credit or debit card for the fee. Then:
+
+1. Go to **k-eta.go.kr** (or the official K-ETA app) and choose to apply as a member or a non-member.
+2. Enter your passport details — this is the point where exempt travelers see the pop-up.
+3. Enter your travel details, check everything, and pay the ₩10,000 fee.
+4. Wait for the result. The site says it typically takes 72 hours or less, but it can take longer when applications spike, and there's no expedited service.
+
+Source: [K-ETA — official website](https://www.k-eta.go.kr/portal/newapply/index.do?locale=EN), [application guide](https://www.k-eta.go.kr/portal/guide/viewetaapplication.do) and [what to prepare](https://www.k-eta.go.kr/portal/guide/viewetaalification.do); checked Oct 23, 2026.
+
+> **Local tip:** Apply well before your flight rather than counting on the 72-hour figure, and make sure the details you enter match your passport exactly. The site warns that false or inaccurate information can get an approval refused or cancelled.
+
+## Watch out for fake K-ETA sites
+
+The official site carries a warning about look-alike agencies and phishing sites that charge high fees for "agency" or "expedited" K-ETA applications. The site says applications are accepted only at www.k-eta.go.kr or through the K-ETA mobile app, and it offers no paid fast track.
+
+Source: [K-ETA — official website](https://www.k-eta.go.kr/portal/newapply/index.do?locale=EN) and [application guide](https://www.k-eta.go.kr/portal/guide/viewetaapplication.do); checked Oct 23, 2026.
+
+## After you're approved
+
+- **Use it again.** A K-ETA can be used for multiple trips during its 3-year validity (or until your passport expires, if sooner).
+- **Skip the arrival card — when you enter on your K-ETA.** If you also hold a Korean visa and enter on that visa, the official [e-Arrival Card guide](https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do) says you must complete an e-Arrival Card.
+- **New passport, new K-ETA.** If your passport is reissued — or your criminal record or infectious disease information changes — you need to apply again.
+- **Keep your travel details up to date.** If your purpose of visit, address in Korea, contact details, travel dates or companions change, update them on the official site.
+
+Source: [K-ETA — application guide](https://www.k-eta.go.kr/portal/guide/viewetaapplication.do) and [e-Arrival Card — who needs to submit](https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do); checked Oct 23, 2026.
+
+## Before you fly
+
+1. Check the [official exempt list](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140769), then confirm on k-eta.go.kr — scan your passport and see if the exemption pop-up appears.
+2. Using the temporary exemption without a valid K-ETA? [Check whether you need to submit the free e-Arrival Card](https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do), unless another arrival-card exemption applies.
+3. If you need a K-ETA, apply on the official site or app and pay ₩10,000.
+4. Allow time for processing before your flight.
+5. Plan your arrival: [Incheon Airport to Seoul](/incheon-airport-to-seoul/), [getting online](/esim-sim-card-pocket-wifi-korea/) and [paying in Korea](/paying-in-korea-foreign-cards-cash/).
+
+Source: [K-ETA — official website](https://www.k-eta.go.kr/portal/newapply/index.do?locale=EN) and [exemption notice](https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y); checked Oct 23, 2026.
+
+## FAQ
+
+### Do I need a K-ETA to visit Korea in 2026?
+
+It depends on your passport. K-ETA is for people who can enter Korea without a visa, but 22 countries and regions — including the US, Canada, the UK, Japan and Australia — are temporarily exempt until December 31, 2026 (KST). The K-ETA site shows a pop-up if you're exempt when you scan your passport.
+
+### How much does a K-ETA cost?
+
+₩10,000 (about US$7–8), plus a separate online payment fee. It isn't refunded if your application is refused.
+
+### How long does K-ETA approval take?
+
+The official site says typically 72 hours or less, though it can take longer. There's no expedited service.
+
+### How long is a K-ETA valid?
+
+3 years, or until your passport expires if that's sooner. You can use it for multiple trips, but each stay is still limited to your visa-free period.
+
+### Do children need a K-ETA?
+
+Children aged 17 and under on the date of entry are on the official list of people exempt from applying, as are adults aged 65 and over.
+
+## Sources
+
+- K-ETA (Ministry of Justice) — official website: https://www.k-eta.go.kr/portal/newapply/index.do?locale=EN
+- K-ETA — Application guide (fee, processing time, validity): https://www.k-eta.go.kr/portal/guide/viewetaapplication.do
+- K-ETA — Eligible countries and what to prepare: https://www.k-eta.go.kr/portal/guide/viewetaalification.do
+- K-ETA — Notice on extension of K-ETA temporary exemption (Dec 23, 2025): https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y
+- K-ETA — FAQ (who is exempt from applying): https://www.k-eta.go.kr/portal/board/viewboardlist.do?tmpltNm=faq2
+- Korea Tourism Organization — Visa & travel requirements (K-ETA exempt countries and regions): https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140769
+- e-Arrival Card (Ministry of Justice) — who needs to submit: https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do
+
+---
+
 # Paying in Korea: Foreign Cards, Cash and What Still Needs Won
 
 URL: https://realkoreatrip.com/paying-in-korea-foreign-cards-cash/
