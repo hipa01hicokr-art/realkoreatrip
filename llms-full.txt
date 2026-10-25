@@ -335,7 +335,9 @@ Last checked: 2026-10-23
 
 ![A blue KTX-Cheongryong high-speed train waiting at a platform at Seoul Station](/img/photo-ktx-seoul-station.jpg?v=326e9396 "A KTX-Cheongryong train at Seoul Station, 2024. Photo: 생각하는 나무 (CC BY-SA 4.0), cropped.")
 
-The KTX is Korea's high-speed train, and you can book it in English before you arrive. There's one change you won't find in older guides: on September 1, 2026, the KTX and the SRT — the high-speed trains that used to run from Suseo Station under a separate company — started running as one service called KTX. So if a blog post sends you to a separate SRT website, it's out of date.
+**Book the KTX in English on Korail's site for foreigners (korail.com/global/eng) or in the KORAIL+ app, and pay by credit card online. Tickets normally go on sale at 07:00 Korea time two months before your travel date** (Seollal and Chuseok holiday trains follow a separate schedule). Since September 1, 2026, the KTX and the SRT run as one service called KTX, so a blog post that sends you to a separate SRT website is out of date. A standard-class adult fare from Seoul to Busan via Gyeongju is ₩54,400; fares vary by route.
+
+Source: [Korail — ticketing guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets), [Ministry of Land, Infrastructure and Transport](https://www.korea.kr/news/policyNewsView.do?newsId=148970889) (Korean) and [Korail — KTX fare table, as of Sep 1, 2026](https://www.korail.com/ticket/reserve/train-timeTable) (Korean); checked Oct 23, 2026.
 
 ## The short version
 
@@ -683,7 +685,7 @@ Last checked: 2026-10-23
 
 Jeonju makes a manageable day trip from Seoul: a fast train, a walkable old town of tiled roofs, a royal shrine, and a food culture that UNESCO recognizes. This guide covers the parts that decide whether the day goes smoothly: which station to leave from, where you'll arrive, and what to see once you're there.
 
-![Graphic: Jeonju day trip at a glance — KTX from Yongsan, Hanok Village, Gyeonggijeon Shrine, what to eat](/img/jeonju-steps.png?v=64f781ab "Jeonju day trip at a glance. Details and sources below.")
+![Graphic: Jeonju day trip at a glance — KTX from Yongsan, Hanok Village, Gyeonggijeon Shrine, what to eat](/img/jeonju-steps.png?v=d3ebdb62 "Jeonju day trip at a glance. Details and sources below.")
 
 ## The short version
 
@@ -794,7 +796,9 @@ Last checked: 2026-10-23
 - 22 countries and regions are temporarily exempt until December 31, 2026 (Korea time), including the US, Canada, the UK, Japan and Australia. Check the official list, then confirm on the K-ETA site.
 - Apply only on the official site (k-eta.go.kr) or the K-ETA app. The fee is ₩10,000 (about US$7–8, plus a separate online payment fee), and approval usually takes up to 72 hours.
 
-If you can visit Korea without a visa, you've probably seen the letters K-ETA and wondered whether they apply to you. Short answer: maybe not right now. Korea runs the K-ETA system, but some countries and regions are temporarily exempt until the end of 2026 — and the official site is the place to check which side of that line you're on.
+**If you can enter Korea without a visa, you normally need a K-ETA before you board, but 22 countries and regions, including the US, Canada, the UK, Japan and Australia, are temporarily exempt until December 31, 2026 (Korea time).** Some travelers are also exempt personally (see below). If you do need one, apply only on k-eta.go.kr or the official K-ETA app: the fee is ₩10,000 (about US$7–8, plus a separate online payment fee), processing typically takes 72 hours or less, and it's valid for 3 years or until your passport expires, if that's sooner.
+
+Source: [K-ETA — application guide](https://www.k-eta.go.kr/portal/guide/viewetaapplication.do) and [exemption notice](https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y); checked Oct 23, 2026.
 
 ![Graphic: K-ETA in brief — who it's for, the temporary exemption until December 31, 2026, the fee and processing time](/img/keta-facts.png?v=0f511aef "K-ETA at a glance. Details and sources below.")
 
@@ -933,11 +937,13 @@ Last checked: 2026-10-23
 
 ## Quick answer
 
-- Check your entry permission first. Visa-free visitors normally need a K-ETA, but 22 countries and regions are temporarily exempt until December 31, 2026 (Korea time).
+- Check your entry permission first. Visa-free visitors normally need a K-ETA unless a nationality-based or personal exemption applies. The temporary exemption for 22 countries and regions runs until December 31, 2026 (Korea time).
 - Then see whether you need an e-Arrival Card. It's free and can be submitted within 3 days before you arrive; the official site has a quick checker.
 - Pack for 220-volt sockets with two round holes, and declare food or more than US$10,000 in cash at customs.
 
-Small practical problems can trip up a first trip to Korea: a phone with no data at the arrivals gate, a charger that won't fit the wall, a top-up machine that only takes cash. None of it is hard to fix once you're there, but it's easier to sort at home. This list runs roughly in the order you'll need things, from before you book your flight to your first night in Korea.
+**Sort three things before you fly: your entry permission (a visa, or visa-free entry with a K-ETA unless a nationality-based or personal exemption applies; the temporary exemption for 22 countries and regions runs until December 31, 2026, Korea time), the free e-Arrival Card if you need one (submit it within 3 days before you arrive), and an adapter for Korea's 220-volt sockets with two round holes.** Then set up phone data, bring a card plus some won, and save 112 (police), 119 (fire and ambulance) and 1330 (Korea Travel Helpline). The list below runs in the order you'll need things.
+
+Source: [e-Arrival Card](https://www.e-arrivalcard.go.kr/portal/main/index.do?locale=EN), [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140769) and [disaster safety services](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248145); checked Oct 23, 2026.
 
 ![Graphic: Korea first-timer checklist — entry, arrival card, packing, phone and money, emergency numbers](/img/checklist-steps.png?v=b7365dff "The checklist at a glance. Details and sources below.")
 
@@ -945,7 +951,7 @@ Small practical problems can trip up a first trip to Korea: a phone with no data
 
 | When | What to sort |
 |---|---|
-| Before you book | Visa, K-ETA, or the temporary K-ETA exemption |
+| Before you book | Visa, K-ETA, or a K-ETA exemption (nationality-based or personal) |
 | 3 days before you land | The e-Arrival Card, if you need one (free) |
 | A week before you land | Q-CODE or a health questionnaire, if your recent travel requires it |
 | When you pack | An adapter for 220-volt, two-round-hole sockets; nothing you'd have to declare by accident |
@@ -1592,7 +1598,9 @@ Last checked: 2026-10-22
 - Need to make calls, or get a text code from a booking app? Check that exact plan before you buy. A Korean number alone isn't enough: KT's data-only eSIM comes with an 010 number that can receive calls and texts after its airport entry check, but outgoing calls and texts need a Data + Voice plan.
 - Family or group that stays together? One pocket Wi-Fi (₩4,400 a day at KT and LG U+) covers several phones. You'll have to return it at the airport.
 
-You'll want data from the moment you land. The train timetable, the address of your guesthouse, the map that tells you which station exit to take — you'll be checking them on your phone. There are four ways to get online in Korea, and the right one mostly depends on three things: whether your phone works with the plan you want, whether you need to make calls or get app codes, and whether your group will stay together.
+**Our pick for most visitors is a data eSIM from a Korean carrier, bought before you fly: SK Telecom, KT and LG U+ each list one day of LTE data at ₩6,500** — if your phone supports eSIM, isn't locked to your home carrier and is on the carrier's supported list. Need to make calls or get an app's text code? Check that exact plan before you buy. For a group that stays together, one pocket Wi-Fi at ₩4,400 a day (KT and LG U+) covers several phones, but you return it at the airport.
+
+Source: [SK Telecom](https://www.skroaming.com/esim/esim), [KT](https://roaming.kt.com/eng/esim) and [KT pocket Wi-Fi](https://roaming.kt.com/eng/router), [LG U+](https://www.lguplus.com/korea-sim/eng/pc/product/esim?tab=data) and [LG U+ pocket Wi-Fi](https://www.lguplus.com/korea-sim/eng/pc/product/pocket-wifi); checked Oct 22, 2026.
 
 ![Comparison of eSIM, physical SIM card, pocket Wi-Fi and free public Wi-Fi in Korea, with prices from the carriers' websites checked Oct 22, 2026](/img/esim-compare.png?v=8092484a "Four ways to get online in Korea. Details and sources below.")
 
@@ -1614,9 +1622,11 @@ If you just need maps, messaging apps and the internet, a data-only plan does th
 
 It gets less simple when you think you need "a Korean number". Having a number, receiving calls, making calls and getting a booking app's text code are separate things, and plans differ on each:
 
-- **KT** gives each of its visitor eSIMs an 010 number. With its data-only eSIM you can receive calls and texts after KT's entry check at the airport, but you can't make calls or send texts.
-- **LG U+** says text verification for restaurant and taxi booking apps works with its Voice/SMS plans, but not with data only.
-- **Calls and texts out** need a Data + Voice plan, switched on after a passport check — LG U+ and KT do this at their airport counters, and KT sells its voice eSIMs at the airport, not online.
+| What you need | What the carriers say |
+|---|---|
+| Receive calls and texts | **KT** gives each visitor eSIM an 010 number; with its data-only eSIM you can receive calls and texts after KT's entry check at the airport, but not make calls or send texts |
+| Booking-app text codes | **LG U+**: text verification for restaurant and taxi booking apps works with its Voice/SMS plans, not with data only |
+| Make calls and send texts | A Data + Voice plan, switched on after a passport check: LG U+ and KT do this at their airport counters; KT sells its voice eSIMs at the airport, not online |
 
 So if a particular app matters to you, check that the exact plan supports it before you buy. A local number on its own doesn't mean the code will arrive.
 
@@ -1766,6 +1776,10 @@ Last checked: 2026-10-22
 - Top it up with Korean won cash at the store counter or at subway station top-up machines.
 - Tap your card when you get on and when you get off the bus, or you lose the transfer discount.
 
+**A T-money card costs about ₩3,000–₩5,000 at Korean convenience stores (card only, depending on the design), and you top it up with Korean won cash, ₩1,000–₩90,000 at a time.** With it, an adult Seoul subway ride costs ₩1,550 for the first 10 km (₩1,650 with a single ticket), and to qualify for transfer discounts with buses you tap in and out and follow the time and route rules below. Refunding the leftover balance at a convenience store costs ₩500 (up to each store's limit).
+
+Source: [T-money guide for foreign visitors](https://pay.tmoney.co.kr/ncs/pct/ugd/ReadFrgnGd.dev), [card prices](https://pay.tmoney.co.kr/ncs/pct/tmnyintd/ReadTmnyIntd.dev?cardGdKndCd=01), [refund rules](https://pay.tmoney.co.kr/ncs/pct/ugd/ReadNrmlCardRyGd.dev) (Korean) and [Seoul Metropolitan Government — subway fares](https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/); checked Oct 22, 2026.
+
 ![Three steps to use T-money: buy at a convenience store, top up with Korean won cash, tap in and out on buses](/img/tmoney-steps.png?v=e2634456 "T-money in three steps. Prices and rules: see the sections below.")
 
 ## What is T-money?
@@ -1791,9 +1805,11 @@ Source: [Seoul — cash-free bus routes](https://news.seoul.go.kr/traffic/archiv
 
 The surest place is a **convenience store**. T-money lists GS25, CU, 7-Eleven, emart24, MINISTOP, Story Way and 365PLUS as sellers. Ask at the counter for a "T-money card".
 
-- **Price: about ₩3,000–₩5,000**, depending on the design. Basic cards are ₩3,000 when the store has them.
-- **The price is for the card only.** Top it up before your first ride.
-- **The card price isn't included in balance refunds** — you only get back the money loaded on it.
+| | |
+|---|---|
+| Price | About ₩3,000–₩5,000, depending on the design (basic cards ₩3,000 when the store has them) |
+| What you get | The card only, with no balance: top it up before your first ride |
+| Refundable? | The card price no: balance refunds cover only the money loaded on it |
 
 Source: [T-money — card types and prices](https://pay.tmoney.co.kr/ncs/pct/tmnyintd/ReadTmnyIntd.dev?cardGdKndCd=01), [T-money guide for foreign visitors](https://pay.tmoney.co.kr/ncs/pct/ugd/ReadFrgnGd.dev) and [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663); checked Oct 22, 2026.
 
@@ -1803,15 +1819,12 @@ The Korea Tourism Organization says information centers in Seoul subway stations
 
 ## How to top it up
 
-Top-ups at convenience stores and subway station machines are made with **Korean won cash**. You can top up:
-
-- at any convenience store counter that sells T-money — hand over the card and the cash, and say how much you want to add
-- at the top-up machines and information centers in subway stations
-
-The rules:
-
-- ₩1,000 to ₩90,000 per top-up, in ₩1,000 steps
-- A card can hold up to ₩500,000
+| | |
+|---|---|
+| Pay with | **Korean won cash** (at convenience stores and subway station machines) |
+| Where | Any convenience store counter that sells T-money (hand over the card and cash, say how much to add) · top-up machines and information centers in subway stations |
+| Per top-up | ₩1,000 to ₩90,000, in ₩1,000 steps |
+| Card limit | Up to ₩500,000 |
 
 Source: [T-money guide for foreign visitors](https://pay.tmoney.co.kr/ncs/pct/ugd/ReadFrgnGd.dev), checked Oct 22, 2026.
 
@@ -2061,6 +2074,10 @@ Last checked: 2026-10-22
 - Fastest to Seoul Station: AREX Express — ₩13,000; 43 min between Seoul Station and T1, 51 min to T2. Buy a separate ticket before boarding.
 - With heavy luggage: airport limousine bus (₩16,000–₩17,000 for adults on Airport Limousine's Seoul routes; other operators vary) or a taxi. Arriving late? Night buses (route numbers start with N) and taxis run when trains and regular buses have finished.
 
+**Of the four options compared here, the least expensive way from Incheon Airport into Seoul is the AREX All-stop train: ₩4,750 from Terminal 1 or ₩5,350 from Terminal 2 to Seoul Station for an adult with a transit card, about 59 or 66 minutes.** The AREX Express is the fastest to Seoul Station (₩13,000; 43 minutes from T1, 51 from T2). With heavy luggage, an airport limousine bus (₩16,000–₩17,000 for adults on Airport Limousine's Seoul routes; other operators vary) or a taxi is easier.
+
+Source: [AREX All-stop fares](https://www.airportrailroad.com/train/normal/fare), [AREX Express](https://www.airportrailroad.com/train/express/introduce) and [Airport Limousine](https://www.airportlimousine.co.kr/sub/sub02_01.php); checked Oct 22, 2026.
+
 ## The short version
 
 ![Comparison of AREX All-stop train, AREX Express, limousine bus and taxi from Incheon Airport by adult fare, travel time and payment](/img/airport-compare.png?v=2e087b2c "Four ways from Incheon Airport to Seoul at a glance.")
@@ -2074,7 +2091,15 @@ Last checked: 2026-10-22
 
 Source: [AREX All-stop fares](https://www.airportrailroad.com/train/normal/fare), [AREX Express](https://www.airportrailroad.com/train/express/introduce), [Airport Limousine](https://www.airportlimousine.co.kr/sub/sub02_01.php) and [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140654) — adult fares, checked Oct 22, 2026.
 
-First, check your ticket for **Terminal 1 (T1) or Terminal 2 (T2)**. Train fares and times are different from each terminal. If you need to switch terminals, free shuttle buses connect them — route 03 runs from T2 to T1 every 7–20 minutes (4:30 am–11:35 pm) and route 04 from T1 to T2 every 10–20 minutes (4:30 am–11:20 pm); allow time for waiting as well as the ride. The AREX train takes about 6 minutes (₩1,200 for adults with a transit card).
+First, check your ticket for **Terminal 1 (T1) or Terminal 2 (T2)**. Train fares and times are different from each terminal. If you need to switch terminals:
+
+| Between terminals | How | When / cost |
+|---|---|---|
+| T2 → T1 | Free shuttle bus, route 03 | Every 7–20 min, 4:30 am–11:35 pm |
+| T1 → T2 | Free shuttle bus, route 04 | Every 10–20 min, 4:30 am–11:20 pm |
+| Either way | AREX train, about 6 min | ₩1,200 (adult, transit card) |
+
+Allow time for waiting as well as the ride.
 
 ## Option 1: AREX All-stop train (cheapest)
 
