@@ -679,11 +679,13 @@ Last checked: 2026-10-23
 
 ## Quick answer
 
-- Take the KTX from Yongsan Station. Seoul to Jeonju takes about 1 hour 40 minutes, and Yongsan has more Jeonju trains than Seoul Station. A standard adult fare is ₩31,600.
-- Jeonju Hanok Village is free to enter and open all year. It's a historic neighborhood of around 700 hanok buildings, with Gyeonggijeon Shrine (adults ₩3,000) at its heart.
+- Take the KTX from Yongsan Station. Seoul to Jeonju takes about 1 hour 40 minutes, and Yongsan has more Jeonju trains than Seoul Station. A standard-class adult fare example is ₩31,600 via Gongju; fares vary by route.
+- Jeonju Hanok Village is free to enter and open all year. It's a historic neighborhood of around 700 hanok buildings, with Gyeonggijeon Shrine (adults aged 25–64 ₩3,000) at its heart.
 - Book ahead for weekends. Jeonju's tourism office says KTX seats sell out quickly on weekends, holidays and festival seasons.
 
-Jeonju makes a manageable day trip from Seoul: a fast train, a walkable old town of tiled roofs, a royal shrine, and a food culture that UNESCO recognizes. This guide covers the parts that decide whether the day goes smoothly: which station to leave from, where you'll arrive, and what to see once you're there.
+**Jeonju is about 1 hour 40 minutes from Seoul by KTX from Yongsan Station (a standard-class adult fare example is ₩31,600 via Gongju; fares and journey times vary by service), and Yongsan has more Jeonju trains than Seoul Station.** Jeonju Hanok Village is free to enter and open all year, with around 700 hanok buildings, and Gyeonggijeon Shrine costs ₩3,000 for adults aged 25–64 (free for everyone on the last Wednesday of each month). On weekends and holidays, book early: Jeonju's tourism office says KTX seats sell out quickly.
+
+Source: [Visit Jeonju — getting to Jeonju](https://tour.jeonju.go.kr/eng/index.jeonju?menuCd=DOM_000000205008000000), [Korea Tourism Organization — Jeonju Hanok Village](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110848) and [Gyeonggijeon Shrine](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=108728), and Korail's KTX fare table (as of Sep 1, 2026); checked Oct 23, 2026.
 
 ![Graphic: Jeonju day trip at a glance — KTX from Yongsan, Hanok Village, Gyeonggijeon Shrine, what to eat](/img/jeonju-steps.png?v=d3ebdb62 "Jeonju day trip at a glance. Details and sources below.")
 
@@ -691,17 +693,17 @@ Jeonju makes a manageable day trip from Seoul: a fast train, a walkable old town
 
 | | What to know |
 |---|---|
-| Train | KTX from Yongsan Station, about 1 hour 40 minutes; standard adult fare ₩31,600 |
+| Train | KTX from Yongsan Station, about 1 hour 40 minutes on faster services; fare example ₩31,600 via Gongju (standard adult), varies by route |
 | From the airport | Direct airport bus from Incheon to Jeonju (different arrival point from the train) |
 | Hanok Village | Free to enter, open all year, around 700 hanok buildings |
-| Gyeonggijeon Shrine | Adults ₩3,000; free for everyone on the last Wednesday of each month |
+| Gyeonggijeon Shrine | Adults (25–64) ₩3,000; free for everyone on the last Wednesday of each month |
 | Busy times | Weekends, holidays and festival seasons: book seats early |
 
 Source: [Visit Jeonju — getting to Jeonju](https://tour.jeonju.go.kr/eng/index.jeonju?menuCd=DOM_000000205008000000), [Korea Tourism Organization — Jeonju Hanok Village](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110848) and [Gyeonggijeon Shrine](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=108728), and Korail's KTX fare table (as of Sep 1, 2026; see our [KTX guide](/how-to-book-ktx-korea/)); checked Oct 23, 2026.
 
 ## Getting there
 
-**By KTX (fastest).** Jeonju's tourism office puts the KTX at about 1 hour 40 minutes from Seoul, and it points out that Jeonju trains leave Yongsan Station much more often than Seoul Station. If Seoul Station looks sold out, search from Yongsan. The standard adult fare from Yongsan to Jeonju is ₩31,600. Our [KTX booking guide](/how-to-book-ktx-korea/) walks through buying tickets in English.
+**By KTX (fastest).** Jeonju's tourism office puts the KTX at about 1 hour 40 minutes from Seoul, and it points out that Jeonju trains leave Yongsan Station much more often than Seoul Station. If Seoul Station looks sold out, search from Yongsan. Korail's fare table lists a standard-class adult fare of ₩31,600 from Yongsan to Jeonju via Gongju and ₩31,000 via Seodaejeon. Check the route, travel time and final fare for your chosen train. Our [KTX booking guide](/how-to-book-ktx-korea/) walks through buying tickets in English.
 
 **From Incheon Airport.** If you're heading straight to Jeonju after landing, there's a direct airport bus. Tickets are sold at the counters and kiosks in the arrivals area, and the kiosks take overseas credit cards. For Daehan Limousine's buses to the Jeonju Limousine Terminal, the operator lists boarding at zone 12B at Terminal 1 and zone 9 at Terminal 2. Buses sold as "Jeonju" can stop at different places in the city, so check the operator and arrival terminal on your ticket and follow the bay printed on it. The tourism office suggests picking a bus at least 1 hour 30 minutes to 2 hours after your landing time, to allow for immigration and baggage.
 
@@ -759,11 +761,11 @@ Source: [Visit Jeonju — getting to Jeonju](https://tour.jeonju.go.kr/eng/index
 
 ### How do I get from Seoul to Jeonju?
 
-The KTX is fastest: about 1 hour 40 minutes, with more departures from Yongsan Station than from Seoul Station. A standard adult ticket from Yongsan costs ₩31,600. There's also a direct airport bus from Incheon.
+The KTX is fastest: about 1 hour 40 minutes, with more departures from Yongsan Station than from Seoul Station. A standard-class adult fare example from Yongsan is ₩31,600 via Gongju; fares vary by route. There's also a direct airport bus from Incheon.
 
 ### Is Jeonju Hanok Village free?
 
-Yes. The village is free to enter and open all year. Some sights inside charge admission, such as Gyeonggijeon Shrine (₩3,000 for adults).
+Yes. The village is free to enter and open all year. Some sights inside charge admission, such as Gyeonggijeon Shrine (₩3,000 for adults aged 25–64).
 
 ### Is a day trip to Jeonju enough?
 
@@ -1085,10 +1087,12 @@ Last checked: 2026-10-23
 ## Quick answer
 
 - Foreign visitors staying in Korea for less than 6 months can claim back VAT on goods bought at stores that show a Tax Refund sign, for purchases of ₩15,000 or more in a single transaction.
-- Instant refunds at the till work for purchases under ₩1,000,000 each, up to ₩5,000,000 in total per trip — just show your passport.
-- For other refunds, finish export clearance before you send your bags off: scan your passport at the airport refund kiosk, and if it asks for a customs inspection, show the unopened goods. No customs confirmation, no refund.
+- Instant refunds at the till work at participating instant-refund stores: show your passport, and each purchase must be at least ₩15,000 and under ₩1,000,000, up to ₩5,000,000 in instant-refund purchases in total after you arrive.
+- For general refunds, keep the goods available for inspection: at Incheon Airport, start at a refund kiosk and show the unopened goods to customs if it asks. If the goods will go in a checked bag, tell the airline at check-in and complete the kiosk/customs export-clearance steps before handing that bag over; collect the airport refund afterwards as instructed.
 
-Prices in Korean shops include value-added tax, and as a visitor you can get part of it back. The rules aren't complicated, but the one step people miss, getting their purchases cleared for export at the airport before they check their bags, is the one that costs them the refund. Here's how it works, from the till to the departure gate.
+**Foreign visitors staying in Korea for less than 6 months can get part of the VAT back on purchases of ₩15,000 or more in a single transaction at stores showing a Tax Refund sign: roughly 5–8% of the price, after fees.** At participating instant-refund stores, show your passport to check eligibility: each purchase must be at least ₩15,000 and under ₩1,000,000, with no more than ₩5,000,000 in instant-refund purchases in total after arrival. For general refunds, keep the goods available for inspection. At Incheon Airport, start at a refund kiosk and show the goods to customs if instructed. If they will travel in checked baggage, tell the airline at check-in and complete the kiosk/customs export-clearance steps before handing that bag over.
+
+Source: [Korea Tourism Organization — tax refund guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248765) and the [Presidential Decree](https://www.law.go.kr/법령/외국인관광객등에대한부가가치세및개별소비세특례규정) in force from Jan 2, 2026 (Korean); checked Oct 23, 2026.
 
 ![Graphic: Korea tax refund at a glance — who qualifies, the ₩15,000 minimum, instant refund limits and the customs step](/img/taxrefund-steps.png?v=756d2ac5 "Tax refund in Korea at a glance. Details and sources below.")
 
@@ -1099,7 +1103,7 @@ Prices in Korean shops include value-added tax, and as a visitor you can get par
 | Who | Foreign visitors staying in Korea for less than 6 months (and some overseas Koreans) |
 | Where | Stores showing a "Tax Refund" sign with a refund company's logo |
 | Minimum | ₩15,000 in a single transaction |
-| Instant refund in store | Under ₩1,000,000 per purchase, up to ₩5,000,000 in total after you arrive |
+| Instant refund in store | At participating stores, with your passport: under ₩1,000,000 per purchase, up to ₩5,000,000 in total after you arrive |
 | Take it out of Korea | Within 3 months of buying |
 | How much back | Roughly 5–8% of the price, after fees |
 
