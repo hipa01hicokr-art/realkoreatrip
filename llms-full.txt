@@ -1,6 +1,6 @@
 # Real Korea Trip — full text of published guides
 
-Source site: https://realkoreatrip.com/ · Generated 2026-10-23
+Source site: https://realkoreatrip.com/ · Generated 2026-10-25
 
 ---
 
@@ -683,7 +683,7 @@ Last checked: 2026-10-23
 
 Jeonju makes a manageable day trip from Seoul: a fast train, a walkable old town of tiled roofs, a royal shrine, and a food culture that UNESCO recognizes. This guide covers the parts that decide whether the day goes smoothly: which station to leave from, where you'll arrive, and what to see once you're there.
 
-![Graphic: Jeonju day trip at a glance — KTX from Yongsan, Hanok Village, Gyeonggijeon Shrine, what to eat](/img/jeonju-steps.png?v=0e763db7 "Jeonju day trip at a glance. Details and sources below.")
+![Graphic: Jeonju day trip at a glance — KTX from Yongsan, Hanok Village, Gyeonggijeon Shrine, what to eat](/img/jeonju-steps.png?v=64f781ab "Jeonju day trip at a glance. Details and sources below.")
 
 ## The short version
 
@@ -1227,7 +1227,9 @@ Last checked: 2026-10-23
 - Carry a little won anyway. A regular T-money card is topped up with Korean won cash.
 - Landing at Incheon Terminal 1? The arrivals floor has currency exchange counters that are open 24 hours.
 
-Cards are widely used in Korea. Hotels, department stores and most shops take them, and taxis accept card payment too — though no one can promise your particular card will work everywhere. The catch is the small stuff — a regular T-money top-up, the odd shop that doesn't take cards — and that's where a little Korean won saves you a walk to the ATM.
+**Most businesses in Korea accept credit cards — the Korea Tourism Organization names Visa, Mastercard and American Express — but some stores don't, and a regular T-money card is topped up with Korean won cash, so carry some won.** At Seoul's 440 new subway ticket machines on Lines 1–8, a foreign card buys single tickets and Climate Card short-term passes for about a 3.7% fee. Landing at Incheon Terminal 1? The arrivals floor has currency exchange counters open 24 hours.
+
+Source: [VISITKOREA — currency](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140040), [T-money](https://pay.tmoney.co.kr/ncs/pct/ugd/ReadFrgnGd.dev), [Seoul Metropolitan Government](https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/) and [Incheon Airport](https://www.airport.kr/ap_en/1536/subview.do); checked Oct 23, 2026.
 
 ![Where a foreign card works in Korea: shops and hotels usually, taxis usually, new subway ticket machines yes with a fee, regular T-money top-ups at stores or stations need won cash](/img/pay-compare.png?v=96e100e5 "Card or cash? Details and sources below.")
 
@@ -1359,7 +1361,9 @@ Last checked: 2026-10-23
 - Tap your card when you enter and when you leave. Skip the tap on the way out and you lose the transfer discount on your next bus or train.
 - Single-journey tickets add a ₩500 deposit that you get back from a refund machine at your destination.
 
-The Seoul subway is the easiest part of a first trip to Korea, once you know three things: what to pay with, that you tap out as well as in, and that a transfer to a bus can be discounted. Station signs include English, and the lines are numbered and color-coded. What catches visitors out is the fare system, so that's most of this guide.
+**An adult Seoul subway ride costs ₩1,550 with a T-money card or ₩1,650 with a single-journey ticket (plus a ₩500 deposit you get back) for the first 10 km.** Tap your card when you enter and when you leave, or you lose the transfer discount on your next bus or train. The fare system is where visitors get caught out, so most of this guide is about paying and transferring.
+
+Source: [Seoul Metropolitan Government — subway fares](https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/) (as of Jun 28, 2025) and [Seoul Metro — fare](http://www.seoulmetro.co.kr/en/page.do?menuIdx=348); checked Oct 23, 2026.
 
 ![Graphic: Seoul subway in 4 steps — get a card or ticket, tap in, tap out, transfer if eligible](/img/subway-steps.png?v=ba9db5a8 "The Seoul subway in four steps. Details and sources below.")
 
@@ -1473,7 +1477,9 @@ Last checked: 2026-10-23
 - Then try kongnamul gukbap (bean sprout soup with rice). The city recommends it with a poached egg, sesame oil and roasted laver, and pairs it with moju, a herbal liquor.
 - Go to Nambu Market for pisundae, the early-morning Dawn Goblin Market (go before 9 a.m.) and the market's youth mall and night market.
 
-Jeonju is a UNESCO City of Gastronomy. If you only have a day, three things are worth knowing about: Jeonju bibimbap, the city's bean sprout soup with rice, and Nambu Market. Here's what each one is, how it's served, and where to find it.
+**In Jeonju, eat three things: Jeonju bibimbap (more than 30 ingredients, with rice cooked in beef bone broth), kongnamul gukbap (bean sprout soup with rice) and pisundae at Nambu Market, next to Pungnammun Gate.** Jeonju is a UNESCO City of Gastronomy. For the market's early-morning Dawn Goblin Market, go before 9 a.m.
+
+Source: [Visit Jeonju — food](https://tour.jeonju.go.kr/eng/index.jeonju?menuCd=DOM_000000203010000000) and [Nambu Market](https://tour.jeonju.go.kr/eng/index.jeonju?menuCd=DOM_000000203011001000), and [UNESCO Creative Cities Network — Jeonju](https://www.unesco.org/en/creative-cities/jeonju); checked Oct 23, 2026.
 
 ![Graphic: what to eat in Jeonju — bibimbap, kongnamul gukbap with moju, pisundae, Nambu Market](/img/jeonju-food-steps.png?v=d63eb797 "What to eat in Jeonju at a glance. Details and sources below.")
 
@@ -1931,6 +1937,10 @@ Last checked: 2026-10-22
 - Use Naver Map in Korea. It has English maps, English navigation, and transit, walking and driving directions.
 - Google Maps showed transit routes in Seoul in our web test on Oct 22, 2026, but no walking or driving directions for the route we checked.
 - Install Naver Map before you fly. It follows your phone's language, or you can pick English in the app's language setting.
+
+**Install Naver Map (developer: NAVER Corp.) before you fly.** In our web test on Oct 22, 2026, Google Maps showed transit routes in Seoul but no walking or driving directions for the route we checked. Naver Map offers transit directions with real-time departure and arrival times, walking and driving directions, and maps in four languages, including English.
+
+Source: our Google Maps test on Oct 22, 2026; [Naver Map App Store listing](https://apps.apple.com/us/app/naver-map-navigation/id311867728); checked Oct 22, 2026.
 
 ![Comparison of Google Maps and Naver Map in Korea for transit, walking and driving directions, based on our Oct 22, 2026 test and Naver Map's store listing](/img/naver-compare.png?v=51b5d6bf "Google Maps vs Naver Map in Korea. Details and sources below.")
 
