@@ -1,6 +1,6 @@
 # Real Korea Trip — full text of published guides
 
-Source site: https://realkoreatrip.com/ · Generated 2026-10-25
+Source site: https://realkoreatrip.com/ · Generated 2026-10-26
 
 ---
 
@@ -277,6 +277,265 @@ Check LOST 112, the police lost-and-found site, at lost112.go.kr. From a phone i
 - Korea Tourism Organization — Emergency situations: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140042
 - Korea Tourism Organization — 1330 Travel Helpline & Complaint Center: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632
 - Seoul Metropolitan Government — contact numbers: https://english.seoul.go.kr/policy/transportation/modes-of-transport/taxi/
+
+---
+
+# 10 Apps for Traveling in Korea: What Each One Does
+
+URL: https://realkoreatrip.com/korea-travel-apps/
+Last checked: 2026-10-25
+
+## Quick answer
+
+- Install Naver Map and Papago before you fly. Naver Map gives transit, walking and driving directions with English maps; Papago, also by NAVER Corp., translates text, photos and speech across 14 languages (offline only for some languages, after you download a pack).
+- For transport: KORAIL+ sells KTX tickets. For taxis, k.ride and TABA take overseas cards registered in the app, and Uber works with your existing account.
+- For entry and safety: apply for a K-ETA only on k-eta.go.kr or the official K-ETA app, and add the government's Emergency Ready and Baro Emergency Reporting apps.
+
+**The two apps to install before you fly are Naver Map, for transit, walking and driving directions with English maps, and Papago, NAVER's translator for 14 languages that also reads text from photos.** Add KORAIL+ for KTX tickets, a taxi app that takes overseas cards (k.ride, Uber or TABA), the official K-ETA app if you need one, and the government's two safety apps. Below: what each app does, according to its official listing or operator.
+
+Source: [Naver Map](https://apps.apple.com/us/app/naver-map-navigation/id311867728) and [Papago](https://apps.apple.com/us/app/naver-papago-ai-translator/id1147874819) App Store listings and [Korail](https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets); checked Oct 25, 2026.
+
+![Graphic: 10 apps for Korea at a glance — maps, translation, trains, entry, taxis, payment, safety](/img/apps-steps.png?v=c177a6e9 "10 apps for Korea at a glance. Details and sources below.")
+
+## The short version
+
+| Need | App | What it does |
+|---|---|---|
+| Maps and directions | **Naver Map** | Transit with real-time departure and arrival times, walking and driving directions; maps in English |
+| Translation | **Papago** | Text, photo, voice and conversation translation across 14 languages; offline for selected languages after you download a pack |
+| Trains | **KORAIL+** | Buy KTX tickets; bookings normally open at 07:00 two months ahead |
+| Entry | **K-ETA** | The official K-ETA application, alongside k-eta.go.kr |
+| Taxis | **k.ride** | Kakao Mobility's app for visitors, in English, Chinese and Japanese |
+| Taxis | **Uber** | Calls an Uber Taxi with your existing account; translates messages to the driver |
+| Taxis | **TABA** | Taxi app that takes Visa, Mastercard, UnionPay and JCB |
+| Paying | **WOWPASS** | Prepaid card for visitors: money exchange, payment and transport |
+| Safety | **Emergency Ready** | Disaster information in 22 languages, with alerts for your region |
+| Safety | **Baro Emergency Reporting** | Report an emergency by text or image |
+
+Source: each app's official listing or operator page (linked below); checked Oct 22–25, 2026.
+
+## Getting around
+
+### Naver Map
+
+Made by NAVER Corp., Naver Map gives transit directions with real-time departure and arrival times, walking directions and car navigation, with maps in Korean, English, Japanese and Chinese. In our own web test on Oct 22, 2026, Google Maps showed transit routes in Seoul but no walking or driving directions for the route we checked.
+
+Source: [Naver Map App Store listing](https://apps.apple.com/us/app/naver-map-navigation/id311867728); checked Oct 22, 2026. Full guide: [how to use Naver Map](/how-to-use-naver-map-korea/).
+
+### KORAIL+
+
+Korail sells KTX tickets on its website, in the KORAIL+ app, at ticket machines and at train stations, but not at subway stations. Tickets normally go on sale at 07:00, two months before your travel date.
+
+Source: [Korail — ticketing guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets); checked Oct 25, 2026. Full guide: [how to book the KTX](/how-to-book-ktx-korea/).
+
+### Taxi apps: k.ride, Uber and TABA
+
+| App | What the official pages say |
+|---|---|
+| **k.ride** | Kakao Mobility's version of Kakao T for visitors: English, Chinese and Japanese; sign in with Google or Apple; register an overseas credit card |
+| **Uber** | Use the Uber app you already have to call an Uber Taxi; messages to the driver are translated automatically |
+| **TABA** | Visa, Mastercard, UnionPay and JCB; covers Seoul and nearby areas, Incheon, Jeju, Chuncheon, Wonju, Daejeon, Gumi, Gwangju, Gimhae and Changwon |
+
+Source: [Korea Tourism Organization — Taxi](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140661) and [TABA](https://www.tabataxi.app/); checked Oct 25, 2026. Fares and tips: [taxis in Korea](/taxis-in-korea/).
+
+> **Local tip:** If you book through TABA, the app charges your card. TABA warns that paying the driver in cash as well means you pay twice.
+
+## Language
+
+### Papago
+
+Papago is NAVER Corp.'s translator. Its official listing names 14 languages, including English, Japanese, Chinese (Simplified and Traditional), Spanish, French, Vietnamese, Thai, Indonesian, Russian, German, Italian and Arabic.
+
+| Feature | What it does |
+|---|---|
+| Image translation | Take a photo, and Papago translates the text in it (menus, signs) |
+| Voice translation | Speak, and get the translation in real time |
+| Conversation | A 1:1 conversation where each person speaks their own language |
+| Offline | On supported devices, after you download an offline language pack while online: Korean, English, Japanese and Simplified Chinese only |
+
+Offline text translation is available on supported devices after you download an offline language pack while online. It supports Korean, English, Japanese and Simplified Chinese; NAVER's help page lists 4 GB of RAM or more for the device. Image, conversation, website and document translation don't work offline. Papago also works in a browser at papago.naver.com.
+
+Source: [Papago App Store listing](https://apps.apple.com/us/app/naver-papago-ai-translator/id1147874819) and [Papago help — offline translation](https://help.naver.com/service/16448/bookmark/10663?osType=MOBILE) (Korean); checked Oct 25, 2026.
+
+> **Our take:** Install Papago and download the offline language pack you need while you still have internet access. Check that your language pair and device are supported before your trip. See [eSIM, SIM or pocket Wi-Fi](/esim-sim-card-pocket-wifi-korea/).
+
+## Entry and paying
+
+### K-ETA
+
+If you need a K-ETA, apply only on k-eta.go.kr or the official K-ETA app; the government warns about lookalike sites that charge extra. 22 countries and regions are temporarily exempt until December 31, 2026 (Korea time).
+
+Source: [K-ETA](https://www.k-eta.go.kr/portal/guide/viewetaapplication.do); checked Oct 23, 2026. Full guide: [K-ETA explained](/k-eta-korea/).
+
+### WOWPASS
+
+Its operator, Orange Square, Inc., describes WOWPASS as "an all-in-one prepaid card for foreign travelers in Korea, covering money exchange, payment, transportation, and brand rewards." Check fees and limits in the app before you load money.
+
+Source: [WOWPASS App Store listing](https://apps.apple.com/us/app/wowpass-go-cashless-in-korea/id1626691440); checked Oct 23, 2026. More on cards and cash: [paying in Korea](/paying-in-korea-foreign-cards-cash/).
+
+## Safety
+
+| App | Run by | What it does |
+|---|---|---|
+| **Emergency Ready** | Ministry of the Interior and Safety | Disaster information in 22 languages, including English, Chinese and Japanese; choose your region and disaster-alert settings |
+| **Baro Emergency Reporting** | Ministry of the Interior and Safety | Report an emergency by text or image; in English, Chinese, Japanese, Vietnamese, Filipino and more |
+
+Source: [Seoul Metropolitan Government — Emergency Ready App](https://english.seoul.go.kr/service/living/disaster-evacuation-tips-citizens/emergency-ready-app/) and [Korea Tourism Organization — disaster safety services](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145); checked Oct 25, 2026. Numbers to save: [emergency help in Korea](/emergency-help-korea/).
+
+> **Local tip:** The 1330 Korea Travel Helpline isn't an app you need to install: you can call it (+82-2-1330 from overseas) or chat through 1330 Messenger, KakaoTalk, Line or WhatsApp, daily from 07:00 to midnight Korea time.
+
+## Before you fly
+
+1. Install Naver Map and Papago, and download Papago's offline pack if your language pair is supported.
+2. Install KORAIL+ if you'll take the KTX.
+3. Set up one taxi app with your card (k.ride, Uber or TABA).
+4. Need a K-ETA? Use only k-eta.go.kr or the official K-ETA app.
+5. Add Emergency Ready and Baro Emergency Reporting.
+
+Source: the official listings and operator pages linked above; checked Oct 22–25, 2026.
+
+## FAQ
+
+### What is the best map app for Korea?
+
+We recommend Naver Map. It gives transit, walking and driving directions with English maps. In our Oct 22, 2026 web test, Google Maps showed no walking or driving directions for the Seoul route we checked.
+
+### Which translation app works in Korea?
+
+Papago, by NAVER Corp. It translates text, photos and speech across 14 languages. Offline translation works for Korean, English, Japanese and Simplified Chinese on supported devices, after you download a language pack.
+
+### Can I call a taxi in Korea with an English app?
+
+Yes. k.ride works in English, Chinese and Japanese and takes overseas cards; TABA lets you search addresses in any language and takes Visa, Mastercard, UnionPay and JCB; and Uber calls an Uber Taxi with your existing account and translates messages to the driver.
+
+### Is there an official K-ETA app?
+
+Yes. The government says to apply only on k-eta.go.kr or the official K-ETA app.
+
+## Sources
+
+- Naver Papago — App Store listing: https://apps.apple.com/us/app/naver-papago-ai-translator/id1147874819
+- Papago help — Offline translation (Korean): https://help.naver.com/service/16448/bookmark/10663?osType=MOBILE
+- Naver Map — App Store listing: https://apps.apple.com/us/app/naver-map-navigation/id311867728
+- Korail — Ticketing guide: https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets
+- K-ETA — Application guide: https://www.k-eta.go.kr/portal/guide/viewetaapplication.do
+- Korea Tourism Organization — Taxi: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140661
+- TABA taxi app: https://www.tabataxi.app/
+- WOWPASS — App Store listing: https://apps.apple.com/us/app/wowpass-go-cashless-in-korea/id1626691440
+- Seoul Metropolitan Government — Emergency Ready App: https://english.seoul.go.kr/service/living/disaster-evacuation-tips-citizens/emergency-ready-app/
+- Korea Tourism Organization — Disaster safety services: https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145
+
+---
+
+# Korean Etiquette for Travelers: Restaurants, Table Manners and the Subway
+
+URL: https://realkoreatrip.com/korean-etiquette/
+Last checked: 2026-10-25
+
+## Quick answer
+
+- Tipping is generally not expected. The Korea Tourism Organization says tipping isn't required or expected in Korea, and asking for more water or the complimentary side dishes costs nothing extra.
+- At the table, follow the oldest person. Korea.net's guide says younger people usually wait for elders to start eating, and use both hands when pouring or receiving a drink from someone older.
+- On the subway, let people off first and keep your voice down. Seoul Metro also asks riders to offer seats to pregnant women, people with children and the physically disadvantaged.
+
+**Three basics for visitors to Korea: tipping is generally not expected (the Korea Tourism Organization says it isn't required or expected), follow the oldest person's lead at the table, and on the subway let people off first and keep your voice down.** Korea.net's guide also says many households eat quite casually. If you're unsure, follow your host's lead. Below: restaurants, table manners and Seoul Metro's 10 subway rules, each from an official source.
+
+Source: [Korea Tourism Organization — About Korean Food](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140727), [Korea.net — table manners](https://www.korea.net/NewsFocus/Society/view?articleId=175173) and [Seoul Metro — etiquette](http://www.seoulmetro.co.kr/en/page.do?menuIdx=645); checked Oct 25, 2026.
+
+![Graphic: Korean etiquette at a glance — no tipping, free refills, wait for elders, both hands for drinks, let passengers off first](/img/etiquette-steps.png?v=e6537118 "Korean etiquette at a glance. Details and sources below.")
+
+## The short version
+
+| Where | Do | Don't |
+|---|---|---|
+| Restaurants | If there's a call bell, press it for service; ask for more water or complimentary side dishes (free) | Expect to tip: it isn't required or expected |
+| At the table | Let older people start eating first; use both hands when pouring or receiving a drink from someone older | Stick chopsticks upright in rice; lift your rice or soup bowl; blow your nose at the table |
+| Subway | Let passengers off before you board; keep to the right in stations; offer your seat to those who need it | Push on crowded trains; speak loudly |
+
+Source: [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140727), [Korea.net](https://www.korea.net/NewsFocus/Society/view?articleId=175173) and [Seoul Metro](http://www.seoulmetro.co.kr/en/page.do?menuIdx=645); checked Oct 25, 2026.
+
+## At a restaurant
+
+| | What the Korea Tourism Organization says |
+|---|---|
+| Tipping | "Tipping is not required or expected in Korea." |
+| Refills | More water or the complimentary side dishes don't cost extra; check the menu for anything ordered separately |
+| Self-service | More restaurants let you serve your own water and side dishes, or order at a kiosk |
+| Call bell | If provided, press the table's call button when you need a server (its guide notes it can be loud) |
+| Cutlery | Its guide says tables have a small drawer with spoons, chopsticks and napkins |
+| Storage chairs | Some chairs open up to store your coat and bag away from food smells |
+
+Source: [Korea Tourism Organization — About Korean Food](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140727) (page updated Mar 24, 2023); checked Oct 25, 2026. What to order: [what to eat in Jeonju](/what-to-eat-in-jeonju/) and [Busan](/busan-travel-guide/).
+
+## Table manners
+
+Korea.net, the government's official English site, runs a guide to table manners for visitors. Its main points:
+
+| Situation | The custom |
+|---|---|
+| Setting the table | Rice on the left and soup on the right; the spoon on the left and chopsticks on the right |
+| Eating with elders | Younger people usually wait until the older people at the table pick up their spoons and start |
+| Drinks with elders | Hold the cup or bottle with both hands when pouring for or receiving from someone older, and turn slightly away when you drink |
+| Chopsticks | Don't stick them upright in a bowl of rice: that is done in rituals for the dead |
+| Bowls | Don't lift your rice or soup bowl while eating |
+| Manners | Don't pick your teeth or blow your nose during a meal |
+
+The same guide notes that not talking during meals was the etiquette in the past, and that many households now eat quite casually.
+
+Source: [Korea.net — While in Korea, Episode 7: Table manners](https://www.korea.net/NewsFocus/Society/view?articleId=175173) (culture series, Sep 12, 2019); checked Oct 25, 2026.
+
+> **Our take:** If you're unsure, watch the oldest person at the table and follow their pace. Using both hands for a drink with an older person is an easy gesture to get right.
+
+## On the subway
+
+Seoul Metro lists 10 basic rules for riders:
+
+1. Don't push and shove on a crowded train.
+2. Let passengers get off the train before you board.
+3. Offer your seat to pregnant women, people with children and the physically disadvantaged.
+4. Don't walk or run on an escalator.
+5. Put your phone on vibrate and keep your voice down on calls.
+6. Don't buy things from peddlers on trains.
+7. Don't run or speak loudly on trains.
+8. Fold your newspaper for others, or take it with you when you get off.
+9. Keep to the right when walking in stations.
+10. Don't try to ride without paying.
+
+Source: [Seoul Metro — Subway etiquette](http://www.seoulmetro.co.kr/en/page.do?menuIdx=645); checked Oct 25, 2026. Fares and transfers: [Seoul subway guide](/seoul-subway-guide/).
+
+## Before you go
+
+1. Tipping is generally not expected, so there's no need to budget for it.
+2. At a meal with older people, let them start first, and use both hands for drinks.
+3. Don't leave chopsticks standing in your rice.
+4. On the subway, let people off first, keep your voice down and keep to the right in stations.
+5. Need help explaining something? The 1330 Korea Travel Helpline interprets daily from 07:00 to midnight Korea time.
+
+Source: [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140727), [Korea.net](https://www.korea.net/NewsFocus/Society/view?articleId=175173), [Seoul Metro](http://www.seoulmetro.co.kr/en/page.do?menuIdx=645) and our [emergency help guide](/emergency-help-korea/); checked Oct 25, 2026.
+
+## FAQ
+
+### Do you tip in Korea?
+
+No. The Korea Tourism Organization says tipping is not required or expected, and extra water or side dishes don't cost more.
+
+### What should I not do with chopsticks in Korea?
+
+Don't stick them upright in a bowl of rice. Korea.net's guide explains that this is done in rituals for the dead.
+
+### How do I drink with older people in Korea?
+
+Hold the cup or bottle with both hands when pouring for or receiving from someone older, and turn slightly away when you drink.
+
+### What are the rules on the Seoul subway?
+
+Seoul Metro asks riders to let passengers off first, offer seats to pregnant women, people with children and the physically disadvantaged, keep their voice down and keep to the right in stations.
+
+## Sources
+
+- Korea Tourism Organization — About Korean Food (visiting a restaurant): https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140727
+- Korea.net — While in Korea, Episode 7: Table manners: https://www.korea.net/NewsFocus/Society/view?articleId=175173
+- Seoul Metro — Subway etiquette: http://www.seoulmetro.co.kr/en/page.do?menuIdx=645
 
 ---
 
