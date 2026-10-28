@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url><loc>https://realkoreatrip.com/</loc><lastmod>2026-10-27</lastmod></url>
   <url><loc>https://realkoreatrip.com/category/start-here/</loc><lastmod>2026-10-27</lastmod></url>
   <url><loc>https://realkoreatrip.com/category/getting-around/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://realkoreatrip.com/category/destinations/</loc><lastmod>2026-10-27</lastmod></url>
   <url><loc>https://realkoreatrip.com/category/food/</loc><lastmod>2026-10-26</lastmod></url>
   <url><loc>https://realkoreatrip.com/category/local-tips/</loc><lastmod>2026-10-25</lastmod></url>
-  <url><loc>https://realkoreatrip.com/bukchon-hanok-village-visiting-rules/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://realkoreatrip.com/changdeokgung-huwon-guide/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://realkoreatrip.com/korea-public-holidays-2027/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://realkoreatrip.com/gyeongbokgung-palace-guide/</loc><lastmod>2026-10-26</lastmod></url>
-  <url><loc>https://realkoreatrip.com/korean-bbq-guide/</loc><lastmod>2026-10-26</lastmod></url>
-  <url><loc>https://realkoreatrip.com/korean-street-food/</loc><lastmod>2026-10-26</lastmod></url>
-  <url><loc>https://realkoreatrip.com/best-time-to-visit-korea/</loc><lastmod>2026-10-25</lastmod></url>
-  <url><loc>https://realkoreatrip.com/emergency-help-korea/</loc><lastmod>2026-10-25</lastmod></url>
-  <url><loc>https://realkoreatrip.com/korea-travel-apps/</loc><lastmod>2026-10-25</lastmod></url>
-  <url><loc>https://realkoreatrip.com/korean-etiquette/</loc><lastmod>2026-10-25</lastmod></url>
-  <url><loc>https://realkoreatrip.com/taxis-in-korea/</loc><lastmod>2026-10-25</lastmod></url>
-  <url><loc>https://realkoreatrip.com/busan-travel-guide/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://realkoreatrip.com/gyeongju-travel-guide/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://realkoreatrip.com/how-to-book-ktx-korea/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://realkoreatrip.com/jeju-travel-guide/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://realkoreatrip.com/jeonju-day-trip-from-seoul/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://realkoreatrip.com/k-eta-korea/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://realkoreatrip.com/korea-first-time-checklist/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://realkoreatrip.com/korea-tax-refund-guide/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://realkoreatrip.com/paying-in-korea-foreign-cards-cash/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://realkoreatrip.com/seoul-subway-guide/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://realkoreatrip.com/what-to-eat-in-jeonju/</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://realkoreatrip.com/esim-sim-card-pocket-wifi-korea/</loc><lastmod>2026-10-22</lastmod></url>
-  <url><loc>https://realkoreatrip.com/how-to-get-t-money-card-korea/</loc><lastmod>2026-10-22</lastmod></url>
-  <url><loc>https://realkoreatrip.com/how-to-use-naver-map-korea/</loc><lastmod>2026-10-22</lastmod></url>
-  <url><loc>https://realkoreatrip.com/incheon-airport-to-seoul/</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://realkoreatrip.com/bukchon-hanok-village-visiting-rules/</loc><lastmod>2026-10-27</lastmod><image:image><image:loc>https://realkoreatrip.com/img/bukchon-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/changdeokgung-huwon-guide/</loc><lastmod>2026-10-27</lastmod><image:image><image:loc>https://realkoreatrip.com/img/changdeokgung-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/korea-public-holidays-2027/</loc><lastmod>2026-10-27</lastmod><image:image><image:loc>https://realkoreatrip.com/img/holidays-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/gyeongbokgung-palace-guide/</loc><lastmod>2026-10-26</lastmod><image:image><image:loc>https://realkoreatrip.com/img/gyeongbokgung-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/korean-bbq-guide/</loc><lastmod>2026-10-26</lastmod><image:image><image:loc>https://realkoreatrip.com/img/korean-bbq-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/korean-street-food/</loc><lastmod>2026-10-26</lastmod><image:image><image:loc>https://realkoreatrip.com/img/street-food-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/best-time-to-visit-korea/</loc><lastmod>2026-10-25</lastmod><image:image><image:loc>https://realkoreatrip.com/img/season-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/emergency-help-korea/</loc><lastmod>2026-10-25</lastmod><image:image><image:loc>https://realkoreatrip.com/img/emergency-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/korea-travel-apps/</loc><lastmod>2026-10-25</lastmod><image:image><image:loc>https://realkoreatrip.com/img/apps-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/korean-etiquette/</loc><lastmod>2026-10-25</lastmod><image:image><image:loc>https://realkoreatrip.com/img/etiquette-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/taxis-in-korea/</loc><lastmod>2026-10-25</lastmod><image:image><image:loc>https://realkoreatrip.com/img/taxi-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/busan-travel-guide/</loc><lastmod>2026-10-23</lastmod><image:image><image:loc>https://realkoreatrip.com/img/busan-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/gyeongju-travel-guide/</loc><lastmod>2026-10-23</lastmod><image:image><image:loc>https://realkoreatrip.com/img/gyeongju-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/how-to-book-ktx-korea/</loc><lastmod>2026-10-23</lastmod><image:image><image:loc>https://realkoreatrip.com/img/ktx-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/jeju-travel-guide/</loc><lastmod>2026-10-23</lastmod><image:image><image:loc>https://realkoreatrip.com/img/jeju-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/jeonju-day-trip-from-seoul/</loc><lastmod>2026-10-23</lastmod><image:image><image:loc>https://realkoreatrip.com/img/jeonju-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/k-eta-korea/</loc><lastmod>2026-10-23</lastmod><image:image><image:loc>https://realkoreatrip.com/img/keta-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/korea-first-time-checklist/</loc><lastmod>2026-10-23</lastmod><image:image><image:loc>https://realkoreatrip.com/img/checklist-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/korea-tax-refund-guide/</loc><lastmod>2026-10-23</lastmod><image:image><image:loc>https://realkoreatrip.com/img/taxrefund-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/paying-in-korea-foreign-cards-cash/</loc><lastmod>2026-10-23</lastmod><image:image><image:loc>https://realkoreatrip.com/img/pay-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/seoul-subway-guide/</loc><lastmod>2026-10-23</lastmod><image:image><image:loc>https://realkoreatrip.com/img/subway-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/what-to-eat-in-jeonju/</loc><lastmod>2026-10-23</lastmod><image:image><image:loc>https://realkoreatrip.com/img/jeonju-food-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/esim-sim-card-pocket-wifi-korea/</loc><lastmod>2026-10-22</lastmod><image:image><image:loc>https://realkoreatrip.com/img/esim-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/how-to-get-t-money-card-korea/</loc><lastmod>2026-10-22</lastmod><image:image><image:loc>https://realkoreatrip.com/img/tmoney-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/how-to-use-naver-map-korea/</loc><lastmod>2026-10-22</lastmod><image:image><image:loc>https://realkoreatrip.com/img/naver-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/incheon-airport-to-seoul/</loc><lastmod>2026-10-22</lastmod><image:image><image:loc>https://realkoreatrip.com/img/airport-cover.png</image:loc></image:image></url>
   <url><loc>https://realkoreatrip.com/about/</loc></url>
   <url><loc>https://realkoreatrip.com/affiliate-disclosure/</loc></url>
   <url><loc>https://realkoreatrip.com/contact/</loc></url>
