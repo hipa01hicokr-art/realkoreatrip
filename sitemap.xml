@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://realkoreatrip.com/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://realkoreatrip.com/category/start-here/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://realkoreatrip.com/category/getting-around/</loc><lastmod>2026-10-25</lastmod></url>
-  <url><loc>https://realkoreatrip.com/category/destinations/</loc><lastmod>2026-10-27</lastmod></url>
+  <url><loc>https://realkoreatrip.com/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://realkoreatrip.com/category/start-here/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://realkoreatrip.com/category/getting-around/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://realkoreatrip.com/category/destinations/</loc><lastmod>2026-10-29</lastmod></url>
   <url><loc>https://realkoreatrip.com/category/food/</loc><lastmod>2026-10-26</lastmod></url>
   <url><loc>https://realkoreatrip.com/category/local-tips/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://realkoreatrip.com/dmz-tour-from-seoul/</loc><lastmod>2026-10-29</lastmod><image:image><image:loc>https://realkoreatrip.com/img/dmz-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/gimpo-airport-to-seoul/</loc><lastmod>2026-10-28</lastmod><image:image><image:loc>https://realkoreatrip.com/img/gimpo-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/n-seoul-tower-guide/</loc><lastmod>2026-10-29</lastmod><image:image><image:loc>https://realkoreatrip.com/img/namsan-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/nami-island-from-seoul/</loc><lastmod>2026-10-29</lastmod><image:image><image:loc>https://realkoreatrip.com/img/nami-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/seoul-itinerary-3-4-5-days/</loc><lastmod>2026-10-29</lastmod><image:image><image:loc>https://realkoreatrip.com/img/itinerary-cover.png</image:loc></image:image></url>
+  <url><loc>https://realkoreatrip.com/seoul-to-busan-ktx-bus-flight/</loc><lastmod>2026-10-29</lastmod><image:image><image:loc>https://realkoreatrip.com/img/busanway-cover.png</image:loc></image:image></url>
   <url><loc>https://realkoreatrip.com/bukchon-hanok-village-visiting-rules/</loc><lastmod>2026-10-27</lastmod><image:image><image:loc>https://realkoreatrip.com/img/bukchon-cover.png</image:loc></image:image></url>
   <url><loc>https://realkoreatrip.com/changdeokgung-huwon-guide/</loc><lastmod>2026-10-27</lastmod><image:image><image:loc>https://realkoreatrip.com/img/changdeokgung-cover.png</image:loc></image:image></url>
   <url><loc>https://realkoreatrip.com/korea-public-holidays-2027/</loc><lastmod>2026-10-27</lastmod><image:image><image:loc>https://realkoreatrip.com/img/holidays-cover.png</image:loc></image:image></url>

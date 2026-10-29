@@ -1,6 +1,862 @@
 # Real Korea Trip — full text of published guides
 
-Source site: https://realkoreatrip.com/ · Generated 2026-10-28
+Source site: https://realkoreatrip.com/ · Generated 2026-10-29
+
+---
+
+# DMZ Tour from Seoul: Third Tunnel, Dora Observatory and the JSA
+
+URL: https://realkoreatrip.com/dmz-tour-from-seoul/
+Last checked: 2026-10-29
+
+## Quick answer
+
+- Foreign visitors can't tour the Joint Security Area (JSA/Panmunjeom) at the moment: the Ministry of Unification says it isn't running tours for foreigners or groups. You can still visit the Third Tunnel and Dora Observatory on Paju City's DMZ Peace Tour from Imjingak.
+- The tour costs ₩12,200 for adults with the monorail into the tunnel (₩9,200 if you walk down) and takes about 3 hours. Tickets are sold, and reserved tickets collected, at Imjingak 09:00–14:30, and they often sell out early. It's closed on Mondays, weekday public holidays and the main day of Seollal and Chuseok.
+- Bring your original passport — no copies, photos or expired passports. Photos and videos are banned inside the tour area. From Nov 23 to 30, 2026, the road to Dora Observatory is closed, so on tour days in that period only the Third Tunnel is open.
+
+**You can visit the DMZ from Seoul on your own: Paju City's DMZ Peace Tour leaves from Imjingak, north of Seoul, and goes to the Third Tunnel and Dora Observatory in about 3 hours for ₩12,200 (adult, with the tunnel monorail).** Bring your original passport, and don't go on a Monday — the tour is closed. The Joint Security Area (JSA, Panmunjeom) isn't open to foreign visitors at the moment.
+
+Source: [Paju City DMZ Peace Tour](https://tour.paju.go.kr/user/tour/place/BD_tourPlaceInfoView.do?menuCode=1&cntntsSn=374&q_gubunCode=1004) and [fees](https://dmz.paju.go.kr:8443/Home/H20000/H20200/html) (Korean), and [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=156589); checked Oct 28, 2026.
+
+The DMZ (Demilitarized Zone) is the strip of land between South and North Korea. Beyond Imjingak it's a military area: you can only visit the designated sites, on the city's shuttle tour or a tour company's day trip from Seoul.
+
+![Graphic: DMZ tour at a glance — JSA not open to foreign visitors, Third Tunnel and Dora Observatory tour from Imjingak ₩12,200, tickets on site 09:00–14:30, closed Mondays, original passport required](/img/dmz-steps.png?v=cd9a8541 "The DMZ from Seoul at a glance. Details and sources below.")
+
+## The short version
+
+| | Details |
+|---|---|
+| JSA (Panmunjeom) | **No tours for foreign visitors** at the moment (Ministry of Unification) |
+| What you can see | Third Tunnel, Dora Observatory and Unification Village (Tongilchon), by shuttle bus from Imjingak |
+| Adult fare | ₩12,200 with the tunnel monorail · ₩9,200 walking down |
+| Tour length | About 3 hours |
+| Tickets | On-site sales and reserved-ticket collection at Imjingak 09:00–14:30; often sold out early. Online booking windows are shown on the booking site |
+| Closed | Mondays, weekday public holidays, and the main day of Seollal and Chuseok (the rest of those holidays is open) |
+| Bring | Your **original passport** (or Korean alien registration card) |
+
+Source: [Paju City](https://tour.paju.go.kr/user/tour/place/BD_tourPlaceInfoView.do?menuCode=1&cntntsSn=374&q_gubunCode=1004), [fees](https://dmz.paju.go.kr:8443/Home/H20000/H20200/html) and [timetable](https://dmz.paju.go.kr:8443/Home/H20000/H20300/html) (Korean); [Ministry of Unification — Panmunjeom tours](https://www.unikorea.go.kr/web/unikorea/contents/fundstep_Panmunjon) (Korean); checked Oct 29, 2026.
+
+**Nov 23–30, 2026:** Paju City says the road to Dora Observatory is fully closed for roadworks. On tour days in that period only the Third Tunnel is open, and tickets are sold on site only. (Nov 23 and Nov 30 are Mondays, when the tour is closed anyway.)
+
+## Is the JSA (Panmunjeom) open?
+
+Not for foreign visitors right now. The Ministry of Unification, which runs Panmunjeom visits, says it **isn't running tours for foreigners or groups**, and will announce any change separately. The Korea Tourism Organization's DMZ page also lists Panmunjeom as closed for civilian tours. The ministry's 2026 white paper notes that limited special visits restarted in 2025 while general visits stayed suspended — so don't assume an ordinary tourist visit is possible. If a tour mentions the JSA, check exactly which sites are included before you book.
+
+Source: [Ministry of Unification — Panmunjeom tours](https://www.unikorea.go.kr/web/unikorea/contents/fundstep_Panmunjon) (Korean, updated Aug 24, 2026), [2026 Unification White Paper](https://unikorea.go.kr/web/books/bbs/bbs_0000000000000043/60020) (Korean) and [KTO — Regional DMZ attractions](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=156589); checked Oct 29, 2026.
+
+## The DMZ Peace Tour from Imjingak
+
+Paju City runs the tour as a shuttle bus loop: **Imjingak → Third Tunnel → Dora Observatory → Unification Village → Imjingak**, about 3 hours. There's no guide on board; bring your own if you want one.
+
+**Fares (individual, by the city's fee table):**
+
+| | With tunnel monorail | Walking down |
+|---|---|---|
+| Adult | ₩12,200 | ₩9,200 |
+| School students (elementary to high school) | ₩9,500 | ₩7,000 |
+
+Source: [DMZ Peace Tour — fees](https://dmz.paju.go.kr:8443/Home/H20000/H20200/html) (Korean); checked Oct 28, 2026.
+
+The adult fare is a facility fee (₩5,000), the monorail (₩3,000) and the shuttle bus (₩4,200). Paju City says **foreign visitors aren't eligible for its fee reductions**, so plan on the full fare; ask at the ticket office about student fares.
+
+**Departures:** individual shuttle buses leave Imjingak from **09:20 to 14:40** — 10 departures on weekdays (Tuesday–Friday) and 14 on weekends. Some departures use the monorail into the tunnel and some walk down. Only part of each bus can be booked online (14 of 44 seats on most departures); the rest is sold at Imjingak on the day. If the monorail breaks down, everyone walks.
+
+Source: [DMZ Peace Tour — timetable](https://dmz.paju.go.kr:8443/Home/H20000/H20300/html) (Korean); checked Oct 28, 2026.
+
+## Rules that can stop you at the gate
+
+- **Original ID only.** Foreign visitors need a **passport, a Korean alien registration card or a US military ID**. Copies, phone photos and **expired passports aren't accepted**. Minors can enter with a guardian.
+- **Everyone must be there.** Tickets are sold only to people who are actually at Imjingak, once your whole group has arrived.
+- **No photos or videos** (drones included) anywhere on the tour route.
+- **The Third Tunnel is narrow and steep.** Older visitors, people with high or low blood pressure or breathing problems, and anyone who has been drinking may be turned away, and visitors with limited mobility may not be able to go inside.
+- **It can be cancelled at short notice** for security threats, bad weather or safety issues — even if you've booked.
+
+Source: [Paju City — DMZ Peace Tour](https://tour.paju.go.kr/user/tour/place/BD_tourPlaceInfoView.do?menuCode=1&cntntsSn=374&q_gubunCode=1004) (Korean); checked Oct 28, 2026.
+
+## Getting to Imjingak from Seoul
+
+| Step | How | Time and fare (KTO) |
+|---|---|---|
+| 1. Seoul → Munsan | Gyeongui–Jungang Line from Seoul Station (more frequent from Gongdeok or Hongik Univ.) | About 1 hour, ₩2,350; trains every 30–60 min from Seoul Station |
+| 2. Munsan → Imjingak | Taxi from the stand at Munsan Station Exit 1 | About 13 min, about ₩9,700 |
+| or | Bus 058B from the Hanjin 1st Apartment·Munsan Station stop | About 31 min, ₩1,350; infrequent — check it's going to Imjingak |
+| or | Train from Munsan (platform 3) to Imjingang Station | Weekdays 09:20 and 17:05 only; weekends and holidays 09:35, 10:35, 15:45, 17:20 |
+
+Source: [KTO — How to get to Imjingak from Seoul](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=247436) (updated Oct 19, 2026); checked Oct 28, 2026.
+
+KTO also lists bus 9710 from the Sungnyemun stop near Seoul Station Exit 3 to Munsan (about ₩2,800; up to 1 hour 50 minutes in traffic). Its recommended route is the train to Munsan, then a taxi. Ticket sales stop at 14:30, so aim to reach Imjingak by late morning.
+
+## Your own trip or a tour company?
+
+Going on your own is the cheapest way, but there's no guide and tickets can sell out. Tour companies also run DMZ day trips from Seoul; check whether transport, a guide and the tour tickets are included, and which sites you'll actually visit. Either way the same rules apply: passport, no Monday visits, and no JSA tours for foreign visitors at the moment.
+
+## Before you go
+
+1. Pick a day from **Tuesday to Sunday** that isn't a weekday public holiday — see [Korea's public holidays](/korea-public-holidays-2027/).
+2. Pack your **original passport**.
+3. Book online if you can (collect the ticket at Imjingak by 14:30), or reach Imjingak **well before 14:30**.
+4. Visiting **Nov 24–29, 2026**? Only the Third Tunnel is open (the tour is closed on Mondays).
+5. Bring a [transit card](/how-to-get-t-money-card-korea/) for the train to Munsan.
+
+## FAQ
+
+### Can foreigners visit the DMZ?
+
+Yes. Foreign visitors can join Paju City's DMZ Peace Tour from Imjingak with an original passport. The Joint Security Area (Panmunjeom) isn't open to foreign visitors at the moment.
+
+### Is the JSA tour open in 2026?
+
+Not for foreign visitors at the moment. The Ministry of Unification says it isn't running tours for foreigners or groups, and the Korea Tourism Organization lists Panmunjeom as closed for civilian tours. Check the official status before booking any tour that mentions the JSA.
+
+### How much does the DMZ tour cost?
+
+Paju City's DMZ Peace Tour costs ₩12,200 for adults with the tunnel monorail, or ₩9,200 if you walk down. Tour companies from Seoul set their own prices.
+
+### Is the DMZ tour open on Mondays?
+
+No. It's closed on Mondays, on public holidays that fall on weekdays, and on the main day of Seollal and Chuseok.
+
+### Can I take photos at the DMZ?
+
+Not on the tour route — Paju City bans photos and videos, including drones, inside the DMZ Peace Tour area.
+
+## Sources
+
+- Paju City — DMZ Peace Tour, visitor rules (Korean): https://tour.paju.go.kr/user/tour/place/BD_tourPlaceInfoView.do?menuCode=1&cntntsSn=374&q_gubunCode=1004
+- Paju City — DMZ Peace Tour booking site, fees (Korean): https://dmz.paju.go.kr:8443/Home/H20000/H20200/html
+- Paju City — DMZ Peace Tour booking site, timetable (Korean): https://dmz.paju.go.kr:8443/Home/H20000/H20300/html
+- Paju City — DMZ Peace Tour notice, Dora Observatory road closure (Korean): https://dmz.paju.go.kr:8443/
+- Ministry of Unification — Panmunjeom tours (Korean): https://www.unikorea.go.kr/web/unikorea/contents/fundstep_Panmunjon
+- Ministry of Unification — 2026 Unification White Paper (Korean): https://unikorea.go.kr/web/books/bbs/bbs_0000000000000043/60020
+- Korea Tourism Organization — Regional DMZ attractions (Panmunjeom status): https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=156589
+- Korea Tourism Organization — Getting to Imjingak from Seoul (updated Oct 2026): https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=247436
+
+---
+
+# Gimpo Airport to Seoul: AREX, Subway Line 9, Bus or Taxi
+
+URL: https://realkoreatrip.com/gimpo-airport-to-seoul/
+Last checked: 2026-10-28
+
+## Quick answer
+
+- Our pick for Seoul Station, Hongdae or Gongdeok: the AREX All-stop train — ₩1,750 to Seoul Station (adult, transit card), about 23 minutes.
+- Going to Gangnam, Yeouido or Jamsil: Seoul Subway Line 9. Express trains stop at Gimpo Airport and skip smaller stations; fares are distance-based from ₩1,550 (adult, transit card).
+- With heavy bags or a group: an airport limousine bus or a taxi. The airport's own estimate for a regular taxi to Myeong-dong is about ₩20,000 and 50 minutes with no traffic.
+
+**From Gimpo Airport, our pick for Seoul Station, Hongdae or Gongdeok is the AREX All-stop train: ₩1,750 to Seoul Station for an adult with a transit card, about 23 minutes.** For Gangnam, Yeouido or Jamsil, take Subway Line 9 (fares are distance-based from ₩1,550). Limousine buses and taxis are easier with heavy bags; the airport estimates a regular taxi to Myeong-dong at about ₩20,000 with no traffic.
+
+Source: [AREX fare table](https://www.airportrailroad.com/train/normal/fare) (Korean) and [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140654); checked Oct 28, 2026.
+
+Gimpo is the airport inside Seoul itself, with a domestic and an international terminal. Landing at Incheon instead? See our [Incheon Airport to Seoul guide](/incheon-airport-to-seoul/).
+
+![Graphic: Gimpo Airport to Seoul at a glance — AREX ₩1,750 to Seoul Station in about 23 minutes, Line 9 express to Gangnam, limousine bus, taxi about ₩20,000 to Myeong-dong](/img/gimpo-steps.png?v=a2d0cce0 "Gimpo Airport to Seoul at a glance. Details and sources below.")
+
+## The short version
+
+| Option | Adult fare | Time | Best for |
+|---|---|---|---|
+| AREX All-stop train | ₩1,750 to Seoul Station · ₩1,650 to Hongik Univ. (transit card) | About 23 min to Seoul Station | Seoul Station, Hongdae, Gongdeok |
+| Subway Line 9 | Distance-based, from ₩1,550 (transit card) | Depends on station; express trains skip stops | Yeouido, Gangnam, Jamsil area |
+| Subway Line 5 | Distance-based, from ₩1,550 (transit card) | Depends on station | Gwanghwamun, Jongno, Dongdaemun |
+| Limousine bus | Varies by route | Depends on traffic | Heavy luggage, hotels near a stop |
+| Taxi | Metered — about ₩20,000 to Myeong-dong (airport estimate) | About 50 min to Myeong-dong with no traffic | Groups, families, late nights |
+
+Source: [AREX fare table](https://www.airportrailroad.com/train/normal/fare), [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140654), [Seoul subway fares](https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/) and [Gimpo Airport taxi estimates](https://www.airport.co.kr/gimpoeng/cms/frCon/index.do?MENU_ID=270&CONTENTS_NO=4); checked Oct 28, 2026.
+
+Pay for trains and buses with a transit card such as T-money — see [how to get a T-money card](/how-to-get-t-money-card-korea/).
+
+## Gimpo has two terminals
+
+Gimpo's **domestic** and **international** terminals are separate buildings, so check yours before you head for a bus stop or taxi stand. A **free airport shuttle bus** links them:
+
+| Shuttle (passenger terminals only) | Details |
+|---|---|
+| Hours | 08:00–23:00 |
+| How often | Every 12–15 minutes |
+| International terminal stop | No. 5 — out of Gate 1 on the 1st floor, to the right |
+| Domestic terminal stop | No. 8 — out of Gate 4 on the 1st floor, to the left |
+
+Source: [Gimpo Airport shuttle bus](https://www.airport.co.kr/gimpoeng/cms/frCon/index.do?MENU_ID=270&CONTENTS_NO=3) and [Korean page](https://www.airport.co.kr/gimpo/cms/frCon/index.do?MENU_ID=1290); checked Oct 28, 2026.
+
+Need help in English? The tourist information center is by Gate 1 on the 1st floor of the international terminal, open 10:00–19:00 (multilingual help depends on staff schedules, per KTO).
+
+## Option 1: AREX All-stop train (Seoul Station, Hongdae, Gongdeok)
+
+Gimpo Airport station is a big transfer station. **AREX, Subway Lines 5 and 9, the Gimpo Goldline and the Seohae Line** all stop here. The AREX All-stop train runs between Incheon Airport and Seoul Station, and Gimpo is on the way.
+
+**Fares from Gimpo Airport (adult, transit card):**
+
+| To | Fare |
+|---|---|
+| Magongnaru | ₩1,550 |
+| Digital Media City | ₩1,650 |
+| Hongik Univ. (Hongdae) | ₩1,650 |
+| Gongdeok | ₩1,750 |
+| Seoul Station | ₩1,750 |
+
+Source: [AREX fare table](https://www.airportrailroad.com/train/normal/fare) (Korean); checked Oct 28, 2026.
+
+- KTO puts the ride to Seoul Station at **about 23 minutes**.
+- A single-journey card costs **₩100 more**, plus a **₩500 deposit** you get back at your destination.
+- The AREX **Express** train doesn't stop at Gimpo — it runs nonstop between Seoul Station and Incheon Airport. From Gimpo, you take the All-stop train.
+
+## Option 2: Subway Line 9 (Yeouido, Gangnam, Jamsil)
+
+Line 9 runs east from Gimpo through Yeouido and Gangnam to Olympic Park. It has **express and local trains on the same track, alternating one to one**, and Gimpo Airport is an express stop.
+
+Express stops include **Dangsan** (Line 2), **Yeouido** (Line 5), **Noryangjin** (Line 1), **Dongjak** (Line 4), **Express Bus Terminal** (Lines 3 and 7), **Sinnonhyeon** (Shinbundang Line), **Sports Complex** (Line 2) and **Olympic Park** (Line 5). If your station isn't an express stop, take the local train, or ride the express and change at an express stop.
+
+Source: [Seoul Metro Line 9](https://www.metro9.co.kr/kor/sub01_04.do) (Korean); checked Oct 28, 2026.
+
+**Fares:** Seoul subway fares are distance-based — ₩1,550 for the first 10 km with an adult transit card (₩1,650 with a single-journey ticket), then ₩100 more for every 5 km up to 50 km. See our [Seoul subway guide](/seoul-subway-guide/) for transfers.
+
+## Option 3: Subway Line 5 (Gwanghwamun, Jongno, Dongdaemun)
+
+Line 5 runs from Gimpo Airport through Yeouido, Gwanghwamun, Jongno 3-ga and Dongdaemun History & Culture Park. It's a direct ride to the old city center, with the same distance-based fares. KTO says the subway lines from Gimpo reach central Seoul and the surrounding areas within about an hour.
+
+## Option 4: Limousine and city buses
+
+| | Where to board | How to pay |
+|---|---|---|
+| Limousine bus, international terminal | Gate 1, 1st floor — platform 6 or 7 | Cash, credit card or transit card |
+| Limousine bus, domestic terminal | Gate 6, 1st floor — platform 3, 4 or 5; or Gates 4–6 — platform 13, 14 or 15 | Cash, credit card or transit card (ticket office near Gate 1, domestic terminal) |
+| Seoul city bus | International: platform 4 near Gate 3 · Domestic: platform 2 or 6 near Gate 6 | Transit card; **international credit cards not accepted**; cash only on some routes |
+
+Source: [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140654) (updated Jul 21, 2026); checked Oct 28, 2026.
+
+Routes and fares change by operator. Use the **route search on the airport's bus page** ([Korean](https://www.airport.co.kr/gimpo/cms/frCon/index.do?MENU_ID=1290)) or Naver Map to find the bus that stops nearest your hotel — see [how to use Naver Map](/how-to-use-naver-map-korea/). Intercity buses from Gimpo need a ticket bought in advance.
+
+## Option 5: Taxi
+
+Taxi stands are by **Exit 3 on the 1st floor of the international terminal** and **in front of Exit 6 at the domestic terminal**. Regular Seoul taxis start at **₩4,800 for the first 1.6 km** by day, with late-night surcharges of 20–40% from 22:00 to 04:00.
+
+**The airport's fare estimates (regular taxi, no traffic):**
+
+| To | Time | Estimate |
+|---|---|---|
+| Hongik University | 40 min | ₩15,000 |
+| Myeong-dong (Lotte Hotel Seoul) | 50 min | ₩20,000 |
+| Seoul City Hall | 60 min | ₩22,000 |
+| Gangnam Station | 60 min | ₩28,000 |
+| Jamsil Station | 60 min | ₩28,000 |
+
+Source: [Gimpo Airport — taxi](https://www.airport.co.kr/gimpoeng/cms/frCon/index.do?MENU_ID=270&CONTENTS_NO=4) and [Seoul taxi fares](https://english.seoul.go.kr/policy/transportation/modes-of-transport/taxi/); checked Oct 28, 2026.
+
+The airport says these are **minimum fares with no congestion**, so expect more in traffic, and passengers pay any motorway tolls separately. Deluxe and jumbo taxis cost more. For apps and tips, see our [taxi guide](/taxis-in-korea/).
+
+## Flying on to Incheon?
+
+The AREX All-stop train also runs from Gimpo to Incheon Airport: **₩4,350 to Terminal 1 and ₩4,950 to Terminal 2** (adult, transit card). Check which terminal your airline uses before you board.
+
+Source: [AREX fare table](https://www.airportrailroad.com/train/normal/fare) (Korean); checked Oct 28, 2026.
+
+## Before you land
+
+1. Check whether you arrive at the **domestic or international terminal**.
+2. Have a **transit card** ready (or buy one at the station).
+3. Going to Gangnam or Yeouido? Look for the **Line 9 express**.
+4. Late at night or with lots of luggage? Head for the **taxi stand**.
+
+## FAQ
+
+### How do I get from Gimpo Airport to Myeong-dong?
+
+By train, take the AREX All-stop to Seoul Station and change to Subway Line 4; Myeong-dong is two stops away. By taxi, the airport estimates about ₩20,000 and 50 minutes with no traffic.
+
+### How much is the train from Gimpo Airport to Seoul Station?
+
+₩1,750 for an adult with a transit card on the AREX All-stop train, about 23 minutes. A single-journey card costs ₩100 more, plus a refundable ₩500 deposit.
+
+### Does the AREX Express stop at Gimpo?
+
+No. The Express runs nonstop between Seoul Station and Incheon Airport. At Gimpo, use the All-stop train.
+
+### Can I pay for the bus with my foreign credit card?
+
+Not on Seoul city buses — KTO says international credit cards aren't accepted there. Use a transit card. Limousine buses accept cash, credit cards or transit cards.
+
+### How do I get between Gimpo's domestic and international terminals?
+
+Take the free airport shuttle bus (08:00–23:00, every 12–15 minutes): stop No. 5 at the international terminal, No. 8 at the domestic terminal.
+
+## Sources
+
+- AREX — All-stop train fares (Korean, fare table): https://www.airportrailroad.com/train/normal/fare
+- Korea Tourism Organization — Airport transportation guide (updated Jul 2026): https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140654
+- Gimpo International Airport — Public transportation (Korean): https://www.airport.co.kr/gimpo/cms/frCon/index.do?MENU_ID=1290
+- Gimpo International Airport — Taxi fares and estimates: https://www.airport.co.kr/gimpoeng/cms/frCon/index.do?MENU_ID=270&CONTENTS_NO=4
+- Gimpo International Airport — Free airport shuttle bus: https://www.airport.co.kr/gimpoeng/cms/frCon/index.do?MENU_ID=270&CONTENTS_NO=3
+- Seoul Metro Line 9 — Express and local trains (Korean): https://www.metro9.co.kr/kor/sub01_04.do
+- Seoul Metropolitan Government — Subway fares: https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/
+- Seoul Metropolitan Government — Taxi fares: https://english.seoul.go.kr/policy/transportation/modes-of-transport/taxi/
+
+---
+
+# N Seoul Tower Guide: Tickets, Hours, Cable Car and How to Get There
+
+URL: https://realkoreatrip.com/n-seoul-tower-guide/
+Last checked: 2026-10-29
+
+## Quick answer
+
+- Observatory: ₩29,000 for adults (13+), ₩23,000 for ages 3–12 and 65+. Open every day, 10:00–22:30 on weekdays and 10:00–23:00 on weekends and holidays; last entry 30 minutes before closing.
+- Namsan cable car: ₩15,000 return or ₩12,000 one way for adults (13+), 10:00–23:00, pay on site only. A free shuttle bus from Myeong-dong Station runs from noon, with gaps in its timetable.
+- Cheaper ways up: Namsan circulating buses 01A and 01B (transit card only, no cash) from Chungmuro or Dongguk Univ. stations, or a 30–40 minute walk.
+
+**N Seoul Tower's observatory costs ₩29,000 for adults (13 and over) and is open every day — 10:00–22:30 on weekdays, 10:00–23:00 on weekends and holidays, with last entry 30 minutes before closing.** Our pick for the easiest way up Namsan is the cable car (₩15,000 return for adults); circulating bus 01A or 01B costs a regular bus fare, and walking is free.
+
+Source: [N Seoul Tower — hours](https://www.nseoultower.co.kr/visit/use.asp) and [fees](https://www.nseoultower.co.kr/visit/use2.asp), and [Namsan Cable Car](https://namsancablecar.com/usage.html) (all Korean); checked Oct 28, 2026.
+
+**One tower, two names:** YTN, which owns the tower, now calls it **YTN Seoul Tower** on its site, while the observatory and restaurants are run by CJ Foodville as **N Seoul Tower**. Signs and maps may use either. The observatory is the part with an admission fee; the love locks are outside on the plaza.
+
+![Graphic: N Seoul Tower at a glance — observatory ₩29,000 adults, open 10:00 to 22:30 weekdays and 23:00 weekends, cable car ₩15,000 return, buses 01A and 01B, walk 30–40 minutes](/img/namsan-steps.png?v=8893f7c7 "N Seoul Tower at a glance. Details and sources below.")
+
+## The short version
+
+| | Adult (13+) | Child (3–12) and 65+ | Hours |
+|---|---|---|---|
+| Observatory | ₩29,000 | ₩23,000 | Weekdays 10:00–22:30 · weekends & holidays 10:00–23:00 |
+| Cable car, return | ₩15,000 | ₩11,500 | 10:00–23:00, every day |
+| Cable car, one way | ₩12,000 | ₩9,000 | 10:00–23:00, every day |
+| Bus 01A / 01B | Regular bus fare (transit card only) | | 06:30–23:00 |
+| Walking | Free | Free | About 30–40 min, depending on the trail |
+
+Source: [N Seoul Tower fees](https://www.nseoultower.co.kr/visit/use2.asp), [Namsan Cable Car](https://namsancablecar.com/usage.html) and [YTN Seoul Tower — bus](https://www.seoultower.co.kr/visit/transfers) (Korean); checked Oct 28, 2026.
+
+**Ticket details:**
+
+- **Observatory:** children under 36 months are free — one child per accompanying guardian; kindergarten groups pay the child fare. Ages 65 and over pay the child fare. There are disability discounts; see the fee page.
+- **Cable car:** child fares are for ages 36 months to 12. Seniors and some other groups get the child fare **with proof**. Tickets are **sold on site only**.
+- Both hours can change: the tower says weather and schedules may affect them, and the cable car may stop in strong wind. Check before you go.
+
+## Getting up Namsan
+
+### By cable car (our pick from Myeong-dong)
+
+1. From **Myeong-dong Station Exit 5**, walk toward Hoehyeon intersection and up the hill — or take the **free shuttle bus** from Myeong-dong Station. Its timetable starts at **12:00** (last bus from Myeong-dong 20:50) and has gaps in the afternoon, so check the [shuttle timetable](https://namsancablecar.com/resources/shuttle_timetable.png) before you go.
+2. The **Namsan Oreumi** inclined elevator lifts you to the cable car station (09:00–23:00; **on Mondays it stops 09:00–14:00 for checks**).
+3. Ride the **cable car** to the top. YTN puts the whole trip from Myeong-dong at about 15 minutes.
+
+Opened on May 12, 1962, it was Korea's first passenger cable car, according to the operator; the line is about 600 m long and each cabin holds up to 48 people. The operator says mornings are quieter than afternoons and weekend waits can be long.
+
+Source: [YTN Seoul Tower — cable car](https://www.seoultower.co.kr/visit/cablecar) and [Namsan Cable Car](https://namsancablecar.com/usage.html) (Korean); checked Oct 28, 2026.
+
+### By bus 01A or 01B (regular bus fare)
+
+These circulating buses run **one way round a loop** and stop at YTN Seoul Tower. **They're cashless: pay with a transit card** (see [how to get a T-money card](/how-to-get-t-money-card-korea/)).
+
+| | Bus 01A | Bus 01B |
+|---|---|---|
+| How often | Every 6–9 min | Every 15–18 min |
+| Hours | 06:30–23:00 (same on weekdays, Saturdays and holidays) | 06:30–23:00 (same on weekdays, Saturdays and holidays) |
+| Easy subway stops | Chungmuro Station Exit 2 · Dongguk Univ. Station Exit 6 | Chungmuro Station Exit 2 · Dongguk Univ. Station Exit 6 |
+| Also passes | Namdaemun Market, City Hall, Gyeongbokgung, Anguk (Insadong) | Namsan cable car stop |
+
+Source: [YTN Seoul Tower — bus](https://www.seoultower.co.kr/visit/transfers) (Korean); checked Oct 28, 2026.
+
+From Chungmuro Exit 2 the stop is about a minute's walk straight ahead. From Dongguk Univ. Exit 6, follow YTN's directions to the stop.
+
+### On foot
+
+| Start from | Time to the top (YTN estimate) |
+|---|---|
+| Namsan Library (south loop road) | About 30 min |
+| National Theater (south loop road, or the stairs beside it) | About 30–40 min |
+| The "Samsuni stairs" (near the Seoul Education Research & Information Institute) | About 40 min |
+
+Source: [YTN Seoul Tower — on foot](https://www.seoultower.co.kr/visit/index) (Korean); checked Oct 28, 2026.
+
+Combine it with the [Seoul subway](/seoul-subway-guide/) or [Naver Map](/how-to-use-naver-map-korea/) to reach the trailheads.
+
+## At the top
+
+- **Observatory (Tower 5F):** a 360-degree view over Seoul, with digital telescopes (also on 2F and 4F).
+- **Love locks:** padlocks left by visitors on fences and tree-shaped frames on the plaza.
+- **Food:** several restaurants and snack bars in the tower and plaza, with their own hours (most close earlier than the observatory).
+
+![Colorful padlocks covering tree-shaped frames on the plaza at Namsan, with round lamps behind](/img/photo-namsan-padlocks.jpg?v=9cd2e4ca "Padlock trees at Namsan Seoul Tower Park, April 2019. Photo: Matt Kieffer (CC BY-SA 2.0), cropped.")
+
+## A simple plan
+
+| When | What |
+|---|---|
+| Late afternoon | Bus 01A from Chungmuro, or the cable car from Myeong-dong |
+| Around sunset | Plaza and love locks, then the observatory |
+| After dark | Night view, then down by cable car (runs until 23:00) and dinner in Myeong-dong |
+
+## Before you go
+
+1. Check **today's hours** — the observatory closes at 22:30 on weekdays, 23:00 on weekends and holidays.
+2. Bring a **transit card** if you're taking bus 01A or 01B.
+3. Taking the cable car on a **Monday morning**? The Oreumi elevator is off until 14:00 and the free shuttle doesn't start until noon — walk up to the cable car station, or take bus 01A or 01B instead.
+4. Buy cable car tickets **at the station** — they're sold on site only.
+
+## FAQ
+
+### How much is the N Seoul Tower ticket?
+
+The observatory costs ₩29,000 for adults (13 and over) and ₩23,000 for children aged 3–12 and people 65 and over. Children under 36 months are free, one per accompanying guardian; kindergarten groups pay the child fare.
+
+### What are N Seoul Tower's opening hours?
+
+The observatory opens every day at 10:00 and closes at 22:30 on weekdays and 23:00 on weekends and holidays. Last entry is 30 minutes before closing.
+
+### How much is the Namsan cable car?
+
+₩15,000 return or ₩12,000 one way for adults (13 and over); ₩11,500 return or ₩9,000 one way for children aged 36 months to 12. Tickets are sold on site only, 10:00–23:00.
+
+### What's the cheapest way to N Seoul Tower?
+
+Walking is free — about 30–40 minutes from the trailheads. Otherwise, circulating bus 01A or 01B costs a regular bus fare with a transit card, from Chungmuro or Dongguk Univ. stations.
+
+### Is N Seoul Tower the same as YTN Seoul Tower?
+
+Yes. YTN owns the tower and uses "YTN Seoul Tower"; the observatory operator uses "N Seoul Tower."
+
+## Sources
+
+- N Seoul Tower (CJ Foodville) — Hours (Korean): https://www.nseoultower.co.kr/visit/use.asp
+- N Seoul Tower (CJ Foodville) — Observatory fees (Korean): https://www.nseoultower.co.kr/visit/use2.asp
+- Namsan Cable Car — Fares, hours and shuttle (Korean): https://namsancablecar.com/usage.html
+- YTN Seoul Tower — Getting there by cable car (Korean): https://www.seoultower.co.kr/visit/cablecar
+- YTN Seoul Tower — Getting there by bus (Korean): https://www.seoultower.co.kr/visit/transfers
+- YTN Seoul Tower — Getting there on foot (Korean): https://www.seoultower.co.kr/visit/index
+
+---
+
+# Nami Island from Seoul: Tickets, Ferry Times and How to Get There
+
+URL: https://realkoreatrip.com/nami-island-from-seoul/
+Last checked: 2026-10-29
+
+## Quick answer
+
+- Admission is ₩19,000 for adults, including the return ferry (about 5 minutes each way). It's ₩16,000 for middle and high school students and people 70 and over, and ₩13,000 for ages 36 months to elementary school.
+- Early or late tickets are ₩13,000: early-bird means you buy your ticket AND board the ferry before 08:00; late tickets are bought from 18:01 (Dec–Mar) or from 18:31 (Apr–Nov). Regular ferries to the island run 08:00–21:00, with a seasonal extension in autumn 2026.
+- Getting there: the ITX-Cheongchun train from Yongsan (about 60 min) or Cheongnyangni (about 42 min) to Gapyeong Station, then a 20-minute walk or about 5 minutes by bus 10-4 or taxi to the ferry dock. A direct shuttle bus also runs daily from Hongdae, Myeong-dong and Dongdaemun.
+
+**A Nami Island ticket costs ₩19,000 for adults and includes the return ferry, a ride of about 5 minutes from the dock in Gapyeong; ferries to the island run from 08:00 to 21:00, every day of the year.** From Seoul, take the ITX-Cheongchun train from Yongsan to Gapyeong (about 60 minutes), then walk 20 minutes or take a 5-minute bus or taxi to the dock.
+
+Source: [Nami Island — fees](https://www.namisum.com/276), [ferry times](https://www.namisum.com/275) and [getting here](https://www.namisum.com/277) (Korean); checked Oct 28, 2026.
+
+Nami Island is in Chuncheon, Gangwon Province, but you reach it from the **Nami Island ferry dock in Gapyeong, Gyeonggi Province** — that's the address to put in your map app.
+
+![Graphic: Nami Island at a glance — ₩19,000 adult with ferry, ferry 08:00–21:00, ITX from Yongsan about 60 minutes to Gapyeong, ₩13,000 early-bird (buy and board before 08:00) or late tickets](/img/nami-steps.png?v=06d2e654 "Nami Island at a glance. Details and sources below.")
+
+## The short version
+
+| | Details |
+|---|---|
+| Adult ticket | ₩19,000 (return ferry included) |
+| Faster way in | Motorboat in, ferry back: ₩29,000 (adult) |
+| Ferry to the island | First 08:00, last 21:00 |
+| Ferry back | First 08:05, last 21:05 |
+| Open | 365 days a year |
+| From Seoul | ITX-Cheongchun to Gapyeong, then walk, bus 10-4 or taxi to the dock |
+
+Source: [Nami Island](https://www.namisum.com/276) (Korean); checked Oct 28, 2026.
+
+## Tickets
+
+| | Ferry in and out | Motorboat in, ferry out |
+|---|---|---|
+| Adult | ₩19,000 | ₩29,000 |
+| Middle and high school students, 70 and over, severely disabled visitors (with card), national merit holders | ₩16,000 | ₩26,000 |
+| Ages 36 months to elementary school | ₩13,000 | ₩23,000 |
+| Early-bird (ticket bought and ferry boarded before 08:00) | ₩13,000 | — |
+| Late ticket (bought from 18:01 Dec–Mar, from 18:31 Apr–Nov) | ₩13,000 | — |
+
+Source: [Nami Island — admission fees](https://www.namisum.com/276) (Korean); checked Oct 28, 2026.
+
+- **Under 36 months:** free with a guardian, on the regular ferry.
+- **Groups:** the operator gives 10% off the total for groups with at least 20 standard-admission guests, using the regular ferry in and out. Confirm eligibility at the ticket office.
+- **The motorboat** leaves when at least 2 people board and takes up to 5 per boat. It runs 09:00–18:00, seasonally (around April to November).
+- The island brands itself the "Naminara Republic" and sells a one-year "passport" membership (adult ₩69,000) for unlimited visits by the regular ferry.
+
+## Ferry times
+
+| Time | How often |
+|---|---|
+| 08:00–09:00 | Every 30 min |
+| 09:00–18:00 | Every 10–20 min |
+| 18:00–21:00 | Every 30 min |
+
+Source: [Nami Island — ferry times](https://www.namisum.com/275) (Korean); checked Oct 28, 2026.
+
+**Extra autumn ferries in 2026 (Sep 18 – Nov 22):** the first boat is at **07:30 every day**, and extra boats run until **21:30 on Fridays, Saturdays, Sundays and public holidays**. Times can change in busy seasons — spring flowers, summer holidays and autumn leaves.
+
+![A white ferry with many flags waiting at the dock, with the ramp down and wooded hills across the river](/img/photo-nami-ferry.jpg?v=be137371 "A ferry to Nami Island, February 2011. Photo: Minseong Kim (CC BY-SA 4.0), cropped.")
+
+## Getting there from Seoul
+
+### By train (ITX-Cheongchun or subway)
+
+| Line | From | To Gapyeong |
+|---|---|---|
+| ITX-Cheongchun | Yongsan Station | About 60 min |
+| ITX-Cheongchun | Cheongnyangni Station | About 42 min |
+| Gyeongchun Line (subway) | Sangbong Station | About 50 min |
+
+Source: [Nami Island — getting here](https://www.namisum.com/277) (Korean); checked Oct 28, 2026.
+
+From **Gapyeong Station** the ferry dock is about **1.5 km**: about 20 minutes on foot, or about 5 minutes by city bus 10-4 or taxi. The subway works with a [transit card](/how-to-get-t-money-card-korea/); for booking Korail trains, see our [KTX booking guide](/how-to-book-ktx-korea/).
+
+### By direct shuttle bus
+
+A daily return shuttle bus runs between Seoul and the island, operated by **Ktourstory** (book on its site):
+
+| Seoul → Nami Island | Time |
+|---|---|
+| Hongik Univ. Station, Exit 4 | 09:00 |
+| Namsan Yejang bus parking lot (Myeong-dong Station) | 09:40 |
+| Dongdaemun History & Culture Park Station, Exit 9 | 09:50 |
+| Nami Island | 11:30 |
+
+The return bus leaves Nami Island at **16:30** and reaches Dongdaemun History & Culture Park at 18:00, Myeong-dong at 18:10 and Hongdae at 18:50. Dogs can't ride.
+
+Source: [Nami Island — getting here](https://www.namisum.com/277) (Korean); checked Oct 28, 2026.
+
+### By car
+
+Search **"Nami Island ticket office / ferry dock"** or the address **1024 Bukhangangbyeon-ro, Gapyeong-eup, Gapyeong-gun, Gyeonggi-do**. Parking costs ₩6,000 for a car for the first 12 hours (₩1,000 per extra hour), **card only**.
+
+## A simple day
+
+| When | What |
+|---|---|
+| Morning | ITX-Cheongchun from Yongsan to Gapyeong, then to the dock |
+| Late morning to afternoon | Ferry across and explore the island on foot |
+| Evening | Ferry back (last at 21:05), train to Seoul |
+
+Want an early start? A ticket bought and boarded before 08:00 costs ₩13,000 — and in autumn 2026 the first ferry leaves at 07:30.
+
+Source: [Nami Island — fees](https://www.namisum.com/276) and [ferry times](https://www.namisum.com/275) (Korean); checked Oct 28, 2026.
+
+## Before you go
+
+1. Head for the **ferry dock in Gapyeong**, not "Chuncheon."
+2. Check the **last ferry back** — 21:05 normally.
+3. Taking the shuttle bus? **Book ahead**; it leaves Hongdae at 09:00.
+4. Driving? Bring a **card** for parking.
+
+## FAQ
+
+### How much is the Nami Island ticket?
+
+₩19,000 for adults, including the return ferry. Middle and high school students and people 70 and over pay ₩16,000; children from 36 months to elementary school pay ₩13,000. Under-36-month-olds are free with a guardian on the regular ferry.
+
+### How do I get to Nami Island from Seoul?
+
+Take the ITX-Cheongchun train from Yongsan (about 60 minutes) or Cheongnyangni (about 42 minutes) to Gapyeong Station, then walk about 20 minutes or take bus 10-4 or a taxi (about 5 minutes) to the ferry dock. A direct shuttle bus also runs daily from Hongdae, Myeong-dong and Dongdaemun.
+
+### What time is the last ferry from Nami Island?
+
+Usually 21:05. During the 2026 autumn extension (Sep 18 – Nov 22), extra boats run until 21:30 on Fridays to Sundays and public holidays.
+
+### Is there a cheaper Nami Island ticket?
+
+Yes — early-bird tickets (bought and boarded before 08:00), or late tickets bought from 18:01 from December to March and from 18:31 from April to November, cost ₩13,000.
+
+### Is Nami Island open every day?
+
+Yes, the island says it's open 365 days a year.
+
+## Sources
+
+- Nami Island — Admission fees (Korean): https://www.namisum.com/276
+- Nami Island — Ferry times (Korean): https://www.namisum.com/275
+- Nami Island — Getting here (Korean): https://www.namisum.com/277
+
+---
+
+# Seoul Itinerary for 3, 4 or 5 Days: A First-Timer's Plan
+
+URL: https://realkoreatrip.com/seoul-itinerary-3-4-5-days/
+Last checked: 2026-10-29
+
+## Quick answer
+
+- 3 days: palaces and Bukchon (day 1), Myeong-dong and N Seoul Tower (day 2), a DMZ trip from Imjingak (day 3). 4 days: add Nami Island. 5 days: add a KTX day trip to Jeonju.
+- Plan around closing days: Gyeongbokgung usually closes on Tuesdays and Changdeokgung on Mondays, with holiday exceptions. The DMZ Peace Tour has its own closures: Mondays, weekday public holidays and the main day of Seollal and Chuseok.
+- Book two things ahead: the Secret Garden (Huwon) at Changdeokgung — online tickets open at 10:00 Korea time, 6 days before — and weekend KTX seats to Jeonju.
+
+**For a first trip, three days in Seoul covers the palaces and Bukchon, Myeong-dong with N Seoul Tower, and a DMZ trip; a fourth day adds Nami Island and a fifth a KTX trip to Jeonju.** The one thing to plan around is closing days: Gyeongbokgung usually closes on Tuesdays and Changdeokgung on Mondays (palace holiday rules can shift these), while the DMZ Peace Tour closes on Mondays and on weekday public holidays.
+
+Source: [Royal Palaces and Tombs Center](https://royal.khs.go.kr/ROYAL/contents/R702000000.do?schGroupCode=gbg) and [Paju City DMZ Peace Tour](https://tour.paju.go.kr/user/tour/place/BD_tourPlaceInfoView.do?menuCode=1&cntntsSn=374&q_gubunCode=1004) (Korean); checked Oct 28, 2026.
+
+Each stop links to our full guide with fares, hours and sources. Times below are suggestions, not fixed tours — move days around to fit the closing days.
+
+![Graphic: Seoul in 3 to 5 days — day 1 palaces and Bukchon, day 2 Myeong-dong and N Seoul Tower, day 3 DMZ, day 4 Nami Island, day 5 Jeonju; palaces usually closed Monday or Tuesday with holiday exceptions, DMZ tour closed Mondays and weekday holidays](/img/itinerary-steps.png?v=9e0662bd "The 3- to 5-day plan at a glance. Details and sources below.")
+
+## Check the closing days first
+
+| Place | Usually closed | Notes |
+|---|---|---|
+| [Gyeongbokgung](/gyeongbokgung-palace-guide/) | Tuesdays | Open if the Tuesday is a public or substitute holiday; closes the next non-holiday instead |
+| [Changdeokgung](/changdeokgung-huwon-guide/) | Mondays | Same holiday rule |
+| [DMZ Peace Tour](/dmz-tour-from-seoul/) | Mondays, weekday public holidays, main day of Seollal and Chuseok | Tickets 09:00–14:30 |
+| [N Seoul Tower](/n-seoul-tower-guide/) | Open every day | Observatory to 22:30 weekdays, 23:00 weekends and holidays |
+| [Nami Island](/nami-island-from-seoul/) | Open every day | Ferries 08:00–21:00 |
+
+Source: [Royal Palaces and Tombs Center](https://royal.khs.go.kr/ROYAL/contents/R702000000.do?schGroupCode=gbg), [Paju City](https://tour.paju.go.kr/user/tour/place/BD_tourPlaceInfoView.do?menuCode=1&cntntsSn=374&q_gubunCode=1004), [N Seoul Tower](https://www.nseoultower.co.kr/visit/use.asp) and [Nami Island](https://www.namisum.com/275) (Korean); checked Oct 28, 2026.
+
+**An easy order:** for the plan below, start on a **Wednesday, Thursday, Friday or Sunday** — day 1 (both palaces) then avoids Monday and Tuesday, and day 3 (the DMZ) avoids Monday. Starting on a **Saturday**? Swap days 2 and 3 so the DMZ falls on Sunday. Check [Korea's public holidays](/korea-public-holidays-2027/) too — the holiday rules move palace closing days.
+
+## Day 1: Palaces, Bukchon and a market dinner
+
+| Time | Plan |
+|---|---|
+| Morning | **[Gyeongbokgung](/gyeongbokgung-palace-guide/)** — the gate guard ceremony is at 10:00 (and 14:00), about 20 minutes. Foreign adults (19–64) normally pay ₩3,000; hanbok wearers enter free. **Oct 29 – Nov 15, 2026:** palace admission is free on opening days during the Korea Grand Festival (Changdeokgung's Secret Garden tour still needs its own ticket) |
+| Late morning | **[Bukchon Hanok Village](/bukchon-hanok-village-visiting-rules/)** — sightseeing on Bukchon-ro 11-gil is allowed only 10:00–17:00; keep your voice down |
+| Afternoon | **[Changdeokgung and the Secret Garden](/changdeokgung-huwon-guide/)** — the garden is a timed visit; book online 6 days ahead from 10:00 Korea time |
+| Evening | **Gwangjang Market** food street (open until 23:00) — see our [street food guide](/korean-street-food/) |
+
+Source: [Gyeongbokgung](/gyeongbokgung-palace-guide/), [Bukchon](/bukchon-hanok-village-visiting-rules/), [Changdeokgung](/changdeokgung-huwon-guide/) and [street food](/korean-street-food/) guides (each with official sources), and the [Royal Palaces notice of Sep 30, 2026](https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260930093346212667&schBcid=notice01) (Korean); checked Oct 29, 2026.
+
+Palace hours change by season — from November to February, Gyeongbokgung is open 09:00–17:00 with last entry at 16:00.
+
+Day 1 is a full day. If your Secret Garden time slot, meals or pace don't fit, move Changdeokgung to day 2 (not on a Monday).
+
+## Day 2: Myeong-dong and N Seoul Tower
+
+| Time | Plan |
+|---|---|
+| Morning | A slow start, or shopping — keep receipts for a [tax refund](/korea-tax-refund-guide/) |
+| Afternoon | Myeong-dong area; get [won or a card that works](/paying-in-korea-foreign-cards-cash/) before markets |
+| Late afternoon | Up Namsan by **cable car** from Myeong-dong (free shuttle from Myeong-dong Station) or **bus 01A/01B** (transit card only) |
+| Sunset and after | **[N Seoul Tower](/n-seoul-tower-guide/)** observatory (adults ₩29,000), then down by cable car (runs to 23:00) |
+| Dinner | [Korean BBQ](/korean-bbq-guide/) |
+
+Source: [N Seoul Tower](https://www.nseoultower.co.kr/visit/use2.asp) and [Namsan Cable Car](https://namsancablecar.com/usage.html) (Korean), via our [N Seoul Tower guide](/n-seoul-tower-guide/); checked Oct 28, 2026.
+
+## Day 3: The DMZ (not on a Monday)
+
+| Time | Plan |
+|---|---|
+| Early morning | Gyeongui–Jungang Line to Munsan (about 1 hour), then a taxi to Imjingak (about 13 min) |
+| Morning to early afternoon | **[DMZ Peace Tour](/dmz-tour-from-seoul/)** — Third Tunnel and Dora Observatory, about 3 hours; tickets sold 09:00–14:30 |
+| Evening | Back in Seoul |
+
+Source: [Paju City DMZ Peace Tour](https://tour.paju.go.kr/user/tour/place/BD_tourPlaceInfoView.do?menuCode=1&cntntsSn=374&q_gubunCode=1004) (Korean) and [KTO](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=247436), via our [DMZ guide](/dmz-tour-from-seoul/); checked Oct 28, 2026.
+
+Bring your **original passport**. Don't plan on a JSA (Panmunjeom) visit: the Ministry of Unification says it isn't running tours for foreign visitors. From Nov 23 to 30, 2026, only the Third Tunnel is open.
+
+## Day 4: Nami Island
+
+| Time | Plan |
+|---|---|
+| Morning | ITX-Cheongchun from Yongsan to Gapyeong (about 60 min), then walk 20 min or take bus 10-4 or a taxi to the dock |
+| Day | **[Nami Island](/nami-island-from-seoul/)** — ₩19,000 for adults including the return ferry |
+| Evening | Last regular ferry back at 21:05 (autumn 2026 has extra late boats — see the [Nami guide](/nami-island-from-seoul/)); train to Seoul |
+
+Source: [Nami Island](https://www.namisum.com/277) (Korean), via our [Nami Island guide](/nami-island-from-seoul/); checked Oct 28, 2026.
+
+Prefer not to change trains? A direct shuttle bus leaves Hongdae at 09:00 (book ahead).
+
+## Day 5: Jeonju by KTX
+
+| Time | Plan |
+|---|---|
+| Morning | KTX from Yongsan to Jeonju, about 1 hour 40 minutes — [how to book](/how-to-book-ktx-korea/) |
+| Day | **[Jeonju Hanok Village](/jeonju-day-trip-from-seoul/)** — free to enter |
+| Lunch | [What to eat in Jeonju](/what-to-eat-in-jeonju/) |
+| Evening | KTX back to Seoul |
+
+Source: our [Jeonju day trip guide](/jeonju-day-trip-from-seoul/) (Korail and Jeonju City sources); checked Oct 28, 2026.
+
+Jeonju's tourism office says weekend and holiday KTX seats sell out quickly, so book early.
+
+## Getting around
+
+- **Arriving:** [Incheon Airport to Seoul](/incheon-airport-to-seoul/) or [Gimpo Airport to Seoul](/gimpo-airport-to-seoul/).
+- **In the city:** the [subway](/seoul-subway-guide/) and [taxis](/taxis-in-korea/), with a [T-money card](/how-to-get-t-money-card-korea/) and [Naver Map](/how-to-use-naver-map-korea/).
+- **When to come:** see [the best time to visit Korea](/best-time-to-visit-korea/).
+
+## Before you go
+
+1. Match your days to the **closing days** (Mon: Changdeokgung, DMZ · Tue: Gyeongbokgung).
+2. Book the **Secret Garden** 6 days ahead at 10:00 Korea time.
+3. Pack your **passport** for the DMZ day.
+4. Book **KTX to Jeonju** early for weekends.
+5. Run through the [first-timer checklist](/korea-first-time-checklist/).
+
+## FAQ
+
+### How many days do you need in Seoul?
+
+Three days cover the main palaces, Bukchon, Namsan and one day trip such as the DMZ. With four or five days you can add Nami Island and Jeonju.
+
+### What should I not miss on a 3-day Seoul trip?
+
+Gyeongbokgung and Changdeokgung with Bukchon in between, the N Seoul Tower view at night, and a DMZ trip from Imjingak.
+
+### Which days are Seoul's palaces closed?
+
+Gyeongbokgung usually closes on Tuesdays and Changdeokgung on Mondays. If that day is a public or substitute holiday, the palace opens and closes on the next non-holiday instead.
+
+### Can I visit the DMZ on a Monday?
+
+No. Paju City's DMZ Peace Tour is closed on Mondays, weekday public holidays and the main day of Seollal and Chuseok.
+
+### Is Nami Island worth a day from Seoul?
+
+It makes an easy day trip: about an hour by ITX-Cheongchun to Gapyeong, a 5-minute ferry, and ferries until 21:00.
+
+## Sources
+
+- Royal Palaces and Tombs Center — Gyeongbokgung hours (Korean): https://royal.khs.go.kr/ROYAL/contents/R702000000.do?schGroupCode=gbg
+- Royal Palaces and Tombs Center — Changdeokgung hours (Korean): https://royal.khs.go.kr/ROYAL/contents/R702000000.do?schGroupCode=cdg
+- Seoul Metropolitan Government — Notice on restrictions for tourist visits to Bukchon: https://english.seoul.go.kr/notice-on-restrictions-for-tourist-visits-to-bukchon-special-management-area-effective-from-november-2024/
+- N Seoul Tower — Hours (Korean): https://www.nseoultower.co.kr/visit/use.asp
+- Paju City — DMZ Peace Tour (Korean): https://tour.paju.go.kr/user/tour/place/BD_tourPlaceInfoView.do?menuCode=1&cntntsSn=374&q_gubunCode=1004
+- Nami Island — Ferry times (Korean): https://www.namisum.com/275
+- Korea Tourism Organization — Gwangjang Market: https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=106345
+
+---
+
+# Seoul to Busan: KTX vs Express Bus vs Flight
+
+URL: https://realkoreatrip.com/seoul-to-busan-ktx-bus-flight/
+Last checked: 2026-10-29
+
+## Quick answer
+
+- KTX train: ₩54,400 for an adult in standard class from Seoul Station. Journey times depend on the train — check yours when you book; the Korea Tourism Organization puts the trip at about 3 hours.
+- Express bus: about 4 hours from Seoul Express Bus Terminal. Adult fares are ₩29,100 (Economy), ₩43,300 (Excellent) and ₩56,200 (Premium) after a 9% rise on October 1, 2026.
+- Flight: Gimpo to Gimhae is scheduled at about 65–75 minutes from departure to arrival, but add the trips to and from both airports and security. Fares vary by airline and date.
+
+**The KTX links the two city centers fastest: ₩54,400 for an adult in standard class, and about 3 hours according to the Korea Tourism Organization (times depend on the train).** The express bus is cheaper — ₩29,100 in Economy class (only a few evening departures), or ₩43,300 for the roomier Excellent class — but takes about 4 hours. A flight from Gimpo to Gimhae is scheduled at about 65–75 minutes, but both airports are outside the center.
+
+Source: [Korail](https://info.korail.com/info/selectBbsNttView.do?key=911&bbsNo=199&nttNo=22613) (Korean), [Kobus timetable](https://www.kobus.co.kr/oprninf/alcninqr/oprnAlcnPage.do) and [Korea Airports Corporation](https://www.airport.co.kr/gimhae/cms/frCon/index.do?MENU_ID=120) (Korean); checked Oct 29, 2026.
+
+![Graphic: Seoul to Busan compared — KTX ₩54,400 about 3 hours, express bus from ₩29,100 in about 4 hours, flight scheduled 65–75 minutes from Gimpo to Gimhae](/img/busanway-steps.png?v=dd073def "Seoul to Busan compared. Details and sources below.")
+
+## The short version
+
+| | KTX train | Express bus | Flight |
+|---|---|---|---|
+| From | Seoul Station (also Suseo) | Seoul Express Bus Terminal (Gyeongbu side) | Gimpo Airport |
+| To | Busan Station (Busan Metro Line 1) | Busan bus terminal in Nopo-dong, north Busan | Gimhae Airport, west of the city |
+| Time | About 3 h (KTO); depends on the train | About 4 h | About 65–75 min scheduled, departure to arrival |
+| Adult fare | ₩54,400 standard class (Seoul–Busan via Gyeongju) | ₩29,100 · ₩43,300 · ₩56,200 by class | Varies by airline and date |
+| Free luggage | — | 1 carry-on (10 kg or less) + 1 bag in the hold (under 30 kg) | Depends on airline and fare (see below) |
+
+Source: [Korail](https://info.korail.com/info/selectBbsNttView.do?bbsNo=199&integrDeptCode=&key=911&nttNo=27135&pageIndex=1&searchCnd=all&searchCtgry=&searchKrwd=) (Korean), [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=222586), [Kobus](https://www.kobus.co.kr/oprninf/alcninqr/oprnAlcnPage.do), [Kobus terms of carriage](https://www.kobus.co.kr/cmn/HspdBusStplAgrm.do) (Korean) and [Korea Airports Corporation](https://www.airport.co.kr/gimhae/cms/frCon/index.do?MENU_ID=120) (Korean); checked Oct 29, 2026.
+
+> **Our take:** Take the KTX unless saving money matters most — then take the Excellent-class bus. Flying may not save much time from central Seoul once you add the airport trips and security, but it can make sense if you're staying near Gimpo or heading to west Busan.
+
+## KTX: fastest from city center to city center
+
+- **Fare:** ₩54,400 for an adult in standard class from Seoul Station (via Gyeongju), or ₩52,900 from Suseo Station in southeast Seoul. Fares differ by route.
+- **Time:** it depends on the train and its stops, so check the journey time for your train when you book. The Korea Tourism Organization puts the trip at **about 3 hours**. In September 2024, Korail reported express services stopping only at Daejeon and Dongdaegu that took 2 hours 17 minutes — a past figure, not a check of today's timetable.
+- **Arrival:** Busan Station is in the city center, on Busan Metro Line 1.
+
+Source: [Korail — express KTX, Sep 2, 2024](https://info.korail.com/info/selectBbsNttView.do?key=911&bbsNo=199&nttNo=22613) and [KTX–SRT merger, Aug 5, 2026](https://info.korail.com/info/selectBbsNttView.do?bbsNo=199&integrDeptCode=&key=911&nttNo=27135&pageIndex=1&searchCnd=all&searchCtgry=&searchKrwd=) (Korean); [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=222586); checked Oct 29, 2026.
+
+How to book, when tickets go on sale and the Korail Pass are in our [KTX booking guide](/how-to-book-ktx-korea/).
+
+## Express bus: cheapest
+
+Buses to Busan leave from **Seoul Express Bus Terminal** (the Gyeongbu building, in Banpo-dong, Seocho-gu). For travel on Thursday, November 5, 2026 (we checked the timetable on October 29), there were **32 departures**, from 01:00 to midnight, each scheduled at **4 hours**.
+
+| Class | Adult | Child | Departures that day |
+|---|---|---|---|
+| Economy (일반) | ₩29,100 | ₩14,600 | 3 (evening only) |
+| Excellent (우등) — wider seats | ₩43,300 | ₩21,700 | 13 |
+| Premium (프리미엄) | ₩56,200 | ₩28,100 | 11 |
+| Late-night Excellent | ₩51,900 | ₩26,000 | 3 |
+| Late-night Premium | ₩67,400 | ₩33,700 | 2 |
+
+Source: [Kobus timetable](https://www.kobus.co.kr/oprninf/alcninqr/oprnAlcnPage.do), Seoul (Gyeongbu) to Busan, for Nov 5, 2026; checked Oct 29, 2026.
+
+- **Fares went up 9% on October 1, 2026.** Older blog posts show the old prices.
+- **Dong Seoul Terminal** (east Seoul) also has a few buses — 3 that day, Excellent class only, ₩43,500, about 4 hours 15 minutes.
+- **Arrival:** the Busan terminal is in Nopo-dong, Geumjeong-gu, in the north of the city — the Korea Tourism Organization calls it Busan Central Bus Terminal.
+- **Luggage:** the bus company's terms allow one carry-on item (10 kg or less, or under 40,000 cm³) and one item in the hold (under 30 kg, or under 40,000 cm³) per person for free. Dangerous or specially restricted items follow separate rules in the same terms.
+
+Source: [Kobus](https://www.kobus.co.kr/main.do) notices of Sep 22, 2026 (fares) and Feb 24, 2026 (payment), [terminal information](https://www.kobus.co.kr/ugd/trmlgd/Trmlgd.do) and [terms of carriage](https://www.kobus.co.kr/cmn/HspdBusStplAgrm.do) (Korean); checked Oct 29, 2026.
+
+### Booking the bus
+
+Kobus, the official express bus site, has an English version. Two things to know:
+
+- Since February 24, 2026, people booking on the website **without an account** can no longer type in a card number; the site lists only **Toss Pay or Naver Pay**, which are Korean payment apps.
+- Kobus's English page points visitors to **Klook** for booking in their own language.
+
+For using foreign cards and cash in Korea in general, see our [payment guide](/paying-in-korea-foreign-cards-cash/).
+
+## Flight: Gimpo to Gimhae
+
+- **Flight time:** the winter schedule (from October 25, 2026) shows about **65–75 minutes** between scheduled departure and arrival — not measured time in the air. First and last flights vary by date and weekday (the earliest listed departures are around 06:50–07:00, the latest around 20:10), so check the airport or airline schedule for your day. Airlines can change times.
+- **Bring your passport.** At the departure entrance, you show ID and your boarding pass; the airport lists a passport as accepted ID.
+- **Getting to Gimpo:** see our [Gimpo Airport guide](/gimpo-airport-to-seoul/) — the AREX and Lines 5 and 9 all stop there.
+- **From Gimhae into Busan:** the Busan-Gimhae Light Rail connects with Busan Metro Line 2 at Sasang (about 6 minutes) and Line 3 at Daejeo. Limousine buses run to Seomyeon (₩6,000) and Haeundae (₩9,500), **card only**.
+
+Source: [Korea Airports Corporation — Gimhae schedule](https://www.airport.co.kr/gimhae/cms/frCon/index.do?MENU_ID=120), [boarding guide](https://www.airport.co.kr/gimhae/cms/frCon/index.do?MENU_ID=130) and [transport](https://www.airport.co.kr/gimhae/cms/frCon/index.do?MENU_ID=170) (Korean); [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=222586); checked Oct 29, 2026.
+
+### Free checked baggage on domestic flights
+
+| Airline | Free checked bag (domestic economy) |
+|---|---|
+| Korean Air | 20 kg |
+| Air Busan | 15 kg on standard fares · none on the cheapest promotional fares |
+| Jeju Air | 15 kg (STANDARD) · none on BASIC fares |
+
+Source: [Korean Air](https://www.koreanair.com/contents/plan-your-travel/baggage/checked-baggage/free-baggage), [Air Busan](https://www.airbusan.com/content/common/service/baggage/free) (Korean) and [Jeju Air](https://www.jejuair.net/en/linkService/boardingProcessGuide/trustBaggage.do); checked Oct 29, 2026.
+
+## Which one should you take?
+
+| If you… | Take |
+|---|---|
+| Want the quickest trip from central Seoul to central Busan | KTX |
+| Want the lowest fare | Express bus in Economy class (evening departures only) |
+| Want a cheaper daytime trip with more room | Express bus in Excellent class |
+| Travel late at night | Late-night express bus (there are departures after 22:00) |
+| Are staying near Gimpo or going to west Busan | Flight |
+| Have big suitcases | KTX or bus — check your airline's baggage limit before flying |
+
+This table is our suggestion, based on the times and fares above.
+
+Once you're there, see our [Busan travel guide](/busan-travel-guide/).
+
+## FAQ
+
+### How long is the KTX from Seoul to Busan?
+
+About 3 hours, according to the Korea Tourism Organization, but it depends on the train — check your train's journey time when you book. (Korail reported 2 hours 17 minutes for express services in 2024; that's a past figure, not a current timetable.)
+
+### How much is the bus from Seoul to Busan?
+
+From Seoul Express Bus Terminal, an adult pays ₩29,100 (Economy), ₩43,300 (Excellent) or ₩56,200 (Premium), on Kobus's timetable after the 9% fare rise on October 1, 2026. The trip takes about 4 hours.
+
+### Is it faster to fly from Seoul to Busan?
+
+The scheduled time is short: about 65–75 minutes from departure at Gimpo to arrival at Gimhae. But both airports are outside the city centers and you need time for security, so compare the whole door-to-door trip with the KTX before you book.
+
+### Where does the bus from Seoul arrive in Busan?
+
+At the bus terminal in Nopo-dong, Geumjeong-gu, in the north of Busan, which the Korea Tourism Organization calls Busan Central Bus Terminal.
+
+### Can I take big luggage on the express bus?
+
+The bus terms allow one item in the hold (under 30 kg) and one carry-on (10 kg or less) per person for free.
+
+## Sources
+
+- Korail — Press release on express KTX, Sep 2, 2024 (Korean): https://info.korail.com/info/selectBbsNttView.do?key=911&bbsNo=199&nttNo=22613
+- Korail — Press release on the KTX–SRT merger and fares, Aug 5, 2026 (Korean): https://info.korail.com/info/selectBbsNttView.do?bbsNo=199&integrDeptCode=&key=911&nttNo=27135&pageIndex=1&searchCnd=all&searchCtgry=&searchKrwd=
+- Korea Tourism Organization — Getting to Busan: https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=222586
+- Kobus (express bus) — Timetable lookup: https://www.kobus.co.kr/oprninf/alcninqr/oprnAlcnPage.do
+- Kobus — Terminal information: https://www.kobus.co.kr/ugd/trmlgd/Trmlgd.do
+- Kobus — Express bus terms of carriage (Korean): https://www.kobus.co.kr/cmn/HspdBusStplAgrm.do
+- Korea Airports Corporation — Gimhae flight schedule (Korean): https://www.airport.co.kr/gimhae/cms/frCon/index.do?MENU_ID=120
+- Korea Airports Corporation — Gimhae boarding guide (Korean): https://www.airport.co.kr/gimhae/cms/frCon/index.do?MENU_ID=130
+- Korea Airports Corporation — Gimhae transport (Korean): https://www.airport.co.kr/gimhae/cms/frCon/index.do?MENU_ID=170
+- Korean Air — Free baggage: https://www.koreanair.com/contents/plan-your-travel/baggage/checked-baggage/free-baggage
+- Air Busan — Free baggage (Korean): https://www.airbusan.com/content/common/service/baggage/free
+- Jeju Air — Checked baggage: https://www.jejuair.net/en/linkService/boardingProcessGuide/trustBaggage.do
 
 ---
 
