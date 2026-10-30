@@ -4,6 +4,144 @@ Source site: https://realkoreatrip.com/ · Generated 2026-10-30
 
 ---
 
+# Bringing Medicine into Korea: Limits, Prescriptions and the Narcotics Permit
+
+URL: https://realkoreatrip.com/bringing-medicine-into-korea/
+Last checked: 2026-10-30
+
+## Quick answer
+
+- Ordinary medicine for your own use: up to 6 bottles or a 3-month supply, per the Korea Customs Service. Carry proof it's yours — a prescription, a doctor's letter or the pharmacy label — and keep it in its original packaging.
+- Medicines with narcotic or psychotropic ingredients (for example zolpidem, alprazolam, diazepam or Ritalin) need a permit from Korea's Ministry of Food and Drug Safety (MFDS) before you travel, whatever your nationality. You apply online; allow at least 10 working days.
+- Not sure? Check by active ingredient, not brand name, and ask MFDS or Korea Customs (call 125) before you fly. Undeclared or unapproved medicines can be held at the airport.
+
+**You can bring ordinary medicine into Korea for your own use — up to 6 bottles or a 3-month supply, according to the Korea Customs Service — but medicines with narcotic or psychotropic ingredients need a permit from the Ministry of Food and Drug Safety (MFDS) before you arrive, whatever your nationality.** Carry proof the medicine is yours: a prescription, a doctor's letter or the pharmacy label.
+
+Source: [Korea Customs Service guide via the Korean Embassy in Denmark](https://overseas.mofa.go.kr/dk-en/brd/m_7038/view.do?seq=761250&page=1) (Aug 2023) and [MFDS](https://www.mfds.go.kr/brd/m_74/view.do?seq=43906); checked Oct 28, 2026.
+
+This guide covers medicine only. For the rest of your packing and the arrival forms, see the [Korea first-timer checklist](/korea-first-time-checklist/). It isn't medical or legal advice — the rules go by active ingredient, so check your own medicines with the agencies below.
+
+![Graphic: Bringing medicine into Korea at a glance — up to 6 bottles or 3 months, carry proof, narcotic or psychotropic drugs need an MFDS permit, duty may apply over US$800, ask Customs 125](/img/medicine-steps.png?v=a555e812 "Bringing medicine into Korea at a glance. Details and sources below.")
+
+## The short version
+
+| Your medicine | What the rules say | What to do |
+|---|---|---|
+| Ordinary medicine for yourself | Up to **6 bottles or a 3-month supply** | Carry a prescription, doctor's letter or pharmacy label; keep the original packaging |
+| Health supplements ("health functional foods") | Up to **6 bottles** | Keep them in original containers |
+| Narcotic or psychotropic medicine (e.g. zolpidem, alprazolam, diazepam, lorazepam, Ritalin) | Not allowed **without an MFDS permit** | Apply online to MFDS before you travel |
+| Viagra or Cialis | Treated as medicines with misuse concerns | Customs clears only the quantity on a prescription from a Korean doctor |
+| More than the limits — or restricted ingredients, unclear labels | Needs a separate import-requirement check | Ask Korea Customs before you fly |
+
+Source: [Korea Customs Service guide](https://overseas.mofa.go.kr/dk-en/brd/m_7038/view.do?seq=761250&page=1) (Aug 2023); checked Oct 28, 2026.
+
+## 1. Ordinary medicine: 6 bottles or 3 months
+
+The Korea Customs Service guide says travelers can, in principle, bring medicine **for personal use, up to 6 bottles or a 3-month supply**. The Korean Embassy notice that shares the guide adds what to carry:
+
+- **Proof it's yours** — a prescription, a medical certificate or the pharmacy label on the package.
+- **Proof you bought it lawfully** — you may be asked for a receipt.
+- **The original packaging** — recommended, so officers can see what it is.
+
+Two things to watch:
+
+- **Value:** duty can be charged if your goods total more than **US$800**, even within the 6-bottle or 3-month limit. US$800 is also the general duty-free allowance listed by Incheon Airport.
+- **The limit isn't the whole story.** Korea Customs says medicine within the duty-free clearance scope is exempt from the separate import-requirement check, but medicine beyond that scope needs the check (a doctor's note listing the items can help for your own treatment). Some products need the check **even within the limit**: ones containing CITES-listed ingredients, products MFDS has banned or flagged as harmful, and packages without a clear ingredient label. If in doubt, ask Customs about your specific medicine.
+
+Source: [Korea Customs Service guide and embassy notice](https://overseas.mofa.go.kr/dk-en/brd/m_7038/view.do?seq=761250&page=1), [Incheon Customs — medicines and health supplements](https://customs.go.kr/incheon/cm/cntnts/cntntsView.do?cntntsId=5480&mi=10560) (Korean) and [Incheon Airport — customs](https://www.airport.kr/ap_en/1445/subview.do); checked Oct 29, 2026.
+
+## 2. Narcotic and psychotropic medicine: get the MFDS permit first
+
+Since October 23, 2009, anyone entering Korea with medicine that contains a **narcotic or psychotropic substance** for their own treatment must get MFDS approval first — **Korean or foreign, it doesn't matter**.
+
+The Customs guide names medicines that can't be brought in without following the legal procedure, including **zolpidem, alprazolam, diazepam, lorazepam and Ritalin**. "Narcotics, psychotropic drugs and related products" are also on Incheon Airport's list of prohibited items.
+
+Source: [MFDS notice](https://www.mfds.go.kr/brd/m_74/view.do?seq=43906), [Korea Customs Service guide](https://overseas.mofa.go.kr/dk-en/brd/m_7038/view.do?seq=761250&page=1) and [Incheon Airport](https://www.airport.kr/ap_en/1445/subview.do); checked Oct 28, 2026.
+
+**How to apply (online since December 27, 2024):**
+
+1. Go to **Drug Safety Korea** ([nedrug.mfds.go.kr/eng/index](https://nedrug.mfds.go.kr/eng/index)) and choose **"Permit To Bring In Narcotics For Self-treatment."**
+2. **Verify your email** and set a password — the site uses email login.
+3. Fill in your **name, passport number, nationality, dates in Korea and flight number**, then the **medicine, its active ingredient and your dose**.
+4. **Attach your documents:** a full-size copy of your passport and your flight reservation (plus proof of a long stay, if that applies). For the medical part, follow the form's options: normally a medical certificate or doctor's letter and a valid prescription. If your country's government issues an official export/import certificate for narcotic or psychotropic medicine, the manual says you can upload that instead of the medical letter and prescription.
+5. **Submit** and track the result in the same system.
+
+Source: [MFDS — online application user manual](https://www.mfds.go.kr/brd/m_74/view.do?seq=43906) (English attachment); checked Oct 28, 2026.
+
+**Allow at least 10 working days.** A Korean consulate's guide to the online permit says processing takes 10 working days, so you should apply at least 10 days before you arrive — and an application with missing documents, or one filed too late, may be returned. Apply earlier in case MFDS asks for more documents.
+
+Source: [Consulate General of Korea in Los Angeles — online permit guide](https://overseas.mofa.go.kr/us-honolulu-ko/brd/m_27261/view.do?seq=1344065) (Korean, Jun 2025); checked Oct 29, 2026.
+
+Questions go to the MFDS Narcotics Policy Division: **+82-43-719-2813** or **narcotics@korea.kr**. The permit comes from MFDS, not from Korean embassies.
+
+## 3. Viagra, Cialis and "health" products
+
+The Customs guide lists **Viagra and Cialis** as medicines with a high risk of misuse. For these, customs clears **only the quantity on a Korean doctor's prescription**. It also warns that fake sexual enhancers are strictly controlled.
+
+Traditional remedies need care too: products such as **bear bile powder** that aren't clearly labeled are refused entry under the Customs Act.
+
+Source: [Korea Customs Service guide](https://overseas.mofa.go.kr/dk-en/brd/m_7038/view.do?seq=761250&page=1); checked Oct 28, 2026.
+
+## 4. If customs holds your medicine
+
+- Held medicine is released only with confirming documents — the guide gives **a prescription from a Korean doctor** as the example.
+- You can ask to have held items returned (sent back abroad), following customs' return procedure.
+- The guide warns that held items can be **discarded after one month**. Ask the customs office holding your medicine which deadline applies to you.
+
+Source: [Korea Customs Service guide](https://overseas.mofa.go.kr/dk-en/brd/m_7038/view.do?seq=761250&page=1); checked Oct 28, 2026.
+
+## 5. Declaring at the airport
+
+If you have something to declare — for example medicine over the limits, or goods over US$800 — fill in the customs declaration form and use the **"Goods to Declare"** lane. Korea Customs says that if undeclared goods over the duty-free allowance are found, you pay an **additional tax of 40% of the tax due**. It rises to **60%** if, counting back two years from your entry date, you have **already been charged this surcharge at least twice** — in effect, from the third time. Medicine-related violations can carry separate penalties, so ask Korea Customs about your case.
+
+Source: [Korea Customs Service — traveller declarations](https://www2.customs.go.kr/kcs/cm/cntnts/cntntsView.do?cntntsId=829&mi=2837) (Korean), the [Enforcement Decree of the Customs Act, Article 247(4)](https://www.law.go.kr/LSW/lsSideInfoP.do?docCls=jo&joBrNo=00&joNo=0247&lsiSeq=283621&urlMode=lsScJoRltInfoR) (Korean) and [Incheon Airport — customs](https://www.airport.kr/ap_en/1445/subview.do); checked Oct 30, 2026.
+
+## Before you fly
+
+1. **List your medicines by active ingredient**, not brand name.
+2. Anything narcotic or psychotropic? **Apply for the MFDS permit** online — at least 10 working days before you arrive.
+3. Keep **6 bottles or 3 months' supply or less**, in the **original packaging**.
+4. Pack the **prescription or doctor's letter** in your carry-on, with the medicine.
+5. Unsure? Ask **Korea Customs** ([English Q&A](https://www.customs.go.kr/english/ad/engcnsl/selectEngCnslList.do?mi=8049), or call **125** in Korea, weekdays 09:00–18:00).
+
+If you need a doctor or pharmacy while you're in Korea, see [emergency help in Korea](/emergency-help-korea/).
+
+## FAQ
+
+### How much medicine can I bring into Korea?
+
+For ordinary medicine for your own use, up to 6 bottles or a 3-month supply, according to the Korea Customs Service. Duty can apply if your goods total more than US$800.
+
+### Do I need a prescription to bring medicine into Korea?
+
+You need to show the medicine is for your own use — a prescription, medical certificate or pharmacy label works. Narcotic or psychotropic medicine also needs an MFDS permit before you travel.
+
+### Can I bring zolpidem (Ambien) or Xanax to Korea?
+
+Zolpidem and alprazolam (the active ingredient in Xanax) are on the Customs guide's list of psychotropic drugs. You need an MFDS permit, applied for online before you travel.
+
+### Can I bring ADHD medication to Korea?
+
+Ritalin is on the Customs guide's psychotropic list, so it needs an MFDS permit. For other ADHD medicines, check the active ingredient with MFDS before you fly.
+
+### Who do I ask if I'm not sure?
+
+For narcotic or psychotropic medicine, the MFDS Narcotics Policy Division (+82-43-719-2813, narcotics@korea.kr). For everything else, Korea Customs (call 125 in Korea, or the English Q&A online).
+
+## Sources
+
+- Korea Customs Service — Customs clearance of medications, health functional foods and psychotropic drugs (guide shared by the Korean Embassy in Denmark, Aug 2023): https://overseas.mofa.go.kr/dk-en/brd/m_7038/view.do?seq=761250&page=1
+- Ministry of Food and Drug Safety — Permit to bring in narcotics for self-treatment (online since Dec 27, 2024): https://www.mfds.go.kr/brd/m_74/view.do?seq=43906
+- Ministry of Food and Drug Safety — Drug Safety Korea, English site (permit application): https://nedrug.mfds.go.kr/eng/index
+- Incheon International Airport — Customs: duty-free allowance and prohibited items: https://www.airport.kr/ap_en/1445/subview.do
+- Korea Customs Service — Traveller declarations and penalties (Korean): https://www2.customs.go.kr/kcs/cm/cntnts/cntntsView.do?cntntsId=829&mi=2837
+- Korean Law Information Center — Enforcement Decree of the Customs Act, Article 247 (Korean): https://www.law.go.kr/LSW/lsSideInfoP.do?docCls=jo&joBrNo=00&joNo=0247&lsiSeq=283621&urlMode=lsScJoRltInfoR
+- Korea Customs Service — English Q&A: https://www.customs.go.kr/english/ad/engcnsl/selectEngCnslList.do?mi=8049
+- Incheon Customs — Medicines and health supplements for personal use (Korean): https://customs.go.kr/incheon/cm/cntnts/cntntsView.do?cntntsId=5480&mi=10560
+- Consulate General of Korea in Los Angeles — Online permit for narcotic medicines (Korean, Jun 2025): https://overseas.mofa.go.kr/us-honolulu-ko/brd/m_27261/view.do?seq=1344065
+
+---
+
 # Korean Convenience Stores: Medicine, Alcohol Age, Tax Refunds and More
 
 URL: https://realkoreatrip.com/korea-convenience-store-guide/
