@@ -1,0 +1,15 @@
+# Cloudflare static assets: browser cache rules (2026-10-30)
+# /img/* is safe to cache for a year: every page links images as /img/x.png?v=<content hash>,
+# so a changed image gets a new URL. HTML keeps the default (always revalidate).
+/img/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Hero videos are linked without a version tag -> shorter cache
+/video/*
+  Cache-Control: public, max-age=604800
+
+/logo.png
+  Cache-Control: public, max-age=86400
+
+/og-default.png
+  Cache-Control: public, max-age=86400
