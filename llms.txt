@@ -28,6 +28,9 @@
 
 ## Destinations
 
+- [Andong Travel Guide: Hahoe Village, Confucian Academies and Jjimdak](https://realkoreatrip.com/andong-travel-guide/): A first-timer's guide to Andong — Hahoe Village (adults ₩5,000), the 14:00 mask dance show, Dosan and Byeongsan Seowon, KTX-Eum from Seoul and what to eat. (last checked 2026-10-30)
+- [Gangneung Travel Guide: Ojukheon, Beaches, Coffee and Chodang Tofu](https://realkoreatrip.com/gangneung-travel-guide/): A first-timer's guide to Gangneung — Ojukheon (adults ₩3,000, last entry 17:00), Seongyojang, Gyeongpo Beach, Anmok coffee street and Chodang sundubu tofu. (last checked 2026-10-30)
+- [Tongyeong Travel Guide: Cable Car, Island Ferries and Chungmu Gimbap](https://realkoreatrip.com/tongyeong-travel-guide/): A first-timer's guide to Tongyeong — the cable car up Mireuksan (adults ₩17,000 return), the ferry to Hansan-do, Sebyeonggwan Hall, Dongpirang and Chungmu gimbap. (last checked 2026-10-30)
 - [Lotte World and Seoul Sky: Tickets, Hours and Tips for One Day in Jamsil](https://realkoreatrip.com/lotte-world-seoul-sky-guide/): Lotte World tickets from ₩64,000 for adults (19+), Seoul Sky ₩33,000 (13+), plus Magic Pass, hours, the Sky Bridge and how to do both in a day. (last checked 2026-10-29)
 - [DMZ Tour from Seoul: Third Tunnel, Dora Observatory and the JSA](https://realkoreatrip.com/dmz-tour-from-seoul/): Visit the DMZ from Seoul on your own — the Third Tunnel tour from Imjingak (₩12,200), passport rules, Monday closing, getting there and the JSA status. (last checked 2026-10-29)
 - [N Seoul Tower Guide: Tickets, Hours, Cable Car and How to Get There](https://realkoreatrip.com/n-seoul-tower-guide/): N Seoul Tower tickets and hours — observatory ₩29,000 for adults, Namsan cable car ₩15,000 return, plus the free shuttle, buses 01A/01B and walking routes. (last checked 2026-10-29)
@@ -62,11 +65,14 @@ Each destination page lists only the guides about that place. Korea-wide guides 
 
 - [Seoul](https://realkoreatrip.com/region/seoul/): Lotte World and Seoul Sky; Gimpo Airport to Seoul; N Seoul Tower Guide; Seoul Itinerary for 3, 4 or 5 Days; Seoul to Busan; Bukchon Hanok Village Visiting Hours and Rules; Changdeokgung Palace and the Secret Garden (Huwon); Gyeongbokgung Palace Guide; Seoul Subway Guide for First-Timers; Incheon Airport to Seoul
 - [Gyeonggi-do](https://realkoreatrip.com/region/gyeonggi/): DMZ Tour from Seoul; Nami Island from Seoul
-- [Gangwon-do](https://realkoreatrip.com/region/gangwon/): Nami Island from Seoul
+- [Gangwon-do](https://realkoreatrip.com/region/gangwon/): Gangneung Travel Guide; Nami Island from Seoul
 - [Busan](https://realkoreatrip.com/region/busan/): Seoul to Busan; Busan Travel Guide
 - [Jeju](https://realkoreatrip.com/region/jeju/): Jeju Island Travel Guide
 - [Gyeongju](https://realkoreatrip.com/region/gyeongju/): Gyeongju Travel Guide
 - [Jeonju](https://realkoreatrip.com/region/jeonju/): Jeonju Day Trip from Seoul; What to Eat in Jeonju
+- [Andong](https://realkoreatrip.com/region/andong/): Andong Travel Guide
+- [Gangneung](https://realkoreatrip.com/region/gangneung/): Gangneung Travel Guide
+- [Tongyeong](https://realkoreatrip.com/region/tongyeong/): Tongyeong Travel Guide
 
 ## About
 
