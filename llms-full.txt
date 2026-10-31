@@ -1270,7 +1270,7 @@ Source: [Korea Customs Service — traveller declarations](https://www2.customs.
 4. Pack the **prescription or doctor's letter** in your carry-on, with the medicine.
 5. Unsure? Ask **Korea Customs** ([English Q&A](https://www.customs.go.kr/english/ad/engcnsl/selectEngCnslList.do?mi=8049), or call **125** in Korea, weekdays 09:00–18:00).
 
-If you need a doctor or pharmacy while you're in Korea, see [emergency help in Korea](/emergency-help-korea/).
+If you need a doctor or pharmacy while you're in Korea, see [emergency help in Korea](/emergency-help-korea/) and [pharmacies in Korea](/pharmacies-in-korea/).
 
 ## FAQ
 
@@ -1362,7 +1362,7 @@ The English names are only to help you recognize the Korean products; similar-lo
 
 Source: [Ministry of Health and Welfare](https://www.mohw.go.kr/menu.es?mid=a10702040200), last updated Mar 31, 2026; [Pharmaceutical Affairs Act, Article 44-2](https://www.law.go.kr/lsInfoP.do?lsiSeq=285341) and [Enforcement Rule, Article 28](https://www.law.go.kr/lsInfoP.do?lsiSeq=287367) (all Korean); checked Oct 29, 2026.
 
-Not every store stocks every product. For anything else — or if you're unsure what to take — go to a pharmacy. If it's urgent, see our [emergency help guide](/emergency-help-korea/).
+Not every store stocks every product. For anything else — or if you're unsure what to take — go to a pharmacy (see our [pharmacy guide](/pharmacies-in-korea/)). If it's urgent, see our [emergency help guide](/emergency-help-korea/).
 
 ## Alcohol and tobacco: the age rule
 
@@ -2271,7 +2271,7 @@ Source: [Royal Palaces and Tombs Center](https://royal.khs.go.kr/ROYAL/contents/
 | Morning | **[Gyeongbokgung](/gyeongbokgung-palace-guide/)** — the gate guard ceremony is at 10:00 (and 14:00), about 20 minutes. Foreign adults (19–64) normally pay ₩3,000; hanbok wearers enter free. **Oct 29 – Nov 15, 2026:** palace admission is free on opening days during the Korea Grand Festival (Changdeokgung's Secret Garden tour still needs its own ticket) |
 | Late morning | **[Bukchon Hanok Village](/bukchon-hanok-village-visiting-rules/)** — sightseeing on Bukchon-ro 11-gil is allowed only 10:00–17:00; keep your voice down |
 | Afternoon | **[Changdeokgung and the Secret Garden](/changdeokgung-huwon-guide/)** — the garden is a timed visit; book online 6 days ahead from 10:00 Korea time |
-| Evening | **Gwangjang Market** food street (open until 23:00) — see our [street food guide](/korean-street-food/) |
+| Evening | **Gwangjang Market** food street (open until 23:00) — see our [Gwangjang Market food guide](/gwangjang-market-food-guide/) and [street food guide](/korean-street-food/) |
 
 Source: [Gyeongbokgung](/gyeongbokgung-palace-guide/), [Bukchon](/bukchon-hanok-village-visiting-rules/), [Changdeokgung](/changdeokgung-huwon-guide/) and [street food](/korean-street-food/) guides (each with official sources), and the [Royal Palaces notice of Sep 30, 2026](https://royal.khs.go.kr/ROYAL/contents/R403000000.do?schM=view&id=20260930093346212667&schBcid=notice01) (Korean); checked Oct 29, 2026.
 
@@ -2286,7 +2286,7 @@ Day 1 is a full day. If your Secret Garden time slot, meals or pace don't fit, m
 | Time | Plan |
 |---|---|
 | Morning | A slow start, or shopping — keep receipts for a [tax refund](/korea-tax-refund-guide/) |
-| Afternoon | Myeong-dong area; get [won or a card that works](/paying-in-korea-foreign-cards-cash/) before markets |
+| Afternoon | [Myeong-dong](/myeongdong-guide/) area; get [won or a card that works](/paying-in-korea-foreign-cards-cash/) before markets |
 | Late afternoon | Up Namsan by **cable car** from Myeong-dong (free shuttle from Myeong-dong Station) or **bus 01A/01B** (transit card only) |
 | Sunset and after | **[N Seoul Tower](/n-seoul-tower-guide/)** observatory (adults ₩29,000), then down by cable car (runs to 23:00) |
 | Dinner | [Korean BBQ](/korean-bbq-guide/) |
@@ -2335,6 +2335,8 @@ Jeonju's tourism office says weekend and holiday KTX seats sell out quickly, so 
 - **Arriving:** [Incheon Airport to Seoul](/incheon-airport-to-seoul/) or [Gimpo Airport to Seoul](/gimpo-airport-to-seoul/).
 - **In the city:** the [subway](/seoul-subway-guide/) and [taxis](/taxis-in-korea/), with a [T-money card](/how-to-get-t-money-card-korea/) and [Naver Map](/how-to-use-naver-map-korea/).
 - **When to come:** see [the best time to visit Korea](/best-time-to-visit-korea/).
+- **More in Seoul:** [Noryangjin Fish Market](/noryangjin-fish-market-guide/), [Lotte World and Seoul Sky](/lotte-world-seoul-sky-guide/) and [how a jjimjilbang works](/jjimjilbang-guide-korea/).
+- **Beyond Seoul:** [Seoul to Busan by KTX, bus or plane](/seoul-to-busan-ktx-bus-flight/), [Gyeongju](/gyeongju-travel-guide/), [Andong](/andong-travel-guide/), [Gangneung](/gangneung-travel-guide/) and [Tongyeong](/tongyeong-travel-guide/).
 
 ## Before you go
 
@@ -3324,7 +3326,7 @@ Source: [Korea Tourism Organization — Bunsik & Street Food](https://english.vi
 
 The Korea Tourism Organization calls it Korea's first permanent market. The market's own notice gives the same hours; individual stalls may keep their own.
 
-Source: [Korea Tourism Organization — Gwangjang Market](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=106345) and [Gwangjang Market — opening hours notice](http://www.kwangjangmarket.co.kr/?p=1574) (Korean, 2017); checked Oct 26, 2026. Getting there: [Seoul subway guide](/seoul-subway-guide/).
+Source: [Korea Tourism Organization — Gwangjang Market](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=106345) and [Gwangjang Market — opening hours notice](http://www.kwangjangmarket.co.kr/?p=1574) (Korean, 2017); checked Oct 26, 2026. Getting there: [Seoul subway guide](/seoul-subway-guide/). More: our [Gwangjang Market food guide](/gwangjang-market-food-guide/) and [Myeongdong guide](/myeongdong-guide/).
 
 ## Ordering and paying
 
@@ -3467,7 +3469,7 @@ Source: [Korea Meteorological Administration](https://data.kma.go.kr/normals/tab
 | October average | 15.0°C | 17.9°C | 18.6°C |
 | Wettest month | July, 414.4 mm | July, 326.8 mm | August, 272.3 mm |
 
-Source: [Korea Meteorological Administration — climate normals](https://data.kma.go.kr/normals/table.do), 1991–2020, stations Seoul (108), Busan (159) and Jeju (184) (Korean); checked Oct 25, 2026. Trip ideas: [Busan](/busan-travel-guide/) and [Jeju](/jeju-travel-guide/).
+Source: [Korea Meteorological Administration — climate normals](https://data.kma.go.kr/normals/table.do), 1991–2020, stations Seoul (108), Busan (159) and Jeju (184) (Korean); checked Oct 25, 2026. Trip ideas: [Busan](/busan-travel-guide/), [Jeju](/jeju-travel-guide/), [Gyeongju](/gyeongju-travel-guide/), [Andong](/andong-travel-guide/), [Gangneung](/gangneung-travel-guide/) and [Tongyeong](/tongyeong-travel-guide/).
 
 ## Holidays: plan around Seollal and Chuseok
 
@@ -3614,7 +3616,7 @@ Source: [Korea Tourism Organization — emergency situations](https://english.vi
 3. Write down your embassy's phone number and your hotel's address in Korean.
 4. If you take regular medicine, note the hospital's international center for the city you'll be in.
 
-Source: [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145); checked Oct 25, 2026. More preparation: [Korea first-timer checklist](/korea-first-time-checklist/).
+Source: [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145); checked Oct 25, 2026. Buying medicine: [pharmacies in Korea](/pharmacies-in-korea/). More preparation: [Korea first-timer checklist](/korea-first-time-checklist/).
 
 ## FAQ
 
@@ -3876,7 +3878,7 @@ Source: [Seoul Metro — Subway etiquette](http://www.seoulmetro.co.kr/en/page.d
 4. On the subway, let people off first, keep your voice down and keep to the right in stations.
 5. Need help explaining something? The 1330 Korea Travel Helpline interprets daily from 07:00 to midnight Korea time.
 
-Source: [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140727), [Korea.net](https://www.korea.net/NewsFocus/Society/view?articleId=175173), [Seoul Metro](http://www.seoulmetro.co.kr/en/page.do?menuIdx=645) and our [emergency help guide](/emergency-help-korea/); checked Oct 25, 2026.
+Source: [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140727), [Korea.net](https://www.korea.net/NewsFocus/Society/view?articleId=175173), [Seoul Metro](http://www.seoulmetro.co.kr/en/page.do?menuIdx=645) and our [emergency help guide](/emergency-help-korea/); checked Oct 25, 2026. Bathhouse manners: our [jjimjilbang guide](/jjimjilbang-guide-korea/).
 
 ## FAQ
 
@@ -4161,7 +4163,7 @@ Source: [Visit Busan — Delicious Busan](https://visitbusan.net/index.do?lang_c
 | Card | T-money works on Busan's subway: see our [T-money guide](/how-to-get-t-money-card-korea/) |
 | Routes | Plan each trip in [Naver Map](/how-to-use-naver-map-korea/) |
 
-KTX fares differ by route, so check the fare of the train you pick when booking. Our [KTX booking guide](/how-to-book-ktx-korea/) shows how to buy tickets in English.
+KTX fares differ by route, so check the fare of the train you pick when booking. Our [KTX booking guide](/how-to-book-ktx-korea/) shows how to buy tickets in English, and our [Seoul to Busan comparison](/seoul-to-busan-ktx-bus-flight/) sets KTX, bus and plane side by side.
 
 Source: Korail's KTX fare table (as of Sep 1, 2026) and [Busan Transportation Corporation — fares](https://www.humetro.busan.kr/homepage/english/page/subLocation.do?menu_no=100601040101); checked Oct 23, 2026.
 
@@ -4515,6 +4517,7 @@ Source: [Korail — About KORAIL PASS](https://www.korail.com/global/eng/passeng
 3. Save your booking email and password.
 4. Check you'll have data on the day for the app or your ticket — see [eSIM vs SIM card vs pocket Wi-Fi](/esim-sim-card-pocket-wifi-korea/).
 5. Plan the trip to the station: [how to use Naver Map](/how-to-use-naver-map-korea/) and [how to get a T-money card](/how-to-get-t-money-card-korea/).
+6. Trip ideas by rail: [Seoul to Busan](/seoul-to-busan-ktx-bus-flight/), [Gyeongju](/gyeongju-travel-guide/), [Andong](/andong-travel-guide/) and [Gangneung](/gangneung-travel-guide/).
 
 ## FAQ
 
@@ -5093,7 +5096,7 @@ Source: [Korea Tourism Organization — disaster safety services](https://englis
 4. Pack an adapter for two-round-hole sockets; check your chargers' voltage.
 5. Check the quarantine rules before packing food (fresh fruit and vegetables are banned); declare food and cash over US$10,000.
 6. Sort phone data — [eSIM, SIM or pocket Wi-Fi](/esim-sim-card-pocket-wifi-korea/).
-7. Install [Naver Map](/how-to-use-naver-map-korea/).
+7. Install [Naver Map](/how-to-use-naver-map-korea/) and other [useful travel apps](/korea-travel-apps/).
 8. Bring a card that works abroad and plan for some won — [paying in Korea](/paying-in-korea-foreign-cards-cash/).
 9. Plan your [airport route](/incheon-airport-to-seoul/) and any [KTX trips](/how-to-book-ktx-korea/).
 10. Save 112, 119 and 1330 in your phone.
@@ -5245,7 +5248,7 @@ Source: [Korea Tourism Organization — comprehensive tax refund guide](https://
 5. At the airport, finish the refund kiosk and any customs inspection before your goods leave your hands.
 6. Take the goods out of Korea within 3 months of buying them.
 
-For the rest of your trip planning, see our [first-timer checklist](/korea-first-time-checklist/) and [paying in Korea](/paying-in-korea-foreign-cards-cash/).
+For the rest of your trip planning, see our [first-timer checklist](/korea-first-time-checklist/) and [paying in Korea](/paying-in-korea-foreign-cards-cash/). Shopping in Seoul: our [Myeongdong guide](/myeongdong-guide/).
 
 Source: [Korea Tourism Organization — comprehensive tax refund guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248765) and [Incheon International Airport — domestic tax refund](https://www.airport.kr/ap_en/1425/subview.do); checked Oct 23, 2026.
 
@@ -6090,7 +6093,7 @@ Source: [Naver Map App Store listing](https://apps.apple.com/us/app/naver-map-na
 1. **Install Naver Map** and set it to English.
 2. **Sign in to save your hotel** and first few stops — or keep their names and addresses in a note.
 3. **Plan how you'll get online** in Korea (eSIM, SIM card or Wi-Fi) so the app can load routes.
-4. **Read up on getting around:** [Incheon Airport to Seoul](/incheon-airport-to-seoul/) and [how to get a T-money card](/how-to-get-t-money-card-korea/).
+4. **Read up on getting around:** [Incheon Airport to Seoul](/incheon-airport-to-seoul/) and [how to get a T-money card](/how-to-get-t-money-card-korea/). Other apps worth installing: our [Korea travel apps guide](/korea-travel-apps/).
 
 ## FAQ
 
