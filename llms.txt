@@ -30,6 +30,7 @@
 
 - [Andong Travel Guide: Hahoe Village, Confucian Academies and Jjimdak](https://realkoreatrip.com/andong-travel-guide/): A first-timer's guide to Andong — Hahoe Village (adults ₩5,000), the 14:00 mask dance show, Dosan and Byeongsan Seowon, KTX-Eum from Seoul and what to eat. (last checked 2026-10-30)
 - [Gangneung Travel Guide: Ojukheon, Beaches, Coffee and Chodang Tofu](https://realkoreatrip.com/gangneung-travel-guide/): A first-timer's guide to Gangneung — Ojukheon (adults ₩3,000, last entry 17:00), Seongyojang, Gyeongpo Beach, Anmok coffee street and Chodang sundubu tofu. (last checked 2026-10-30)
+- [Myeongdong Guide: Shopping, Street Food Stalls and Myeongdong Cathedral](https://realkoreatrip.com/myeongdong-guide/): A first-timer's guide to Myeongdong — shopping streets, licensed street stalls and prices, Myeongdong Cathedral's 09:00 English Mass, and help in English. (last checked 2026-10-31)
 - [Tongyeong Travel Guide: Cable Car, Island Ferries and Chungmu Gimbap](https://realkoreatrip.com/tongyeong-travel-guide/): A first-timer's guide to Tongyeong — the cable car up Mireuksan (adults ₩17,000 return), the ferry to Hansan-do, Sebyeonggwan Hall, Dongpirang and Chungmu gimbap. (last checked 2026-10-30, updated 2026-10-31)
 - [Lotte World and Seoul Sky: Tickets, Hours and Tips for One Day in Jamsil](https://realkoreatrip.com/lotte-world-seoul-sky-guide/): Lotte World tickets from ₩64,000 for adults (19+), Seoul Sky ₩33,000 (13+), plus Magic Pass, hours, the Sky Bridge and how to do both in a day. (last checked 2026-10-29)
 - [DMZ Tour from Seoul: Third Tunnel, Dora Observatory and the JSA](https://realkoreatrip.com/dmz-tour-from-seoul/): Visit the DMZ from Seoul on your own — the Third Tunnel tour from Imjingak (₩12,200), passport rules, Monday closing, getting there and the JSA status. (last checked 2026-10-29, updated 2026-10-31)
@@ -45,12 +46,16 @@
 
 ## Food
 
+- [Gwangjang Market Food Guide: Hours, Dishes and How to Visit](https://realkoreatrip.com/gwangjang-market-food-guide/): Eating at Gwangjang Market in Seoul — food alley hours (09:00–23:00, open year-round), dishes to try, the gates to use and what Seoul announced on fair prices. (last checked 2026-10-31)
+- [Noryangjin Fish Market: How to Buy Seafood and Eat It Upstairs](https://realkoreatrip.com/noryangjin-fish-market-guide/): How Noryangjin Fish Market in Seoul works — buy seafood at a stall, eat it at a restaurant upstairs, check auction prices and how the 24-hour recall works. (last checked 2026-10-31)
 - [Korean BBQ for First-Timers: How to Grill, Wrap and Order](https://realkoreatrip.com/korean-bbq-guide/): How a Korean BBQ restaurant works — samgyeopsal, pork galbi and bulgogi explained, how to make a lettuce wrap, what to order to finish and how to call staff. (last checked 2026-10-26, updated 2026-10-31)
 - [Korean Street Food Guide: Tteokbokki, Gimbap, Fish Cakes and Winter Snacks](https://realkoreatrip.com/korean-street-food/): What to order at a Korean street stall or bunsik shop — tteokbokki, sundae, gimbap, fish cakes, winter hotteok and fish-shaped buns — and where to find them. (last checked 2026-10-26, updated 2026-10-31)
 - [What to Eat in Jeonju: Bibimbap, Bean Sprout Soup and Nambu Market](https://realkoreatrip.com/what-to-eat-in-jeonju/): Jeonju's signature dishes explained — Jeonju bibimbap, kongnamul gukbap with moju, pisundae and Nambu Market — based on Jeonju City's own food guides. (last checked 2026-10-23)
 
 ## Local Tips
 
+- [Jjimjilbang for First-Timers: Korean Spa Rules, Prices and Etiquette](https://realkoreatrip.com/jjimjilbang-guide-korea/): How a Korean jjimjilbang works — the locker key, separate baths, shared sauna rooms, time limits, example prices from ₩22,000 and the rules to know. (last checked 2026-10-31)
+- [Pharmacies in Korea: Buying Medicine as a Visitor](https://realkoreatrip.com/pharmacies-in-korea/): How Korean pharmacies (약국) work for visitors — what you can buy without a prescription, finding a pharmacy open late at night, and getting help in English. (last checked 2026-10-31)
 - [Korean Convenience Stores: Medicine, Alcohol Age, Tax Refunds and More](https://realkoreatrip.com/korea-convenience-store-guide/): What Korean convenience stores sell and do — 13 approved medicines, the alcohol age rule, instant tax refunds at CU, T-money, ATMs and parcels. (last checked 2026-10-29, updated 2026-10-31)
 - [10 Apps for Traveling in Korea: What Each One Does](https://realkoreatrip.com/korea-travel-apps/): The apps that make a Korea trip easier — Naver Map, Papago, KORAIL+, K-ETA, taxi apps that take foreign cards, a prepaid travel card and two official safety apps. (last checked 2026-10-25)
 - [Korean Etiquette for Travelers: Restaurants, Table Manners and the Subway](https://realkoreatrip.com/korean-etiquette/): The etiquette that matters on a Korea trip, from official sources — no tipping, free side-dish refills, table manners with elders, and Seoul Metro's subway rules. (last checked 2026-10-25, updated 2026-10-31)
@@ -63,7 +68,7 @@
 
 Each destination page lists only the guides about that place. Korea-wide guides (transport cards, payments, arrival rules) are listed above.
 
-- [Seoul](https://realkoreatrip.com/region/seoul/): Lotte World and Seoul Sky; Gimpo Airport to Seoul; N Seoul Tower Guide; Seoul Itinerary for 3, 4 or 5 Days; Seoul to Busan; Bukchon Hanok Village Visiting Hours and Rules; Changdeokgung Palace and the Secret Garden (Huwon); Gyeongbokgung Palace Guide; Seoul Subway Guide for First-Timers; Incheon Airport to Seoul
+- [Seoul](https://realkoreatrip.com/region/seoul/): Gwangjang Market Food Guide; Myeongdong Guide; Noryangjin Fish Market; Lotte World and Seoul Sky; Gimpo Airport to Seoul; N Seoul Tower Guide; Seoul Itinerary for 3, 4 or 5 Days; Seoul to Busan; Bukchon Hanok Village Visiting Hours and Rules; Changdeokgung Palace and the Secret Garden (Huwon); Gyeongbokgung Palace Guide; Seoul Subway Guide for First-Timers; Incheon Airport to Seoul
 - [Gyeonggi-do](https://realkoreatrip.com/region/gyeonggi/): DMZ Tour from Seoul; Nami Island from Seoul
 - [Gangwon-do](https://realkoreatrip.com/region/gangwon/): Gangneung Travel Guide; Nami Island from Seoul
 - [Busan](https://realkoreatrip.com/region/busan/): Seoul to Busan; Busan Travel Guide
